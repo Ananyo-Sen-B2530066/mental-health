@@ -1,0 +1,11 @@
+DV,Subgroup,Spearman_r,p,n
+Orthographic_ERR,C,0.2147,0.4247,16
+Orthographic_ERR,E,-0.035,0.8869,19
+Phonological_ERR,C,0.0576,0.8323,16
+Phonological_ERR,E,-0.1764,0.4699,19
+Selective_Attention,C,-0.4449,0.0842,16
+Selective_Attention,E,0.1917,0.4318,19
+Reading_Speed,C,-0.0625,0.8181,16
+Reading_Speed,E,-0.2755,0.2536,19
+Comprehension,C,-0.1579,0.5592,16
+Comprehension,E,0.0221,0.9283,19

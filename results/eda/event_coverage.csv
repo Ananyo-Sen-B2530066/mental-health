@@ -1,0 +1,5 @@
+StudyGroup,Intervention,n_tag_subjects,n_available_EEG,n_events_exported
+Reading,PRE,30,30,30
+Reading,POST,33,33,34
+Math,PRE,36,36,39
+Math,POST,33,33,36

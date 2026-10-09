@@ -1,0 +1,7 @@
+run,setname,filename,filepath,subject,group,condition,session,run_field,ref,comments,history,saved,datfile
+run-1,GDF file,sub-Rc01_ses-1_task-SmartickDataset_run-1_eeg.set,C:\Users\Juan Pablo\Desktop\Neuro materia\BIDS_smartick\sub-Rc01\ses-1\eeg,R_c_01,cont,basal,1,1,common,Original file: C:\Users\52477\Desktop\Doctorado\7mo Semestre\Registros EEG\S1\Raw\Baseline\GDF\Sub0002_B.gdf,"
+EEG.etc.eeglabvers = '2021.1'; % this tracks which version of EEGLAB is being used, you may ignore it
+EEG.etc.eeglabvers = '2025.0.0'; % this tracks which version of EEGLAB is being used, you may ignore it",yes,[]
+run-2,GDF file,sub-Rc01_ses-1_task-SmartickDataset_run-2_eeg.set,C:\Users\Juan Pablo\Desktop\Neuro materia\BIDS_smartick\sub-Rc01\ses-1\eeg,R_c_01,cont,act,1,1,common,Original file: C:\Users\52477\Desktop\Doctorado\7mo Semestre\Registros EEG\S1\Raw\Reading\2_CUARTO\GDF\Sub0002_R2.gdf,"
+EEG.etc.eeglabvers = '2021.1'; % this tracks which version of EEGLAB is being used, you may ignore it
+EEG.etc.eeglabvers = '2025.0.0'; % this tracks which version of EEGLAB is being used, you may ignore it",yes,[]

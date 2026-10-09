@@ -1,0 +1,3 @@
+run,nbchan,trials,pnts,srate,xmin_ms,xmax_ms,times0_ms,times_last_ms,duration_s,data_shape,data_dtype
+run-1,32,1,46080,256.0,0.0,179.99609375,0.0,179996.09375,179.99609375,"(32, 46080)",float32
+run-2,32,1,57439,256.0,0.0,224.3671875,0.0,224367.1875,224.3671875,"(32, 57439)",float32

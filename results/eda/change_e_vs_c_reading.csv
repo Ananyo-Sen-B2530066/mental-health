@@ -1,0 +1,6 @@
+DV,Direction,Mean_E,Mean_C,E_minus_C,Improvement_E,Improvement_C,Improv_E_minus_C,U,p,n_E,n_C
+Orthographic_ERR,lower_better,-1.7895,-1.0625,-0.727,1.7895,1.0625,0.727,144.5,0.8154,19,16
+Phonological_ERR,lower_better,-3.6316,-4.5625,0.9309,3.6316,4.5625,-0.9309,182.0,0.3268,19,16
+Selective_Attention,higher_better,10.4211,14.25,-3.8289,10.4211,14.25,-3.8289,125.0,0.3793,19,16
+Reading_Speed,higher_better,15.3158,17.3125,-1.9967,15.3158,17.3125,-1.9967,131.0,0.4969,19,16
+Comprehension,higher_better,1.7895,0.4375,1.352,1.7895,0.4375,1.352,187.0,0.2499,19,16

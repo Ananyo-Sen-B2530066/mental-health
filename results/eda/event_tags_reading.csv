@@ -1,0 +1,415 @@
+Order,Event,Subject,Intervention,Reading,Subgroup,Description,Question,StudyGroup
+1,condition 4,sub-Rc01,PRE,R2,C,Start reading,,Reading
+2,condition 4,sub-Rc01,PRE,R2,C,End reading,,Reading
+3,33028,sub-Rc01,PRE,R2,C,Answer 3,Question 1,Reading
+4,33027,sub-Rc01,PRE,R2,C,Answer 2,Question 3,Reading
+5,33026,sub-Rc01,PRE,R2,C,Answer 1,Question 2,Reading
+6,condition 4,sub-Rc01,PRE,R2,C,Irrelevant,,Reading
+7,condition 4,sub-Rc02,PRE,R3,C,Start reading,,Reading
+8,condition 4,sub-Rc02,PRE,R3,C,End reading,,Reading
+9,33028,sub-Rc02,PRE,R3,C,Answer 3,Unavailable,Reading
+10,33027,sub-Rc02,PRE,R3,C,Answer 2,Unavailable,Reading
+11,33026,sub-Rc02,PRE,R3,C,Answer 1,Unavailable,Reading
+12,condition 4,sub-Rc03,PRE,R3,C,Start reading,,Reading
+13,condition 4,sub-Rc03,PRE,R3,C,End reading,,Reading
+14,33027,sub-Rc03,PRE,R3,C,Answer 2,Question 1,Reading
+15,33028,sub-Rc03,PRE,R3,C,Answer 3,Question 2,Reading
+16,33026,sub-Rc03,PRE,R3,C,Answer 1,Question 3,Reading
+17,condition 2,sub-Rc04,PRE,R3,C,Start reading,,Reading
+18,condition 3,sub-Rc04,PRE,R3,C,Start reading,,Reading
+19,condition 2,sub-Rc04,PRE,R3,C,End reading,,Reading
+20,33027,sub-Rc04,PRE,R3,C,Answer 2,Question 2,Reading
+21,33027,sub-Rc04,PRE,R3,C,Answer 2,Question 1,Reading
+22,33027,sub-Rc04,PRE,R3,C,Answer 2,Question 3,Reading
+23,condition 3,sub-Rc06,PRE,R2,C,Start reading,,Reading
+24,condition 3,sub-Rc06,PRE,R2,C,End reading,,Reading
+25,33026,sub-Rc06,PRE,R2,C,Answer 1,Question 1,Reading
+26,33028,sub-Rc06,PRE,R2,C,Answer 3,Question 2,Reading
+27,33028,sub-Rc06,PRE,R2,C,Answer 3,Question 3,Reading
+28,condition 3,sub-Rc07,PRE,R1,C,Start reading,,Reading
+29,condition 3,sub-Rc07,PRE,R1,C,End reading,,Reading
+30,33027,sub-Rc07,PRE,R1,C,Answer 2,Question 1,Reading
+31,33026,sub-Rc07,PRE,R1,C,Answer 1,Question 2,Reading
+32,33027,sub-Rc07,PRE,R1,C,Answer 2,Question 3,Reading
+33,condition 3,sub-Rc08,PRE,R1,C,Start reading,,Reading
+34,condition 3,sub-Rc08,PRE,R1,C,End reading,,Reading
+35,33026,sub-Rc08,PRE,R1,C,Answer 1,Question 3,Reading
+36,33027,sub-Rc08,PRE,R1,C,Answer 2,Question 1,Reading
+37,33026,sub-Rc08,PRE,R1,C,Answer 1,Question 2,Reading
+38,condition 1,sub-Rc09,PRE,R1,C,Start reading,,Reading
+39,condition 1,sub-Rc09,PRE,R1,C,End reading,,Reading
+40,condition 4,sub-Rc10,PRE,R1,C,Start reading,,Reading
+41,condition 4,sub-Rc10,PRE,R1,C,End reading,,Reading
+42,33028,sub-Rc10,PRE,R1,C,Answer 3,Question 3,Reading
+43,33027,sub-Rc10,PRE,R1,C,Answer 2,Question 1,Reading
+44,33026,sub-Rc10,PRE,R1,C,Answer 1,Question 2,Reading
+45,condition 3,sub-Rc11,PRE,R2,C,Start reading,,Reading
+46,condition 3,sub-Rc11,PRE,R2,C,End reading,,Reading
+47,33026,sub-Rc11,PRE,R2,C,Answer 1,Question 1,Reading
+48,33026,sub-Rc11,PRE,R2,C,Answer 1,Question 2,Reading
+49,33028,sub-Rc11,PRE,R2,C,Answer 3,Question 3,Reading
+50,condition 3,sub-Rc12,PRE,R1,C,Start reading,,Reading
+51,condition 3,sub-Rc12,PRE,R1,C,End reading,,Reading
+52,33026,sub-Rc12,PRE,R1,C,Answer 1,Question 3,Reading
+53,33026,sub-Rc12,PRE,R1,C,Answer 1,Question 2,Reading
+54,33027,sub-Rc12,PRE,R1,C,Answer 2,Question 1,Reading
+55,condition 3,sub-Rc15,PRE,R1,C,Start reading,,Reading
+56,condition 3,sub-Rc15,PRE,R1,C,End reading,,Reading
+57,33027,sub-Rc15,PRE,R1,C,Answer 2,Unavailable,Reading
+58,33026,sub-Rc15,PRE,R1,C,Answer 1,Unavailable,Reading
+59,33027,sub-Rc15,PRE,R1,C,Answer 2,Unavailable,Reading
+60,condition 4,sub-Rc16,PRE,R3,C,Start reading,,Reading
+61,condition 4,sub-Rc16,PRE,R3,C,End reading,,Reading
+62,33028,sub-Rc16,PRE,R3,C,Answer 3,Question 2,Reading
+63,33026,sub-Rc16,PRE,R3,C,Answer 1,Question 3,Reading
+64,33027,sub-Rc16,PRE,R3,C,Answer 2,Question 1,Reading
+65,condition 4,sub-Re01,PRE,R3,E,Start reading,,Reading
+66,condition 4,sub-Re01,PRE,R3,E,End reading,,Reading
+67,33026,sub-Re01,PRE,R3,E,Answer 1,Question 3,Reading
+68,33028,sub-Re01,PRE,R3,E,Answer 3,Question 2,Reading
+69,33027,sub-Re01,PRE,R3,E,Answer 2,Question 1,Reading
+70,condition 4,sub-Re03,PRE,R2,E,Start reading,,Reading
+71,condition 4,sub-Re03,PRE,R2,E,End reading,,Reading
+72,33028,sub-Re03,PRE,R2,E,Answer 3,Question 1,Reading
+73,33026,sub-Re03,PRE,R2,E,Answer 1,Question 2,Reading
+74,33027,sub-Re03,PRE,R2,E,Answer 2,Question 3,Reading
+75,condition 4,sub-Re03,PRE,R2,E,Irrelevant,,Reading
+76,condition 3,sub-Re04,PRE,R2,E,Start reading,,Reading
+77,condition 3,sub-Re04,PRE,R2,E,Start reading,,Reading
+78,condition 4,sub-Re04,PRE,R2,E,End reading,,Reading
+79,33026,sub-Re04,PRE,R2,E,Answer 1,Question 2,Reading
+80,33028,sub-Re04,PRE,R2,E,Answer 3,Question 3,Reading
+81,condition 4,sub-Re05,PRE,R3,E,Start reading,,Reading
+82,condition 4,sub-Re05,PRE,R3,E,End reading,,Reading
+83,33026,sub-Re05,PRE,R3,E,Answer 1,Question 3,Reading
+84,33028,sub-Re05,PRE,R3,E,Answer 3,Question 2,Reading
+85,33027,sub-Re05,PRE,R3,E,Answer 2,Question 1,Reading
+86,condition 3,sub-Re07,PRE,R2,E,Start reading,,Reading
+87,condition 3,sub-Re07,PRE,R2,E,End reading,,Reading
+88,33028,sub-Re07,PRE,R2,E,Answer 3,Unavailable,Reading
+89,33026,sub-Re07,PRE,R2,E,Answer 1,Unavailable,Reading
+90,33028,sub-Re07,PRE,R2,E,Answer 3,Unavailable,Reading
+91,condition 4,sub-Re08,PRE,R1,E,Start reading,,Reading
+92,condition 4,sub-Re08,PRE,R1,E,End reading,,Reading
+93,33026,sub-Re08,PRE,R1,E,Answer 1,Question 2,Reading
+94,33028,sub-Re08,PRE,R1,E,Answer 3,Question 3,Reading
+95,33027,sub-Re08,PRE,R1,E,Answer 2,Question 1,Reading
+96,condition 3,sub-Re09,PRE,R2,E,Start reading,,Reading
+97,condition 3,sub-Re09,PRE,R2,E,End reading,,Reading
+98,33027,sub-Re09,PRE,R2,E,Answer 2,Question 2,Reading
+99,33028,sub-Re09,PRE,R2,E,Answer 3,Question 1,Reading
+100,33028,sub-Re09,PRE,R2,E,Answer 3,Question 3,Reading
+101,condition 4,sub-Re10,PRE,R3,E,Start reading,,Reading
+102,condition 4,sub-Re10,PRE,R3,E,End reading,,Reading
+103,33026,sub-Re10,PRE,R3,E,Answer 1,Question 2,Reading
+104,33027,sub-Re10,PRE,R3,E,Answer 2,Question 1,Reading
+105,33028,sub-Re10,PRE,R3,E,Answer 3,Question 3,Reading
+106,condition 4,sub-Re11,PRE,R3,E,Start reading,,Reading
+107,condition 4,sub-Re11,PRE,R3,E,End reading,,Reading
+108,33027,sub-Re11,PRE,R3,E,Answer 2,Question 1,Reading
+109,33028,sub-Re11,PRE,R3,E,Answer 3,Question 2,Reading
+110,33026,sub-Re11,PRE,R3,E,Answer 1,Question 3,Reading
+111,condition 4,sub-Re12,PRE,R1,E,Start reading,,Reading
+112,condition 4,sub-Re12,PRE,R1,E,End reading,,Reading
+113,33026,sub-Re12,PRE,R1,E,Answer 1,Question 2,Reading
+114,33027,sub-Re12,PRE,R1,E,Answer 2,Question 1,Reading
+115,33028,sub-Re12,PRE,R1,E,Answer 3,Question 3,Reading
+116,condition 3,sub-Re13,PRE,R1,E,Start reading,,Reading
+117,condition 3,sub-Re13,PRE,R1,E,End reading,,Reading
+118,33027,sub-Re13,PRE,R1,E,Answer 2,Question 3,Reading
+119,33027,sub-Re13,PRE,R1,E,Answer 2,Question 1,Reading
+120,33026,sub-Re13,PRE,R1,E,Answer 1,Question 2,Reading
+121,condition 3,sub-Re14,PRE,R1,E,Start reading,,Reading
+122,condition 3,sub-Re14,PRE,R1,E,End reading,,Reading
+123,33026,sub-Re14,PRE,R1,E,Answer 1,Question 2,Reading
+124,33027,sub-Re14,PRE,R1,E,Answer 2,Question 1,Reading
+125,33027,sub-Re14,PRE,R1,E,Answer 2,Question 3,Reading
+126,condition 3,sub-Re15,PRE,R1,E,Start reading,,Reading
+127,condition 3,sub-Re15,PRE,R1,E,End reading,,Reading
+128,33028,sub-Re15,PRE,R1,E,Answer 3,Question 1,Reading
+129,33028,sub-Re15,PRE,R1,E,Answer 3,Question 2,Reading
+130,33026,sub-Re15,PRE,R1,E,Answer 1,Question 3,Reading
+131,condition 3,sub-Re16,PRE,R1,E,Start reading,,Reading
+132,condition 3,sub-Re16,PRE,R1,E,End reading,,Reading
+133,33026,sub-Re16,PRE,R1,E,Answer 1,Question 2,Reading
+134,33026,sub-Re16,PRE,R1,E,Answer 1,Question 3,Reading
+135,33027,sub-Re16,PRE,R1,E,Answer 2,Question 1,Reading
+136,condition 3,sub-Re17,PRE,R1,E,Start reading,,Reading
+137,condition 3,sub-Re17,PRE,R1,E,End reading,,Reading
+138,33027,sub-Re17,PRE,R1,E,Answer 2,Question 1,Reading
+139,33027,sub-Re17,PRE,R1,E,Answer 2,Question 3,Reading
+140,33026,sub-Re17,PRE,R1,E,Answer 1,Question 2,Reading
+141,condition 4,sub-Re18,PRE,R3,E,Start reading,,Reading
+142,condition 4,sub-Re18,PRE,R3,E,End reading,,Reading
+143,33026,sub-Re18,PRE,R3,E,Answer 1,Question 1,Reading
+144,33027,sub-Re18,PRE,R3,E,Answer 2,Question 2,Reading
+145,33028,sub-Re18,PRE,R3,E,Answer 3,Question 3,Reading
+146,condition 3,sub-Re19,PRE,R2,E,Start reading,,Reading
+147,condition 3,sub-Re19,PRE,R2,E,End reading,,Reading
+148,33028,sub-Re19,PRE,R2,E,Answer 3,Question 1,Reading
+149,33026,sub-Re19,PRE,R2,E,Answer 1,Question 2,Reading
+150,33028,sub-Re19,PRE,R2,E,Answer 3,Question 3,Reading
+151,condition 1,sub-Rc01,POST,R2,C,Start reading,,Reading
+152,condition 1,sub-Rc01,POST,R2,C,End reading,,Reading
+153,33057,sub-Rc01,POST,R2,C,Question 1,,Reading
+154,33026,sub-Rc01,POST,R2,C,Answer 1,,Reading
+155,33058,sub-Rc01,POST,R2,C,Question 2,,Reading
+156,33028,sub-Rc01,POST,R2,C,Answer 3,,Reading
+157,33059,sub-Rc01,POST,R2,C,Question 3,,Reading
+158,33027,sub-Rc01,POST,R2,C,Answer 2,,Reading
+159,condition 1,sub-Rc02,POST,R2,C,Start reading,,Reading
+160,condition 1,sub-Rc02,POST,R2,C,End reading,,Reading
+161,33057,sub-Rc02,POST,R2,C,Question 1,,Reading
+162,33026,sub-Rc02,POST,R2,C,Answer 1,,Reading
+163,33059,sub-Rc02,POST,R2,C,Question 3,,Reading
+164,33028,sub-Rc02,POST,R2,C,Answer 3,,Reading
+165,33058,sub-Rc02,POST,R2,C,Question 2,,Reading
+166,33028,sub-Rc02,POST,R2,C,Answer 3,,Reading
+167,condition 1,sub-Rc03,POST,R2,C,Start reading,,Reading
+168,condition 1,sub-Rc03,POST,R2,C,End reading,,Reading
+169,33059,sub-Rc03,POST,R2,C,Question 3,,Reading
+170,33028,sub-Rc03,POST,R2,C,Answer 3,,Reading
+171,33057,sub-Rc03,POST,R2,C,Question 1,,Reading
+172,33026,sub-Rc03,POST,R2,C,Answer 1,,Reading
+173,33058,sub-Rc03,POST,R2,C,Question 2,,Reading
+174,33028,sub-Rc03,POST,R2,C,Answer 3,,Reading
+175,condition 1,sub-Rc04,POST,R1,C,Start reading,,Reading
+176,condition 1,sub-Rc04,POST,R1,C,End reading,,Reading
+177,33059,sub-Rc04,POST,R1,C,Question 3,,Reading
+178,33027,sub-Rc04,POST,R1,C,Answer 2,,Reading
+179,33058,sub-Rc04,POST,R1,C,Question 2,,Reading
+180,33026,sub-Rc04,POST,R1,C,Answer 1,,Reading
+181,33057,sub-Rc04,POST,R1,C,Question 1,,Reading
+182,33027,sub-Rc04,POST,R1,C,Answer 2,,Reading
+183,condition 1,sub-Rc05,POST,R1,C,Start reading,,Reading
+184,condition 1,sub-Rc05,POST,R1,C,End reading,,Reading
+185,33058,sub-Rc05,POST,R1,C,Question 2,,Reading
+186,33027,sub-Rc05,POST,R1,C,Answer 2,,Reading
+187,33059,sub-Rc05,POST,R1,C,Question 3,,Reading
+188,33027,sub-Rc05,POST,R1,C,Answer 2,,Reading
+189,33057,sub-Rc05,POST,R1,C,Question 1,,Reading
+190,33026,sub-Rc05,POST,R1,C,Answer 1,,Reading
+191,condition 1,sub-Rc06,POST,R1,C,Start reading,,Reading
+192,condition 1,sub-Rc06,POST,R1,C,End reading,,Reading
+193,33058,sub-Rc06,POST,R1,C,Question 2,,Reading
+194,33026,sub-Rc06,POST,R1,C,Answer 1,,Reading
+195,33057,sub-Rc06,POST,R1,C,Question 1,,Reading
+196,33027,sub-Rc06,POST,R1,C,Answer 2,,Reading
+197,33059,sub-Rc06,POST,R1,C,Question 3,,Reading
+198,33027,sub-Rc06,POST,R1,C,Answer 2,,Reading
+199,condition 1,sub-Rc07,POST,R2,C,Start reading,,Reading
+200,condition 1,sub-Rc07,POST,R2,C,End reading,,Reading
+201,33058,sub-Rc07,POST,R2,C,Question 2,,Reading
+202,33026,sub-Rc07,POST,R2,C,Answer 1,,Reading
+203,33059,sub-Rc07,POST,R2,C,Question 3,,Reading
+204,33027,sub-Rc07,POST,R2,C,Answer 2,,Reading
+205,33057,sub-Rc07,POST,R2,C,Question 1,,Reading
+206,33026,sub-Rc07,POST,R2,C,Answer 1,,Reading
+207,condition 1,sub-Rc08,POST,R3,C,Start reading,,Reading
+208,condition 1,sub-Rc08,POST,R3,C,End reading,,Reading
+209,33057,sub-Rc08,POST,R3,C,Question 1,,Reading
+210,33028,sub-Rc08,POST,R3,C,Answer 3,,Reading
+211,33058,sub-Rc08,POST,R3,C,Question 2,,Reading
+212,33026,sub-Rc08,POST,R3,C,Answer 1,,Reading
+213,33059,sub-Rc08,POST,R3,C,Question 3,,Reading
+214,33028,sub-Rc08,POST,R3,C,Answer 3,,Reading
+215,condition 1,sub-Rc09,POST,R1,C,Start reading,,Reading
+216,condition 1,sub-Rc09,POST,R1,C,End reading,,Reading
+217,33059,sub-Rc09,POST,R1,C,Question 3,,Reading
+218,33027,sub-Rc09,POST,R1,C,Answer 2,,Reading
+219,33058,sub-Rc09,POST,R1,C,Question 2,,Reading
+220,33027,sub-Rc09,POST,R1,C,Answer 2,,Reading
+221,33057,sub-Rc09,POST,R1,C,Question 1,,Reading
+222,33027,sub-Rc09,POST,R1,C,Answer 2,,Reading
+223,condition 1,sub-Rc10,POST,R3,C,Start reading,,Reading
+224,condition 1,sub-Rc10,POST,R3,C,End reading,,Reading
+225,33058,sub-Rc10,POST,R3,C,Question 2,,Reading
+226,33026,sub-Rc10,POST,R3,C,Answer 1,,Reading
+227,33059,sub-Rc10,POST,R3,C,Question 3,,Reading
+228,33028,sub-Rc10,POST,R3,C,Answer 3,,Reading
+229,33057,sub-Rc10,POST,R3,C,Question 1,,Reading
+230,33027,sub-Rc10,POST,R3,C,Answer 2,,Reading
+231,condition 1,sub-Rc11,POST,R2,C,Start reading,,Reading
+232,condition 1,sub-Rc11,POST,R2,C,End reading,,Reading
+233,33059,sub-Rc11,POST,R2,C,Question 3,,Reading
+234,33028,sub-Rc11,POST,R2,C,Answer 3,,Reading
+235,33058,sub-Rc11,POST,R2,C,Question 2,,Reading
+236,33028,sub-Rc11,POST,R2,C,Answer 3,,Reading
+237,33057,sub-Rc11,POST,R2,C,Question 1,,Reading
+238,33026,sub-Rc11,POST,R2,C,Answer 1,,Reading
+239,condition 1,sub-Rc12,POST,R3,C,Start reading,,Reading
+240,condition 1,sub-Rc12,POST,R3,C,End reading,,Reading
+241,33058,sub-Rc12,POST,R3,C,Question 2,,Reading
+242,33026,sub-Rc12,POST,R3,C,Answer 1,,Reading
+243,33057,sub-Rc12,POST,R3,C,Question 1,,Reading
+244,33026,sub-Rc12,POST,R3,C,Answer 1,,Reading
+245,33059,sub-Rc12,POST,R3,C,Question 3,,Reading
+246,33028,sub-Rc12,POST,R3,C,Answer 3,,Reading
+247,condition 1,sub-Rc13,POST,R3,C,Start reading,,Reading
+248,condition 1,sub-Rc13,POST,R3,C,End reading,,Reading
+249,33059,sub-Rc13,POST,R3,C,Question 3,,Reading
+250,33027,sub-Rc13,POST,R3,C,Answer 2,,Reading
+251,33057,sub-Rc13,POST,R3,C,Question 1,,Reading
+252,33027,sub-Rc13,POST,R3,C,Answer 2,,Reading
+253,33058,sub-Rc13,POST,R3,C,Question 2,,Reading
+254,33026,sub-Rc13,POST,R3,C,Answer 1,,Reading
+255,condition 1,sub-Rc14,POST,R3,C,Start reading,,Reading
+256,condition 1,sub-Rc14,POST,R3,C,End reading,,Reading
+257,33059,sub-Rc14,POST,R3,C,Question 3,,Reading
+258,33026,sub-Rc14,POST,R3,C,Answer 1,,Reading
+259,33057,sub-Rc14,POST,R3,C,Question 1,,Reading
+260,33026,sub-Rc14,POST,R3,C,Answer 1,,Reading
+261,33058,sub-Rc14,POST,R3,C,Question 2,,Reading
+262,33028,sub-Rc14,POST,R3,C,Answer 3,,Reading
+263,condition 1,sub-Rc15,POST,R1,C,Start reading,,Reading
+264,condition 1,sub-Rc15,POST,R1,C,End reading,,Reading
+265,33059,sub-Rc15,POST,R1,C,Question 3,,Reading
+266,33027,sub-Rc15,POST,R1,C,Answer 2,,Reading
+267,33057,sub-Rc15,POST,R1,C,Question 1,,Reading
+268,33026,sub-Rc15,POST,R1,C,Answer 1,,Reading
+269,33058,sub-Rc15,POST,R1,C,Question 2,,Reading
+270,33026,sub-Rc15,POST,R1,C,Answer 1,,Reading
+271,condition 1,sub-Rc16,POST,R2,C,Start reading,,Reading
+272,condition 1,sub-Rc16,POST,R2,C,End reading,,Reading
+273,33057,sub-Rc16,POST,R2,C,Question 1,,Reading
+274,33026,sub-Rc16,POST,R2,C,Answer 1,,Reading
+275,33058,sub-Rc16,POST,R2,C,Question 2,,Reading
+276,33028,sub-Rc16,POST,R2,C,Answer 3,,Reading
+277,33059,sub-Rc16,POST,R2,C,Question 3,,Reading
+278,33028,sub-Rc16,POST,R2,C,Answer 3,,Reading
+279,condition 1,sub-Re01,POST,R2,E,Start reading,,Reading
+280,condition 1,sub-Re01,POST,R2,E,End reading,,Reading
+281,33059,sub-Re01,POST,R2,E,Question 3,,Reading
+282,33028,sub-Re01,POST,R2,E,Answer 3,,Reading
+283,33057,sub-Re01,POST,R2,E,Question 1,,Reading
+284,33026,sub-Re01,POST,R2,E,Answer 1,,Reading
+285,33058,sub-Re01,POST,R2,E,Question 2,,Reading
+286,33028,sub-Re01,POST,R2,E,Answer 3,,Reading
+287,condition 1,sub-Re03,POST,R1,E,Start reading,,Reading
+288,condition 1,sub-Re03,POST,R1,E,End reading,,Reading
+289,33058,sub-Re03,POST,R1,E,Question 2,,Reading
+290,33027,sub-Re03,POST,R1,E,Answer 2,,Reading
+291,33057,sub-Re03,POST,R1,E,Question 1,,Reading
+292,33027,sub-Re03,POST,R1,E,Answer 2,,Reading
+293,33059,sub-Re03,POST,R1,E,Question 3,,Reading
+294,33028,sub-Re03,POST,R1,E,Answer 3,,Reading
+295,condition 1,sub-Re04,POST,R2,E,Start reading,,Reading
+296,condition 1,sub-Re04,POST,R2,E,End reading,,Reading
+297,33058,sub-Re04,POST,R2,E,Question 2,,Reading
+298,33028,sub-Re04,POST,R2,E,Answer 3,,Reading
+299,33059,sub-Re04,POST,R2,E,Question 3,,Reading
+300,33027,sub-Re04,POST,R2,E,Answer 2,,Reading
+301,33057,sub-Re04,POST,R2,E,Question 1,,Reading
+302,33026,sub-Re04,POST,R2,E,Answer 1,,Reading
+303,condition 1,sub-Re05,POST,R1,E,Start reading,,Reading
+304,condition 1,sub-Re05,POST,R1,E,End reading,,Reading
+305,33057,sub-Re05,POST,R1,E,Question 1,,Reading
+306,33027,sub-Re05,POST,R1,E,Answer 2,,Reading
+307,33058,sub-Re05,POST,R1,E,Question 2,,Reading
+308,33028,sub-Re05,POST,R1,E,Answer 3,,Reading
+309,33059,sub-Re05,POST,R1,E,Question 3,,Reading
+310,33026,sub-Re05,POST,R1,E,Answer 1,,Reading
+311,condition 1,sub-Re06,POST,R3,E,Start reading,,Reading
+312,condition 1,sub-Re06,POST,R3,E,End reading,,Reading
+313,33057,sub-Re06,POST,R3,E,Question 1,,Reading
+314,33026,sub-Re06,POST,R3,E,Answer 1,,Reading
+315,33058,sub-Re06,POST,R3,E,Question 2,,Reading
+316,33026,sub-Re06,POST,R3,E,Answer 1,,Reading
+317,33059,sub-Re06,POST,R3,E,Question 3,,Reading
+318,33026,sub-Re06,POST,R3,E,Answer 1,,Reading
+319,condition 1,sub-Re07,POST,R3,E,Start reading,,Reading
+320,condition 1,sub-Re07,POST,R3,E,End reading,,Reading
+321,33057,sub-Re07,POST,R3,E,Question 1,,Reading
+322,33026,sub-Re07,POST,R3,E,Answer 1,,Reading
+323,33058,sub-Re07,POST,R3,E,Question 2,,Reading
+324,33026,sub-Re07,POST,R3,E,Answer 1,,Reading
+325,33059,sub-Re07,POST,R3,E,Question 3,,Reading
+326,33028,sub-Re07,POST,R3,E,Answer 3,,Reading
+327,condition 1,sub-Re08,POST,R3,E,Start reading,,Reading
+328,condition 1,sub-Re08,POST,R3,E,End reading,,Reading
+329,33058,sub-Re08,POST,R3,E,Question 2,,Reading
+330,33026,sub-Re08,POST,R3,E,Answer 1,,Reading
+331,33057,sub-Re08,POST,R3,E,Question 1,,Reading
+332,33026,sub-Re08,POST,R3,E,Answer 1,,Reading
+333,33059,sub-Re08,POST,R3,E,Question 3,,Reading
+334,33028,sub-Re08,POST,R3,E,Answer 3,,Reading
+335,condition 1,sub-Re09,POST,R3,E,Start reading,,Reading
+336,condition 1,sub-Re09,POST,R3,E,End reading,,Reading
+337,33059,sub-Re09,POST,R3,E,Question 3,,Reading
+338,33028,sub-Re09,POST,R3,E,Answer 3,,Reading
+339,33057,sub-Re09,POST,R3,E,Question 1,,Reading
+340,33027,sub-Re09,POST,R3,E,Answer 2,,Reading
+341,33058,sub-Re09,POST,R3,E,Question 2,,Reading
+342,33026,sub-Re09,POST,R3,E,Answer 1,,Reading
+343,condition 1,sub-Re10,POST,R1,E,Start reading,,Reading
+344,condition 1,sub-Re10,POST,R1,E,End reading,,Reading
+345,33058,sub-Re10,POST,R1,E,Question 2,,Reading
+346,33027,sub-Re10,POST,R1,E,Answer 2,,Reading
+347,33059,sub-Re10,POST,R1,E,Question 3,,Reading
+348,33026,sub-Re10,POST,R1,E,Answer 1,,Reading
+349,33057,sub-Re10,POST,R1,E,Question 1,,Reading
+350,33026,sub-Re10,POST,R1,E,Answer 1,,Reading
+351,condition 1,sub-Re11,POST,R1,E,Start reading,,Reading
+352,condition 1,sub-Re11,POST,R1,E,End reading,,Reading
+353,33057,sub-Re11,POST,R1,E,Question 1,,Reading
+354,33027,sub-Re11,POST,R1,E,Answer 2,,Reading
+355,33058,sub-Re11,POST,R1,E,Question 2,,Reading
+356,33026,sub-Re11,POST,R1,E,Answer 1,,Reading
+357,33059,sub-Re11,POST,R1,E,Question 3,,Reading
+358,33026,sub-Re11,POST,R1,E,Answer 1,,Reading
+359,condition 1,sub-Re12,POST,R2,E,Start reading,,Reading
+360,condition 1,sub-Re12,POST,R2,E,End reading,,Reading
+361,33057,sub-Re12,POST,R2,E,Question 1,,Reading
+362,33026,sub-Re12,POST,R2,E,Answer 1,,Reading
+363,33058,sub-Re12,POST,R2,E,Question 2,,Reading
+364,33028,sub-Re12,POST,R2,E,Answer 3,,Reading
+365,33059,sub-Re12,POST,R2,E,Question 3,,Reading
+366,33027,sub-Re12,POST,R2,E,Answer 2,,Reading
+367,condition 1,sub-Re13,POST,R3,E,Start reading,,Reading
+368,condition 1,sub-Re13,POST,R3,E,End reading,,Reading
+369,33057,sub-Re13,POST,R3,E,Question 1,,Reading
+370,33027,sub-Re13,POST,R3,E,Answer 2,,Reading
+371,33059,sub-Re13,POST,R3,E,Question 3,,Reading
+372,33028,sub-Re13,POST,R3,E,Answer 3,,Reading
+373,33058,sub-Re13,POST,R3,E,Question 2,,Reading
+374,33026,sub-Re13,POST,R3,E,Answer 1,,Reading
+375,condition 1,sub-Re14,POST,R1,E,Start reading,,Reading
+376,condition 1,sub-Re14,POST,R1,E,End reading,,Reading
+377,33057,sub-Re14,POST,R1,E,Question 1,,Reading
+378,33027,sub-Re14,POST,R1,E,Answer 2,,Reading
+379,33059,sub-Re14,POST,R1,E,Question 3,,Reading
+380,33027,sub-Re14,POST,R1,E,Answer 2,,Reading
+381,33058,sub-Re14,POST,R1,E,Question 2,,Reading
+382,33026,sub-Re14,POST,R1,E,Answer 1,,Reading
+383,condition 1,sub-Re15,POST,R3,E,Start reading,,Reading
+384,condition 1,sub-Re15,POST,R3,E,End reading,,Reading
+385,33059,sub-Re15,POST,R3,E,Question 3,,Reading
+386,33027,sub-Re15,POST,R3,E,Answer 2,,Reading
+387,33057,sub-Re15,POST,R3,E,Question 1,,Reading
+388,33028,sub-Re15,POST,R3,E,Answer 3,,Reading
+389,33058,sub-Re15,POST,R3,E,Question 2,,Reading
+390,33026,sub-Re15,POST,R3,E,Answer 1,,Reading
+391,condition 1,sub-Re17,POST,R1,E,Start reading,,Reading
+392,condition 1,sub-Re17,POST,R1,E,End reading,,Reading
+393,33058,sub-Re17,POST,R1,E,Question 2,,Reading
+394,33027,sub-Re17,POST,R1,E,Answer 2,,Reading
+395,33057,sub-Re17,POST,R1,E,Question 1,,Reading
+396,33026,sub-Re17,POST,R1,E,Answer 1,,Reading
+397,33059,sub-Re17,POST,R1,E,Question 3,,Reading
+398,33027,sub-Re17,POST,R1,E,Answer 2,,Reading
+399,condition 1,sub-Re18,POST,R1,E,Start reading,,Reading
+400,condition 1,sub-Re18,POST,R1,E,End reading,,Reading
+401,33059,sub-Re18,POST,R1,E,Question 3,,Reading
+402,33027,sub-Re18,POST,R1,E,Answer 2,,Reading
+403,33058,sub-Re18,POST,R1,E,Question 2,,Reading
+404,33026,sub-Re18,POST,R1,E,Answer 1,,Reading
+405,33057,sub-Re18,POST,R1,E,Question 1,,Reading
+406,33027,sub-Re18,POST,R1,E,Answer 2,,Reading
+407,condition 1,sub-Re19,POST,R1,E,Start reading,,Reading
+408,condition 1,sub-Re19,POST,R1,E,End reading,,Reading
+409,33057,sub-Re19,POST,R1,E,Question 1,,Reading
+410,33027,sub-Re19,POST,R1,E,Answer 2,,Reading
+411,33059,sub-Re19,POST,R1,E,Question 3,,Reading
+412,33027,sub-Re19,POST,R1,E,Answer 2,,Reading
+413,33058,sub-Re19,POST,R1,E,Question 2,,Reading
+414,33026,sub-Re19,POST,R1,E,Answer 1,,Reading

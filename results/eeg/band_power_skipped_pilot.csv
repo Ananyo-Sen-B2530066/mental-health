@@ -1,0 +1,2 @@
+subject,session,run,condition,clean_frac,reason
+Mc01,ses-1,1,basal,0.0,too few clean segments

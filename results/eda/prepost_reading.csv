@@ -1,0 +1,11 @@
+Group,Variable,Mean_PRE,Mean_POST,Mean_Change,W,p,n
+E,Orthographic_ERR,9.1053,7.3158,-1.7895,6.5,0.0062,19
+E,Phonological_ERR,6.6842,3.0526,-3.6316,18.0,0.0096,19
+E,Selective_Attention,91.9474,102.3684,10.4211,14.0,0.0011,19
+E,Reading_Speed,69.7368,85.0526,15.3158,1.0,0.0002,19
+E,Comprehension,12.0,13.7895,1.7895,22.0,0.0303,19
+C,Orthographic_ERR,7.625,6.5625,-1.0625,34.5,0.146,16
+C,Phonological_ERR,7.8125,3.25,-4.5625,1.5,0.0013,16
+C,Selective_Attention,94.3125,108.5625,14.25,4.0,0.0015,16
+C,Reading_Speed,69.0,86.3125,17.3125,10.5,0.0029,16
+C,Comprehension,13.25,13.6875,0.4375,37.5,0.5748,16

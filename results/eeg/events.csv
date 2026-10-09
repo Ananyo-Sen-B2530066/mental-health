@@ -1,0 +1,7 @@
+run,type,latency,duration,edftype,urevent
+run-2,condition 4,256,1,4,1
+run-2,condition 4,33604,1,4,2
+run-2,33028,42279,1,[],3
+run-2,33027,52580,1,[],4
+run-2,33026,56406,1,[],5
+run-2,condition 4,57182,1,4,6

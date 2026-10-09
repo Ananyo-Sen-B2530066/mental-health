@@ -1,0 +1,11 @@
+DV,Subgroup,Mean_F,Mean_M,U,p,n_F,n_M
+Orthographic_ERR,C,-2.6667,-0.1,19.0,0.2523,6,10
+Orthographic_ERR,E,-1.8,-1.7778,44.5,1.0,10,9
+Phonological_ERR,C,-4.6667,-4.5,27.0,0.7853,6,10
+Phonological_ERR,E,-5.6,-1.4444,28.0,0.1764,10,9
+Selective_Attention,C,11.6667,15.8,24.0,0.5502,6,10
+Selective_Attention,E,7.4,13.7778,35.0,0.4357,10,9
+Reading_Speed,C,14.3333,19.1,31.0,0.9578,6,10
+Reading_Speed,E,19.3,10.8889,58.0,0.3068,10,9
+Comprehension,C,0.3333,0.5,28.0,0.8694,6,10
+Comprehension,E,1.7,1.8889,45.5,1.0,10,9

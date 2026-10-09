@@ -1,0 +1,5 @@
+DV,Direction,Mean_E,Mean_C,E_minus_C,Improvement_E,Improvement_C,Improv_E_minus_C,U,p,n_E,n_C
+WRAT4,higher_better,6.7368,7.9545,-1.2177,6.7368,7.9545,-1.2177,205.0,0.927,19,22
+hits,higher_better,3.0263,4.6591,-1.6328,3.0263,4.6591,-1.6328,181.0,0.4693,19,22
+RT,lower_better,-2.3596,-1.4578,-0.9018,2.3596,1.4578,0.9018,190.0,0.6286,19,22
+Selective_Attention,higher_better,15.0,8.5909,6.4091,15.0,8.5909,6.4091,287.5,0.0412,19,22
