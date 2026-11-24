@@ -1,0 +1,5 @@
+task,group,blocks,all_160_rows,all_32_channels,all_5_bands,all_160_unique_channel_band_pairs,missing_absolute_power,missing_relative_power,duplicate_keys,relative_percent_sum_ok,all_qc_pass
+Math,Control,90,True,True,True,True,0,0,0,True,True
+Math,Experiment,114,True,True,True,True,0,0,0,True,True
+Reading,Control,48,True,True,True,True,0,0,0,True,True
+Reading,Experiment,68,True,True,True,True,0,0,0,True,True

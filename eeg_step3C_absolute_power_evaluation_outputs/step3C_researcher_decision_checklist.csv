@@ -1,0 +1,9 @@
+decision_item,decision_or_notes
+Are extreme values concentrated in specific participants or channels?,
+Do flagged observations occur disproportionately in one group/session/task/condition/band/ROI?,
+Are raw-power PRE–POST changes materially different from log-power changes?,
+Does removing flagged rows materially alter the direction or magnitude of descriptive change?,
+"Are any flagged observations supported by independent EEG quality evidence (e.g., bad channel/artifact annotations)?",
+Are there enough matched pairs after sensitivity removal for planned analyses?,
+Chosen primary metric and transform (to be decided after evidence review),
+Exclusion policy (to be decided; no automatic exclusions),

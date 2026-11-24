@@ -1,0 +1,1001 @@
+task,group,condition,band,roi,metric,sensitivity,paired_n,mean_change,median_change,sd_change
+Math,Control,Activity1,alpha,Central,absolute,all observations,15,-825469.5297222773,-29732.2245452531,2193240.103883148
+Math,Control,Activity1,alpha,Frontal,absolute,all observations,15,-874687.9973092842,-34659.57837199091,2404719.9910812825
+Math,Control,Activity1,alpha,Occipital,absolute,all observations,15,-7329441.064965877,-596666.2681854647,29522706.33009658
+Math,Control,Activity1,alpha,Parietal,absolute,all observations,15,-4552866.1757867085,-345142.92311445926,21588237.796432626
+Math,Control,Activity1,alpha,Temporal,absolute,all observations,15,-5149773.549657027,-638409.8200383008,19236781.180296235
+Math,Control,Activity1,beta,Central,absolute,all observations,15,-976225.1771954048,-36251.815739932834,2621597.972051533
+Math,Control,Activity1,beta,Frontal,absolute,all observations,15,-1062026.4772192978,-41659.22282613927,2940319.93309159
+Math,Control,Activity1,beta,Occipital,absolute,all observations,15,-4906891.894396452,-3.098689834610391,29834611.847868707
+Math,Control,Activity1,beta,Parietal,absolute,all observations,15,-3910333.0457651475,-468114.84740500094,21939896.239411686
+Math,Control,Activity1,beta,Temporal,absolute,all observations,15,-7035940.318277595,-876944.2684297137,19561803.365166694
+Math,Control,Activity1,delta,Central,absolute,all observations,15,-12825126.633772273,-15448.103667239944,31418373.571136206
+Math,Control,Activity1,delta,Frontal,absolute,all observations,15,-13178521.02117988,-451298.1781235128,34790417.859053314
+Math,Control,Activity1,delta,Occipital,absolute,all observations,15,-209574532.3963473,-81016663.6384952,693978596.1504366
+Math,Control,Activity1,delta,Parietal,absolute,all observations,15,-108832813.91309704,-12370958.445791762,401414149.25997216
+Math,Control,Activity1,delta,Temporal,absolute,all observations,15,-52644392.39823309,5.30720674647597,354744696.3522016
+Math,Control,Activity1,gamma,Central,absolute,all observations,15,-300070.57923313987,-11870.190984554623,840350.8221188616
+Math,Control,Activity1,gamma,Frontal,absolute,all observations,15,-325724.0147111157,-13254.774949144572,930205.9315166494
+Math,Control,Activity1,gamma,Occipital,absolute,all observations,15,-631817.3344365091,61572.72343161813,8558393.918776646
+Math,Control,Activity1,gamma,Parietal,absolute,all observations,15,-676929.3288753887,-131041.72638294939,5395215.870343138
+Math,Control,Activity1,gamma,Temporal,absolute,all observations,15,-2141393.0515144067,-379593.3623125483,5212924.380252316
+Math,Control,Activity1,theta,Central,absolute,all observations,15,-1768149.5373504204,-57551.20440953539,4736640.152466688
+Math,Control,Activity1,theta,Frontal,absolute,all observations,15,-1888823.4807178436,-68973.21776537219,5273181.540189434
+Math,Control,Activity1,theta,Occipital,absolute,all observations,15,-24854910.862022597,-6496885.29288857,78793601.87695651
+Math,Control,Activity1,theta,Parietal,absolute,all observations,15,-13802201.049007455,-1657398.6125124465,56287955.78499873
+Math,Control,Activity1,theta,Temporal,absolute,all observations,15,-10371695.290999396,-1493260.8639841268,47339340.1585678
+Math,Control,Activity2,alpha,Central,absolute,all observations,15,181578.63021490074,76.63472629456977,690412.0757442564
+Math,Control,Activity2,alpha,Frontal,absolute,all observations,15,220593.3434614223,141.2326354692824,815792.4634264944
+Math,Control,Activity2,alpha,Occipital,absolute,all observations,15,6651213.19592346,-471220.9812878249,129806310.50235008
+Math,Control,Activity2,alpha,Parietal,absolute,all observations,15,7474113.129104,-5825.878415224059,31476554.97250058
+Math,Control,Activity2,alpha,Temporal,absolute,all observations,15,7896233.327339066,40213.085025178545,28601766.06213855
+Math,Control,Activity2,beta,Central,absolute,all observations,15,-39327.67721767381,148.394694856542,1042084.1357457878
+Math,Control,Activity2,beta,Frontal,absolute,all observations,15,-32200.62402294205,157.36952408973303,1144780.4149202518
+Math,Control,Activity2,beta,Occipital,absolute,all observations,15,5864862.110857787,-17.93230225256425,150195465.48933268
+Math,Control,Activity2,beta,Parietal,absolute,all observations,15,7631890.144860872,-882.1305155342488,35623169.86899111
+Math,Control,Activity2,beta,Temporal,absolute,all observations,15,7839605.919099233,5451.098131776872,33371165.457514875
+Math,Control,Activity2,delta,Central,absolute,all observations,15,2324469.0019424325,1459.7846564985111,12152837.744846173
+Math,Control,Activity2,delta,Frontal,absolute,all observations,15,3135363.256156025,8965.432193345767,14512343.573254993
+Math,Control,Activity2,delta,Occipital,absolute,all observations,15,-29727771.33696609,-35071679.518885925,1550254627.633279
+Math,Control,Activity2,delta,Parietal,absolute,all observations,15,73531994.1372876,9060.434890525908,383453412.7502536
+Math,Control,Activity2,delta,Temporal,absolute,all observations,15,116078984.22729787,334981.38932550384,417524154.7703718
+Math,Control,Activity2,gamma,Central,absolute,all observations,15,-6273.102696376646,31.719332962435267,228687.45344483145
+Math,Control,Activity2,gamma,Frontal,absolute,all observations,15,-918.2735486611812,35.21546483704131,232408.93433365767
+Math,Control,Activity2,gamma,Occipital,absolute,all observations,15,508490.0352585914,-3.6795880062544137,39687733.6345257
+Math,Control,Activity2,gamma,Parietal,absolute,all observations,15,1642491.989795606,-3842.938538872814,8623243.89052802
+Math,Control,Activity2,gamma,Temporal,absolute,all observations,15,2008385.720211028,1692.434764742151,9218642.045943633
+Math,Control,Activity2,theta,Central,absolute,all observations,15,416951.2797065725,234.44723573909266,1513422.3716058536
+Math,Control,Activity2,theta,Frontal,absolute,all observations,15,507433.906480185,253.4236923189328,1813307.3564092307
+Math,Control,Activity2,theta,Occipital,absolute,all observations,15,7443501.811973463,-2265402.2384582777,254163525.67980707
+Math,Control,Activity2,theta,Parietal,absolute,all observations,15,13956089.452385833,19.4757802908789,62612237.92552412
+Math,Control,Activity2,theta,Temporal,absolute,all observations,15,16559583.991782816,40748.73968232092,58008233.40693478
+Math,Control,Baseline,alpha,Central,absolute,all observations,15,-946415.2133165194,-0.015833625259176642,2734698.405771202
+Math,Control,Baseline,alpha,Frontal,absolute,all observations,15,-926047.2305251441,-0.0030842907417464316,3124551.806872951
+Math,Control,Baseline,alpha,Occipital,absolute,all observations,15,-20821663.21510903,9.46830292243419,80486277.22489566
+Math,Control,Baseline,alpha,Parietal,absolute,all observations,15,-9311706.803112594,-0.9039992702073434,28509620.024019856
+Math,Control,Baseline,alpha,Temporal,absolute,all observations,15,-4188063.954341031,-1087.3344528073358,20727242.171591558
+Math,Control,Baseline,beta,Central,absolute,all observations,15,-807097.6010252795,-0.0005089152162618404,2189018.5188125963
+Math,Control,Baseline,beta,Frontal,absolute,all observations,15,-752164.1021230003,-0.0028994471919228104,2419824.724736016
+Math,Control,Baseline,beta,Occipital,absolute,all observations,15,-20316418.334942184,351.8001417056363,86380109.12333295
+Math,Control,Baseline,beta,Parietal,absolute,all observations,15,-9256871.024351958,11.616199704523751,30571863.89019714
+Math,Control,Baseline,beta,Temporal,absolute,all observations,15,-6597022.941055758,-2537.8394819632995,21187157.37126489
+Math,Control,Baseline,delta,Central,absolute,all observations,15,-16714572.802735394,-0.07211354877622522,47959083.711296014
+Math,Control,Baseline,delta,Frontal,absolute,all observations,15,-16632094.093454357,389.4020555189235,55160165.6712298
+Math,Control,Baseline,delta,Occipital,absolute,all observations,15,-626178919.0427467,-39.996633697862336,2216592093.197308
+Math,Control,Baseline,delta,Parietal,absolute,all observations,15,-242742808.57700184,-619.6414881962913,783827083.603512
+Math,Control,Baseline,delta,Temporal,absolute,all observations,15,-70617685.33546309,4746.473344444763,339977629.12662446
+Math,Control,Baseline,gamma,Central,absolute,all observations,15,-191274.23234364402,0.0454167965587855,502865.0637142731
+Math,Control,Baseline,gamma,Frontal,absolute,all observations,15,-175644.39790605725,-1.978951103201533,546533.377924786
+Math,Control,Baseline,gamma,Occipital,absolute,all observations,15,-4311460.888771415,595.2883348345224,19658572.05748426
+Math,Control,Baseline,gamma,Parietal,absolute,all observations,15,-2202414.8040303877,-36.58305925691761,6996460.224091186
+Math,Control,Baseline,gamma,Temporal,absolute,all observations,15,-2216513.0665888633,-555.3144151816696,6028534.903601973
+Math,Control,Baseline,theta,Central,absolute,all observations,15,-2893383.181917029,0.011446188165457394,8955096.900589429
+Math,Control,Baseline,theta,Frontal,absolute,all observations,15,-2926574.3730063452,20.675037025581915,10339216.086076846
+Math,Control,Baseline,theta,Occipital,absolute,all observations,15,-53532958.72744436,-8.670698868218489,194178263.7570423
+Math,Control,Baseline,theta,Parietal,absolute,all observations,15,-22050472.322070442,-28.539573736715283,68379114.33650371
+Math,Control,Baseline,theta,Temporal,absolute,all observations,15,-9413427.228563074,-26.146765179622044,45794596.92842551
+Math,Experiment,Activity1,alpha,Central,absolute,all observations,19,681496.4819720648,676.2715055163402,2804622.524785903
+Math,Experiment,Activity1,alpha,Frontal,absolute,all observations,19,776268.8476094377,458.08751812348885,3258443.254020233
+Math,Experiment,Activity1,alpha,Occipital,absolute,all observations,19,2742711.9540563165,-3895976.6280684057,63853263.54183513
+Math,Experiment,Activity1,alpha,Parietal,absolute,all observations,19,3028087.221091833,2190.3625378772067,17423373.523745775
+Math,Experiment,Activity1,alpha,Temporal,absolute,all observations,19,7371248.229735643,90966.16139632,20665165.34219009
+Math,Experiment,Activity1,beta,Central,absolute,all observations,19,475317.23115194944,-32.59436003111161,2160367.8091052943
+Math,Experiment,Activity1,beta,Frontal,absolute,all observations,19,533042.2097226919,-104.07893429799617,2527425.351827671
+Math,Experiment,Activity1,beta,Occipital,absolute,all observations,19,2018497.737786571,-6504109.912184601,75798857.04142438
+Math,Experiment,Activity1,beta,Parietal,absolute,all observations,19,3170037.6455356465,719.4064626451888,19611437.33965319
+Math,Experiment,Activity1,beta,Temporal,absolute,all observations,19,7333739.876094382,69.92718431268578,23172985.21388176
+Math,Experiment,Activity1,delta,Central,absolute,all observations,19,25528699.630152255,91492.5368329411,108944687.59950459
+Math,Experiment,Activity1,delta,Frontal,absolute,all observations,19,29245051.383381724,86738.56804469979,125148536.06584439
+Math,Experiment,Activity1,delta,Occipital,absolute,all observations,19,70195152.37214859,-48054722.837479584,1042830991.7159061
+Math,Experiment,Activity1,delta,Parietal,absolute,all observations,19,67915317.57884184,-2884.9915500933494,293561922.731558
+Math,Experiment,Activity1,delta,Temporal,absolute,all observations,19,138842115.94378975,1737938.529190615,351104410.48731947
+Math,Experiment,Activity1,gamma,Central,absolute,all observations,19,25970.643250613135,-1107.966816721778,508320.99234088475
+Math,Experiment,Activity1,gamma,Frontal,absolute,all observations,19,12852.205582745282,-1455.276195135378,586451.3302962546
+Math,Experiment,Activity1,gamma,Occipital,absolute,all observations,19,-463727.2991934548,-1434856.5044267012,22030666.096812725
+Math,Experiment,Activity1,gamma,Parietal,absolute,all observations,19,532699.9804219372,30.2127971430005,5017582.984873776
+Math,Experiment,Activity1,gamma,Temporal,absolute,all observations,19,1912046.0529559553,-1471.101745484591,6451835.16917724
+Math,Experiment,Activity1,theta,Central,absolute,all observations,19,2575986.818025919,5079.065379828513,10797519.383124134
+Math,Experiment,Activity1,theta,Frontal,absolute,all observations,19,2991132.152945638,4325.648528874687,12638619.372326842
+Math,Experiment,Activity1,theta,Occipital,absolute,all observations,19,28426562.72903558,-7215304.6711126,209045325.9826985
+Math,Experiment,Activity1,theta,Parietal,absolute,all observations,19,10457078.909827963,-19183.393591598575,39959900.0041459
+Math,Experiment,Activity1,theta,Temporal,absolute,all observations,19,17399405.493016195,164746.46337835223,48801949.24291409
+Math,Experiment,Activity2,alpha,Central,absolute,all observations,19,294920.00355765206,-12195.479538414314,1743943.5995153752
+Math,Experiment,Activity2,alpha,Frontal,absolute,all observations,19,291025.96909778606,-20444.180093436677,2003243.7449352625
+Math,Experiment,Activity2,alpha,Occipital,absolute,all observations,19,-22744647.867062807,-10392553.589721102,76885325.95355877
+Math,Experiment,Activity2,alpha,Parietal,absolute,all observations,19,-8999314.283217246,365348.30077915825,31940005.333147638
+Math,Experiment,Activity2,alpha,Temporal,absolute,all observations,19,-2430007.6759955212,-10153.202306348145,22140607.613505393
+Math,Experiment,Activity2,beta,Central,absolute,all observations,19,159732.28270526027,-27542.395625568643,1490789.6136984443
+Math,Experiment,Activity2,beta,Frontal,absolute,all observations,19,103831.87357395896,-44886.91800335661,1670550.0249034562
+Math,Experiment,Activity2,beta,Occipital,absolute,all observations,19,-23410116.27042653,-12419952.090390516,85857979.50645931
+Math,Experiment,Activity2,beta,Parietal,absolute,all observations,19,-9263774.083716514,-220463.5068484107,34523499.035880774
+Math,Experiment,Activity2,beta,Temporal,absolute,all observations,19,-1762508.1605730383,-23878.69726130536,25047682.677155577
+Math,Experiment,Activity2,delta,Central,absolute,all observations,19,17063022.39349833,11442.709332634407,86230195.10246827
+Math,Experiment,Activity2,delta,Frontal,absolute,all observations,19,19669291.57527864,9127.37597618045,99904579.28079703
+Math,Experiment,Activity2,delta,Occipital,absolute,all observations,19,-368679765.7120068,-218143587.63773236,1556447461.3694272
+Math,Experiment,Activity2,delta,Parietal,absolute,all observations,19,-188994362.88754603,3458910.910869507,758548864.398337
+Math,Experiment,Activity2,delta,Temporal,absolute,all observations,19,-75111209.15969598,-346530.2217948469,498480668.95473886
+Math,Experiment,Activity2,gamma,Central,absolute,all observations,19,-22315.47193560914,-8997.386548351471,553637.5965122798
+Math,Experiment,Activity2,gamma,Frontal,absolute,all observations,19,-74338.84978610041,-9785.022202826989,578306.6383738925
+Math,Experiment,Activity2,gamma,Occipital,absolute,all observations,19,-6377374.197360053,-1536972.855205589,25446005.514221583
+Math,Experiment,Activity2,gamma,Parietal,absolute,all observations,19,-2510830.249656258,-46279.05908166765,9795900.143048141
+Math,Experiment,Activity2,gamma,Temporal,absolute,all observations,19,-283849.1203980337,-54821.491460348945,6780942.754362458
+Math,Experiment,Activity2,theta,Central,absolute,all observations,19,867641.935860382,-46977.58220591047,4750850.2536992235
+Math,Experiment,Activity2,theta,Frontal,absolute,all observations,19,899965.5177775947,-77500.75770382948,5479900.610894133
+Math,Experiment,Activity2,theta,Occipital,absolute,all observations,19,-52604722.70325577,-20051087.64123441,175252252.77180937
+Math,Experiment,Activity2,theta,Parietal,absolute,all observations,19,-20916861.02582051,594074.5788703604,76603318.25712268
+Math,Experiment,Activity2,theta,Temporal,absolute,all observations,19,-6615969.646325711,153999.11372967478,50931427.801581666
+Math,Experiment,Baseline,alpha,Central,absolute,all observations,19,-45662.78675282034,-47.29859895995345,254685.45106138432
+Math,Experiment,Baseline,alpha,Frontal,absolute,all observations,19,-42588.22632739084,-78.23715187148734,252653.66929641488
+Math,Experiment,Baseline,alpha,Occipital,absolute,all observations,19,-14553780.073775893,-3488788.08497766,39354340.14050538
+Math,Experiment,Baseline,alpha,Parietal,absolute,all observations,19,1610630.4957748838,-14.953943460331772,9403963.497323819
+Math,Experiment,Baseline,alpha,Temporal,absolute,all observations,19,1684089.985562519,34.25926728281712,4017726.214076939
+Math,Experiment,Baseline,beta,Central,absolute,all observations,19,-94438.16505160954,-72.59747207734364,388663.6869972557
+Math,Experiment,Baseline,beta,Frontal,absolute,all observations,19,-101361.27307127761,-267.8165755015479,399705.70979624667
+Math,Experiment,Baseline,beta,Occipital,absolute,all observations,19,-19031079.365312546,-5022051.46540907,50891837.28568973
+Math,Experiment,Baseline,beta,Parietal,absolute,all observations,19,1750310.9241485843,-149.03119718072966,11637308.042709053
+Math,Experiment,Baseline,beta,Temporal,absolute,all observations,19,2038044.1120137419,3.9454630441935983,5349368.738312252
+Math,Experiment,Baseline,delta,Central,absolute,all observations,19,-1277489.8007878526,492.1705563873301,5016720.942518193
+Math,Experiment,Baseline,delta,Frontal,absolute,all observations,19,-1144503.057193504,393.323945637424,4645587.5845535
+Math,Experiment,Baseline,delta,Occipital,absolute,all observations,19,-196947473.67158166,-44082879.79123981,523937102.6491546
+Math,Experiment,Baseline,delta,Parietal,absolute,all observations,19,23278318.02723515,21102.36232856385,157312519.94009444
+Math,Experiment,Baseline,delta,Temporal,absolute,all observations,19,21203391.70648458,12038.89237721508,62414945.71533687
+Math,Experiment,Baseline,gamma,Central,absolute,all observations,19,-63023.0236243846,-23.96503072382339,213354.02189948165
+Math,Experiment,Baseline,gamma,Frontal,absolute,all observations,19,-75057.38720923514,-79.20372446800368,246047.76598828213
+Math,Experiment,Baseline,gamma,Occipital,absolute,all observations,19,-5406162.301352423,-1652261.500776769,15321414.256222637
+Math,Experiment,Baseline,gamma,Parietal,absolute,all observations,19,453062.0372354443,-52.57433568141693,3015684.413076352
+Math,Experiment,Baseline,gamma,Temporal,absolute,all observations,19,556214.9539663938,-0.3892187758043688,1754279.4482951914
+Math,Experiment,Baseline,theta,Central,absolute,all observations,19,-118143.4072775205,6.745076104321807,600918.1147142756
+Math,Experiment,Baseline,theta,Frontal,absolute,all observations,19,-108460.25396970887,1.5710036541240164,584387.7098255969
+Math,Experiment,Baseline,theta,Occipital,absolute,all observations,19,-34437648.52271231,-9549072.10917238,83401740.20158395
+Math,Experiment,Baseline,theta,Parietal,absolute,all observations,19,2063099.3317450057,-49.506401501708694,21653772.401638146
+Math,Experiment,Baseline,theta,Temporal,absolute,all observations,19,2841170.347080027,90.48284820744819,7540851.80093242
+Reading,Control,Activity,alpha,Central,absolute,all observations,12,-320689.87415043893,-8876.107166147005,3517280.7089836136
+Reading,Control,Activity,alpha,Frontal,absolute,all observations,12,-110046.74453601071,-7436.652216533692,3906412.672064946
+Reading,Control,Activity,alpha,Occipital,absolute,all observations,12,3021496.2613774487,371121.4153790339,71662145.46694699
+Reading,Control,Activity,alpha,Parietal,absolute,all observations,12,-5494087.56441373,3250354.161956089,60190069.125507474
+Reading,Control,Activity,alpha,Temporal,absolute,all observations,12,-14313849.785059646,-6291115.974518115,33491216.736504745
+Reading,Control,Activity,beta,Central,absolute,all observations,12,-1504841.1381248494,-74180.66620572787,5005312.031298052
+Reading,Control,Activity,beta,Frontal,absolute,all observations,12,-487741.08903215267,-83907.47203644237,3546315.209289048
+Reading,Control,Activity,beta,Occipital,absolute,all observations,12,5260752.618620004,853811.2883303126,79294381.17923097
+Reading,Control,Activity,beta,Parietal,absolute,all observations,12,-6649425.520627908,2792149.508389958,64102601.87613471
+Reading,Control,Activity,beta,Temporal,absolute,all observations,12,-15825900.63878808,-7592096.594586236,39248807.13154581
+Reading,Control,Activity,delta,Central,absolute,all observations,12,19913637.47262809,-50991.95352331744,107333662.4390692
+Reading,Control,Activity,delta,Frontal,absolute,all observations,12,23321508.53408308,-56231.66381284251,124446492.83858927
+Reading,Control,Activity,delta,Occipital,absolute,all observations,12,-52370730.04358832,-1104026.8796316206,979223177.6568538
+Reading,Control,Activity,delta,Parietal,absolute,all observations,12,-160422606.69151875,59403663.06050772,973555592.0823545
+Reading,Control,Activity,delta,Temporal,absolute,all observations,12,-204003890.08318165,-64237423.62558552,478345206.25918823
+Reading,Control,Activity,gamma,Central,absolute,all observations,12,-921796.1840400832,-18193.84565721672,2725077.1054227385
+Reading,Control,Activity,gamma,Frontal,absolute,all observations,12,-195686.61516957634,-15971.670849534754,866248.5822643788
+Reading,Control,Activity,gamma,Occipital,absolute,all observations,12,2453017.7885888913,747405.0987473202,21920619.042897005
+Reading,Control,Activity,gamma,Parietal,absolute,all observations,12,-1681717.1645081665,683263.8665706856,17209943.064100936
+Reading,Control,Activity,gamma,Temporal,absolute,all observations,12,-4237104.261198376,-1892424.65163853,10693205.92493997
+Reading,Control,Activity,theta,Central,absolute,all observations,12,230195.03726790578,-19995.229136577786,8550283.770736687
+Reading,Control,Activity,theta,Frontal,absolute,all observations,12,500881.2095657782,-20879.166647764432,9843947.0897764
+Reading,Control,Activity,theta,Occipital,absolute,all observations,12,7517956.764095019,-2895069.679736248,171104816.55283016
+Reading,Control,Activity,theta,Parietal,absolute,all observations,12,-12171175.21158502,5626341.047878256,134309475.11233094
+Reading,Control,Activity,theta,Temporal,absolute,all observations,12,-31754439.590118367,-15038719.081457432,73079935.45792575
+Reading,Control,Baseline,alpha,Central,absolute,all observations,12,1400.9097239114217,-29.227686749211344,748071.4081488956
+Reading,Control,Baseline,alpha,Frontal,absolute,all observations,12,40206.45534685824,-60.027614285199654,958017.2525483584
+Reading,Control,Baseline,alpha,Occipital,absolute,all observations,12,7820033.122380308,37870.424735134045,24404518.086350035
+Reading,Control,Baseline,alpha,Parietal,absolute,all observations,12,4884639.120194324,34866.151053440015,18153714.48928481
+Reading,Control,Baseline,alpha,Temporal,absolute,all observations,12,723234.5022386104,-1611.4931813847384,27417081.20599836
+Reading,Control,Baseline,beta,Central,absolute,all observations,12,-36113.04527837511,-40.836128310369546,1001199.4469362882
+Reading,Control,Baseline,beta,Frontal,absolute,all observations,12,71428.79209064004,-68.14987431904473,1197779.7772597237
+Reading,Control,Baseline,beta,Occipital,absolute,all observations,12,8876944.123634463,52159.27338121984,28635790.56179686
+Reading,Control,Baseline,beta,Parietal,absolute,all observations,12,3806599.1825325694,45387.42107582533,15572755.298721708
+Reading,Control,Baseline,beta,Temporal,absolute,all observations,12,465736.80399256386,-3638.4095207623673,35059441.68596882
+Reading,Control,Baseline,delta,Central,absolute,all observations,12,-336752.1388637772,-177.1210904918857,8698751.751895115
+Reading,Control,Baseline,delta,Frontal,absolute,all observations,12,418911.43062509195,1345.7240258527088,11785049.816270007
+Reading,Control,Baseline,delta,Occipital,absolute,all observations,12,91423071.278109,22340.91525424346,282653808.7691941
+Reading,Control,Baseline,delta,Parietal,absolute,all observations,12,55947802.563681684,-663838.3548469191,238853441.41620797
+Reading,Control,Baseline,delta,Temporal,absolute,all observations,12,-4123869.2849640064,-4750.867692415788,275810060.9951152
+Reading,Control,Baseline,gamma,Central,absolute,all observations,12,-52172.04816792027,-11.63025527851029,212971.01799755686
+Reading,Control,Baseline,gamma,Frontal,absolute,all observations,12,25218.13180238912,-9.230272936025084,325438.27019302984
+Reading,Control,Baseline,gamma,Occipital,absolute,all observations,12,4853049.800258924,31269.930437787738,11422117.211417459
+Reading,Control,Baseline,gamma,Parietal,absolute,all observations,12,1883998.5552402793,25119.110855320607,5254263.604295274
+Reading,Control,Baseline,gamma,Temporal,absolute,all observations,12,1803724.3895858133,-1863.8999591813467,15678185.108373472
+Reading,Control,Baseline,theta,Central,absolute,all observations,12,-98677.13347232067,-52.08570359838715,1124992.0521958172
+Reading,Control,Baseline,theta,Frontal,absolute,all observations,12,-79196.97430060971,-89.35672497735148,1564215.1913138223
+Reading,Control,Baseline,theta,Occipital,absolute,all observations,12,12372487.246128438,37088.63935887168,45922379.469263606
+Reading,Control,Baseline,theta,Parietal,absolute,all observations,12,8536760.676018562,33978.94182350145,38013152.024551585
+Reading,Control,Baseline,theta,Temporal,absolute,all observations,12,-1091996.8373326424,-1982.2835450677578,52659291.19893793
+Reading,Experiment,Activity,alpha,Central,absolute,all observations,17,-375853.1152439135,-128.94663356929038,1645031.3191190585
+Reading,Experiment,Activity,alpha,Frontal,absolute,all observations,17,-574582.9295085841,-149.14000263390733,1854636.1743969028
+Reading,Experiment,Activity,alpha,Occipital,absolute,all observations,17,-4774243.3209716445,-4385930.142816264,49467594.27900893
+Reading,Experiment,Activity,alpha,Parietal,absolute,all observations,17,4783342.948013113,2058804.5339742878,24524124.682884663
+Reading,Experiment,Activity,alpha,Temporal,absolute,all observations,17,-8040951.334865552,-8424.227178560934,39803625.66671103
+Reading,Experiment,Activity,beta,Central,absolute,all observations,17,-422579.36683482653,-707.8796908912666,1722061.1328387184
+Reading,Experiment,Activity,beta,Frontal,absolute,all observations,17,-684817.2524907795,-811.4126582230471,2119890.507028528
+Reading,Experiment,Activity,beta,Occipital,absolute,all observations,17,-8158611.881772822,-6177815.06726968,51905403.06872334
+Reading,Experiment,Activity,beta,Parietal,absolute,all observations,17,7343154.38329314,250510.3880990754,26183945.966118842
+Reading,Experiment,Activity,beta,Temporal,absolute,all observations,17,-11405171.846824234,-1175.5878923140222,53465520.52748316
+Reading,Experiment,Activity,delta,Central,absolute,all observations,17,-5467517.807685743,1524.9670159830582,24899325.493702095
+Reading,Experiment,Activity,delta,Frontal,absolute,all observations,17,-5567824.612292782,1265.7766389337373,23953328.789519146
+Reading,Experiment,Activity,delta,Occipital,absolute,all observations,17,95336392.11912014,-57915981.35889033,1342920135.5718262
+Reading,Experiment,Activity,delta,Parietal,absolute,all observations,17,33614448.011262655,20137209.410568256,572111668.65322
+Reading,Experiment,Activity,delta,Temporal,absolute,all observations,17,-144028200.8902469,65283.670825371155,701632776.9838345
+Reading,Experiment,Activity,gamma,Central,absolute,all observations,17,-116339.11522329567,-122.46467888688848,384289.5849045549
+Reading,Experiment,Activity,gamma,Frontal,absolute,all observations,17,-147059.80910999567,-113.67863139036403,456007.59046309127
+Reading,Experiment,Activity,gamma,Occipital,absolute,all observations,17,-3419391.9015587308,-1085359.7635956265,13803118.747687912
+Reading,Experiment,Activity,gamma,Parietal,absolute,all observations,17,2305074.925798183,555504.1366243017,7602860.793934849
+Reading,Experiment,Activity,gamma,Temporal,absolute,all observations,17,-3640886.899379585,-25959.403000169918,16257189.253433753
+Reading,Experiment,Activity,theta,Central,absolute,all observations,17,-1112119.1498535369,21.487034822575648,4758765.559869392
+Reading,Experiment,Activity,theta,Frontal,absolute,all observations,17,-1312542.8941988796,76.83011164533562,4732139.758104618
+Reading,Experiment,Activity,theta,Occipital,absolute,all observations,17,-7865152.433949006,-11109437.20370702,121835639.49187739
+Reading,Experiment,Activity,theta,Parietal,absolute,all observations,17,5549533.781422217,929593.5876670652,61640644.15013064
+Reading,Experiment,Activity,theta,Temporal,absolute,all observations,17,-15939715.4507947,-12971.830403497308,71696822.1823152
+Reading,Experiment,Baseline,alpha,Central,absolute,all observations,17,802387.801240672,89.8595937017779,3173882.394311462
+Reading,Experiment,Baseline,alpha,Frontal,absolute,all observations,17,823259.5824655311,23.73009487061389,3236537.346393736
+Reading,Experiment,Baseline,alpha,Occipital,absolute,all observations,17,-9649478.660987496,5231.807389480113,34327982.42558998
+Reading,Experiment,Baseline,alpha,Parietal,absolute,all observations,17,8738629.955006884,1630602.4006804265,18351522.35932818
+Reading,Experiment,Baseline,alpha,Temporal,absolute,all observations,17,-361963.33060934243,-47.49054883548008,8560635.671758885
+Reading,Experiment,Baseline,beta,Central,absolute,all observations,17,1037542.2513576525,64.04709639542037,4069684.546564748
+Reading,Experiment,Baseline,beta,Frontal,absolute,all observations,17,1087860.8286259237,13.714960519554593,4226133.026270951
+Reading,Experiment,Baseline,beta,Occipital,absolute,all observations,17,-12280104.342664039,8093.467197886387,42012278.72837475
+Reading,Experiment,Baseline,beta,Parietal,absolute,all observations,17,9539412.224533414,1834370.3037204186,18797516.529724594
+Reading,Experiment,Baseline,beta,Temporal,absolute,all observations,17,-438192.0684421538,-75.75045502306456,9814729.505699784
+Reading,Experiment,Baseline,delta,Central,absolute,all observations,17,20361176.64503401,4657.9797324532165,80857225.56121689
+Reading,Experiment,Baseline,delta,Frontal,absolute,all observations,17,20418904.701984104,5647.018667082703,80709848.67511423
+Reading,Experiment,Baseline,delta,Occipital,absolute,all observations,17,-27548764.33538343,63398.15118202312,414886932.63948005
+Reading,Experiment,Baseline,delta,Parietal,absolute,all observations,17,144620473.8128317,26402009.314260118,281015441.5655795
+Reading,Experiment,Baseline,delta,Temporal,absolute,all observations,17,30144203.395290654,746.1522713842239,202508229.15851003
+Reading,Experiment,Baseline,gamma,Central,absolute,all observations,17,292556.5588323742,27.93901037445377,1087801.5084190327
+Reading,Experiment,Baseline,gamma,Frontal,absolute,all observations,17,313094.51276727533,6.602810134093672,1139618.2027174495
+Reading,Experiment,Baseline,gamma,Occipital,absolute,all observations,17,-3623064.7717787432,3536.2804968919677,14659925.363550507
+Reading,Experiment,Baseline,gamma,Parietal,absolute,all observations,17,3794040.8018368958,1153970.297444217,7344423.570918484
+Reading,Experiment,Baseline,gamma,Temporal,absolute,all observations,17,262601.2595888878,-16.11122565813561,3533793.6052437928
+Reading,Experiment,Baseline,theta,Central,absolute,all observations,17,1736004.7366466727,286.31693850547214,6886029.711953358
+Reading,Experiment,Baseline,theta,Frontal,absolute,all observations,17,1756038.2238431901,86.78946310574942,6926483.613974546
+Reading,Experiment,Baseline,theta,Occipital,absolute,all observations,17,-15922113.069296408,9795.082583066203,63266904.49379356
+Reading,Experiment,Baseline,theta,Parietal,absolute,all observations,17,16560626.378987197,2847613.9814361283,31729729.821964547
+Reading,Experiment,Baseline,theta,Temporal,absolute,all observations,17,597.6061864534722,-513.2128641373566,18624761.72925156
+Math,Control,Activity1,alpha,Central,log_absolute,all observations,15,-1.9483214801202244,-2.0517601556368428,4.718483940092726
+Math,Control,Activity1,alpha,Frontal,log_absolute,all observations,15,-1.8638333895420278,-2.113818149721201,4.6039815659064045
+Math,Control,Activity1,alpha,Occipital,log_absolute,all observations,15,-1.0090481143584038,-0.342000998339822,7.0077133575584805
+Math,Control,Activity1,alpha,Parietal,log_absolute,all observations,15,-2.3749592390100926,-2.1378294116218512,7.0378905456625205
+Math,Control,Activity1,alpha,Temporal,log_absolute,all observations,15,-2.4439188203127995,-0.528704179589802,6.480631003015998
+Math,Control,Activity1,beta,Central,log_absolute,all observations,15,-2.01293139256648,-2.203199180209239,4.553925902548938
+Math,Control,Activity1,beta,Frontal,log_absolute,all observations,15,-1.9205541240228052,-2.269160046957664,4.451725755583449
+Math,Control,Activity1,beta,Occipital,log_absolute,all observations,15,-0.7025494461745047,-0.043327757327697114,6.754040019276167
+Math,Control,Activity1,beta,Parietal,log_absolute,all observations,15,-2.228232242489843,-2.8125130023864244,7.063707539805838
+Math,Control,Activity1,beta,Temporal,log_absolute,all observations,15,-2.4200645934457445,-0.9509407305699291,6.437648938445979
+Math,Control,Activity1,delta,Central,log_absolute,all observations,15,-1.627085799818673,-1.762035505770907,5.020303639546787
+Math,Control,Activity1,delta,Frontal,log_absolute,all observations,15,-1.3320100373848693,-1.7703373706916992,4.685838051344569
+Math,Control,Activity1,delta,Occipital,log_absolute,all observations,15,-1.3038898687121778,-1.3289241134442094,7.171570908560527
+Math,Control,Activity1,delta,Parietal,log_absolute,all observations,15,-2.148620019131902,-1.8555783447822485,7.12971293415045
+Math,Control,Activity1,delta,Temporal,log_absolute,all observations,15,-1.8739117175698157,0.03423641537664501,6.210187820454045
+Math,Control,Activity1,gamma,Central,log_absolute,all observations,15,-1.974381049353459,-2.249274407845382,4.514834480678037
+Math,Control,Activity1,gamma,Frontal,log_absolute,all observations,15,-1.8707884599278226,-2.341417368129198,4.330545698729964
+Math,Control,Activity1,gamma,Occipital,log_absolute,all observations,15,-0.3842715655554147,0.3799843277166879,6.664941448503886
+Math,Control,Activity1,gamma,Parietal,log_absolute,all observations,15,-2.080244884972573,-2.797710567389373,7.163029219526209
+Math,Control,Activity1,gamma,Temporal,log_absolute,all observations,15,-2.4045628777115167,-1.2361612801819604,6.428910908932326
+Math,Control,Activity1,theta,Central,log_absolute,all observations,15,-1.776136589515104,-2.135922835348371,4.825418579644316
+Math,Control,Activity1,theta,Frontal,log_absolute,all observations,15,-1.6147864844987334,-2.1229287674766333,4.600173483632308
+Math,Control,Activity1,theta,Occipital,log_absolute,all observations,15,-1.158965859205075,-0.6412481475943714,7.1657867699819136
+Math,Control,Activity1,theta,Parietal,log_absolute,all observations,15,-2.3203679562238335,-1.956983078369296,7.128853444111804
+Math,Control,Activity1,theta,Temporal,log_absolute,all observations,15,-2.409133990328426,-1.1657490101875299,6.344862079306594
+Math,Control,Activity2,alpha,Central,log_absolute,all observations,15,0.16912225611485052,0.530231638593619,6.032905796889963
+Math,Control,Activity2,alpha,Frontal,log_absolute,all observations,15,0.354348584133666,1.4473352810202478,5.930311683599044
+Math,Control,Activity2,alpha,Occipital,log_absolute,all observations,15,0.3430249610905784,-1.6145883309054128,7.902008723686811
+Math,Control,Activity2,alpha,Parietal,log_absolute,all observations,15,-0.12611809735626972,-0.7042420106608773,6.934634638851803
+Math,Control,Activity2,alpha,Temporal,log_absolute,all observations,15,-0.181601638244848,2.3153933487947,6.594256053856075
+Math,Control,Activity2,beta,Central,log_absolute,all observations,15,0.033641911909515564,1.115971123829402,6.1697498880057715
+Math,Control,Activity2,beta,Frontal,log_absolute,all observations,15,0.1062060070080212,1.1859708830706435,6.021905900988089
+Math,Control,Activity2,beta,Occipital,log_absolute,all observations,15,0.4388442626129229,-2.0326712705953254,7.738209505827532
+Math,Control,Activity2,beta,Parietal,log_absolute,all observations,15,-0.10654295295200994,-0.07389991674447316,6.960550983186284
+Math,Control,Activity2,beta,Temporal,log_absolute,all observations,15,-0.31098913072552165,2.331557553107242,6.768185462230011
+Math,Control,Activity2,delta,Central,log_absolute,all observations,15,0.40782466676226825,1.0245242133259786,5.74095288168575
+Math,Control,Activity2,delta,Frontal,log_absolute,all observations,15,0.7162082379241894,1.126427919979971,5.345842295373576
+Math,Control,Activity2,delta,Occipital,log_absolute,all observations,15,0.3361450984784971,-2.5873983401225793,7.715112914957738
+Math,Control,Activity2,delta,Parietal,log_absolute,all observations,15,0.037961548474252635,0.6670886916018457,7.307721106103155
+Math,Control,Activity2,delta,Temporal,log_absolute,all observations,15,0.23157912095259134,1.9809720481038298,6.348003216250062
+Math,Control,Activity2,gamma,Central,log_absolute,all observations,15,0.0439059416366641,0.8091904978964557,6.172574395705295
+Math,Control,Activity2,gamma,Frontal,log_absolute,all observations,15,0.1595545388401118,0.8365512270835662,5.974446320971213
+Math,Control,Activity2,gamma,Occipital,log_absolute,all observations,15,0.5380162614122582,-1.0728528036201241,7.627603211731548
+Math,Control,Activity2,gamma,Parietal,log_absolute,all observations,15,-0.25595432825852116,-0.6988017773531183,6.966263439687923
+Math,Control,Activity2,gamma,Temporal,log_absolute,all observations,15,-0.16067893965478747,2.25208117347057,6.775106954918242
+Math,Control,Activity2,theta,Central,log_absolute,all observations,15,0.2683604685701605,1.2824387181860448,5.720054323888411
+Math,Control,Activity2,theta,Frontal,log_absolute,all observations,15,0.4362268366290222,1.3862050111860889,5.469686613976009
+Math,Control,Activity2,theta,Occipital,log_absolute,all observations,15,0.2629576039109446,-1.8537998003029887,7.999154435241977
+Math,Control,Activity2,theta,Parietal,log_absolute,all observations,15,-0.12573000165160467,0.0019847316906247414,6.956959432111588
+Math,Control,Activity2,theta,Temporal,log_absolute,all observations,15,-0.22050895853139962,2.171837595328789,6.362751272791627
+Math,Control,Baseline,alpha,Central,log_absolute,all observations,15,-1.8184545505639387,-0.00010801527781101328,5.187385600965507
+Math,Control,Baseline,alpha,Frontal,log_absolute,all observations,15,-1.601336428969219,-0.0032913897840570333,5.193187117974451
+Math,Control,Baseline,alpha,Occipital,log_absolute,all observations,15,0.9568480530514577,0.03387736338000025,7.529511630152734
+Math,Control,Baseline,alpha,Parietal,log_absolute,all observations,15,-2.7627939638968204,-0.016542546460755148,7.966736398620887
+Math,Control,Baseline,alpha,Temporal,log_absolute,all observations,15,-2.063840666951628,-0.3255964705851444,6.978041644271557
+Math,Control,Baseline,beta,Central,log_absolute,all observations,15,-1.7550311023225593,-0.00018802824903030313,4.989526405670046
+Math,Control,Baseline,beta,Frontal,log_absolute,all observations,15,-1.714810943084189,-0.001025114575882835,4.837915070533884
+Math,Control,Baseline,beta,Occipital,log_absolute,all observations,15,1.0498109048690947,0.13404999952164331,7.18663318262823
+Math,Control,Baseline,beta,Parietal,log_absolute,all observations,15,-2.5263382041891345,0.08440195840569675,7.776275709097654
+Math,Control,Baseline,beta,Temporal,log_absolute,all observations,15,-2.2857813259520183,-0.15330474950943085,6.622704112573701
+Math,Control,Baseline,delta,Central,log_absolute,all observations,15,-1.570705769543456,-0.015299402302712206,6.281610772444216
+Math,Control,Baseline,delta,Frontal,log_absolute,all observations,15,-1.2680761304260402,0.32966346863334994,6.126331037196581
+Math,Control,Baseline,delta,Occipital,log_absolute,all observations,15,0.48297488601030963,-0.22488243741584668,8.22832551381859
+Math,Control,Baseline,delta,Parietal,log_absolute,all observations,15,-2.8870944822313183,-1.3645443074066863,8.645454192213103
+Math,Control,Baseline,delta,Temporal,log_absolute,all observations,15,-1.6969916922098536,0.14799142962312573,7.363969100626402
+Math,Control,Baseline,gamma,Central,log_absolute,all observations,15,-1.5896700468541491,0.023199951117135686,4.822446477427918
+Math,Control,Baseline,gamma,Frontal,log_absolute,all observations,15,-1.528349002020832,-0.18217786270210512,4.661951291704652
+Math,Control,Baseline,gamma,Occipital,log_absolute,all observations,15,1.3679029067833084,0.7163143798591101,7.190156372345781
+Math,Control,Baseline,gamma,Parietal,log_absolute,all observations,15,-2.3829425205437436,-0.6120542149673072,7.7843882689556505
+Math,Control,Baseline,gamma,Temporal,log_absolute,all observations,15,-2.3504833485997976,-0.18431101593599752,6.190592187089842
+Math,Control,Baseline,theta,Central,log_absolute,all observations,15,-1.8326258099259933,0.012634702011520726,5.613877072457805
+Math,Control,Baseline,theta,Frontal,log_absolute,all observations,15,-1.6087580171988611,0.2688141478316064,5.540789258660377
+Math,Control,Baseline,theta,Occipital,log_absolute,all observations,15,0.6330414861877699,-0.05777127550686867,7.662022898862809
+Math,Control,Baseline,theta,Parietal,log_absolute,all observations,15,-2.7638602911084402,-0.4025930993253981,8.178692803458839
+Math,Control,Baseline,theta,Temporal,log_absolute,all observations,15,-2.0710538660412263,-0.3634527749537142,7.144462574498312
+Math,Experiment,Activity1,alpha,Central,log_absolute,all observations,19,-0.059357802063771725,1.0753616470192942,4.2109078557721435
+Math,Experiment,Activity1,alpha,Frontal,log_absolute,all observations,19,0.032264814497536806,0.8852538971487469,4.343189593706082
+Math,Experiment,Activity1,alpha,Occipital,log_absolute,all observations,19,-2.0754774856081717,-1.6568342720810572,6.494398069913538
+Math,Experiment,Activity1,alpha,Parietal,log_absolute,all observations,19,-0.40555026926000615,0.2608164157031716,3.993101796911086
+Math,Experiment,Activity1,alpha,Temporal,log_absolute,all observations,19,1.8654406037423241,1.2484942252037783,6.9873048893194465
+Math,Experiment,Activity1,beta,Central,log_absolute,all observations,19,-0.7361839693144054,-0.15558060080625147,3.734747451902202
+Math,Experiment,Activity1,beta,Frontal,log_absolute,all observations,19,-0.7982873771418602,-0.19276515569407593,3.580820802578913
+Math,Experiment,Activity1,beta,Occipital,log_absolute,all observations,19,-2.291539886122357,-1.9396167558946047,6.4677081339780065
+Math,Experiment,Activity1,beta,Parietal,log_absolute,all observations,19,-0.7245921916373008,0.4602924576905014,3.9136296219601987
+Math,Experiment,Activity1,beta,Temporal,log_absolute,all observations,19,1.2493202770195309,0.050034698627012375,6.569098996068255
+Math,Experiment,Activity1,delta,Central,log_absolute,all observations,19,0.6456942675401228,2.1229118121727097,4.690973655615809
+Math,Experiment,Activity1,delta,Frontal,log_absolute,all observations,19,0.8493201905876396,2.387542975115675,4.5721406968064535
+Math,Experiment,Activity1,delta,Occipital,log_absolute,all observations,19,-2.080380446482077,-1.758339947850338,6.006835105882948
+Math,Experiment,Activity1,delta,Parietal,log_absolute,all observations,19,-0.5455115208434304,-0.6628096837000435,4.104414786201659
+Math,Experiment,Activity1,delta,Temporal,log_absolute,all observations,19,2.177704318336876,1.8280522698815052,6.692776506648241
+Math,Experiment,Activity1,gamma,Central,log_absolute,all observations,19,-1.2701378010341244,-0.8977762767157316,3.5995163315791334
+Math,Experiment,Activity1,gamma,Frontal,log_absolute,all observations,19,-1.408834723825369,-1.0608756953483285,3.4169763182290604
+Math,Experiment,Activity1,gamma,Occipital,log_absolute,all observations,19,-2.345751854121728,-1.9417292591532171,6.400246934746635
+Math,Experiment,Activity1,gamma,Parietal,log_absolute,all observations,19,-1.0191726761856845,0.5383041283324719,3.7324829691669574
+Math,Experiment,Activity1,gamma,Temporal,log_absolute,all observations,19,0.9309059204281035,-0.8994934305021278,6.380639760003865
+Math,Experiment,Activity1,theta,Central,log_absolute,all observations,19,0.1971356096511666,1.4270166282018355,4.285189899562589
+Math,Experiment,Activity1,theta,Frontal,log_absolute,all observations,19,0.4236249478767943,1.2775607582451904,4.398054144059337
+Math,Experiment,Activity1,theta,Occipital,log_absolute,all observations,19,-2.029086959363764,-2.124282467033275,6.448672525024349
+Math,Experiment,Activity1,theta,Parietal,log_absolute,all observations,19,-0.3508305390647089,-0.5245099976187113,3.9456726907819597
+Math,Experiment,Activity1,theta,Temporal,log_absolute,all observations,19,2.0256146985341137,1.6936303868630294,6.9488255766691776
+Math,Experiment,Activity2,alpha,Central,log_absolute,all observations,19,-1.1316561065220707,-0.5095112270343574,7.357032189749535
+Math,Experiment,Activity2,alpha,Frontal,log_absolute,all observations,19,-1.0692526887223754,-0.5320458019055447,7.514909327825267
+Math,Experiment,Activity2,alpha,Occipital,log_absolute,all observations,19,-1.7324988368046441,-3.2733837564709702,7.245596828051866
+Math,Experiment,Activity2,alpha,Parietal,log_absolute,all observations,19,-1.64618433923972,0.1510426900599775,7.081197568208748
+Math,Experiment,Activity2,alpha,Temporal,log_absolute,all observations,19,0.8682591107828801,-0.00818733400919136,8.2661365278939
+Math,Experiment,Activity2,beta,Central,log_absolute,all observations,19,-1.4801171102260875,-1.027828326024336,7.021923462076316
+Math,Experiment,Activity2,beta,Frontal,log_absolute,all observations,19,-1.5718018019561335,-1.0463729952196132,6.948305846078899
+Math,Experiment,Activity2,beta,Occipital,log_absolute,all observations,19,-1.7589693438555962,-3.1574701594780077,7.206792069158993
+Math,Experiment,Activity2,beta,Parietal,log_absolute,all observations,19,-1.9377685017605957,-0.11143120863484057,6.983236063071812
+Math,Experiment,Activity2,beta,Temporal,log_absolute,all observations,19,0.2139972714912637,-1.0749517025874589,7.776877434411775
+Math,Experiment,Activity2,delta,Central,log_absolute,all observations,19,-0.6061930884059624,0.3840053748827099,7.690265711407484
+Math,Experiment,Activity2,delta,Frontal,log_absolute,all observations,19,-0.43306556904630705,0.2842959685440487,7.385091963055336
+Math,Experiment,Activity2,delta,Occipital,log_absolute,all observations,19,-1.755599298238036,-2.609519927398674,7.299307457400795
+Math,Experiment,Activity2,delta,Parietal,log_absolute,all observations,19,-1.3902091096693285,0.47465329175646787,7.281429381698385
+Math,Experiment,Activity2,delta,Temporal,log_absolute,all observations,19,0.9233783046966266,-0.1801042199241536,8.28685569537539
+Math,Experiment,Activity2,gamma,Central,log_absolute,all observations,19,-1.6950882311489,-1.3840417204591855,6.62367141802127
+Math,Experiment,Activity2,gamma,Frontal,log_absolute,all observations,19,-1.8157766939027904,-1.3985144696278393,6.464250110783624
+Math,Experiment,Activity2,gamma,Occipital,log_absolute,all observations,19,-1.6779698883237146,-2.850444032987836,6.943853404130629
+Math,Experiment,Activity2,gamma,Parietal,log_absolute,all observations,19,-2.0577209181575533,-0.3066239183072845,6.738000463067955
+Math,Experiment,Activity2,gamma,Temporal,log_absolute,all observations,19,0.01466642079423709,-1.2205667737335197,7.544297615503572
+Math,Experiment,Activity2,theta,Central,log_absolute,all observations,19,-0.963461736852747,-0.27930632829288626,7.3879558065288204
+Math,Experiment,Activity2,theta,Frontal,log_absolute,all observations,19,-0.7874362207965918,-0.3827683895646281,7.476135474024715
+Math,Experiment,Activity2,theta,Occipital,log_absolute,all observations,19,-1.8326261800132648,-2.970656290310828,7.290435728247193
+Math,Experiment,Activity2,theta,Parietal,log_absolute,all observations,19,-1.4805226532292497,0.17088672381657233,7.048372680548319
+Math,Experiment,Activity2,theta,Temporal,log_absolute,all observations,19,0.9555231802725135,0.26288550701510616,8.380236950679837
+Math,Experiment,Baseline,alpha,Central,log_absolute,all observations,19,-0.5884048361697726,-1.1913970718154907,5.2371421845265616
+Math,Experiment,Baseline,alpha,Frontal,log_absolute,all observations,19,-0.6596072325250573,-1.2546173593715295,5.3451828026817125
+Math,Experiment,Baseline,alpha,Occipital,log_absolute,all observations,19,-1.1395360016150633,-1.5382446205424216,6.375871625327962
+Math,Experiment,Baseline,alpha,Parietal,log_absolute,all observations,19,0.3827274442647546,-0.10202452617516133,7.021007699260762
+Math,Experiment,Baseline,alpha,Temporal,log_absolute,all observations,19,0.8927994883345448,0.3826846354035158,6.510469608203214
+Math,Experiment,Baseline,beta,Central,log_absolute,all observations,19,-1.2170014872238781,-2.247064043397499,4.801618496499101
+Math,Experiment,Baseline,beta,Frontal,log_absolute,all observations,19,-1.2884813917789508,-2.240681570402701,4.864202393541299
+Math,Experiment,Baseline,beta,Occipital,log_absolute,all observations,19,-1.1210779014757648,-1.4247403301878343,6.297692800949921
+Math,Experiment,Baseline,beta,Parietal,log_absolute,all observations,19,-0.3955120860241222,-1.0303710908153825,6.711225041753519
+Math,Experiment,Baseline,beta,Temporal,log_absolute,all observations,19,-0.09244934135170074,0.15173624224183824,5.7126125054475345
+Math,Experiment,Baseline,delta,Central,log_absolute,all observations,19,0.09128529363721692,1.084815739871126,5.175253164312511
+Math,Experiment,Baseline,delta,Frontal,log_absolute,all observations,19,0.36475676830867193,1.0585579673365588,5.192552797862055
+Math,Experiment,Baseline,delta,Occipital,log_absolute,all observations,19,-1.0565389341824338,-2.3362107118206055,5.9797098043087775
+Math,Experiment,Baseline,delta,Parietal,log_absolute,all observations,19,0.670423707100567,0.572004046005258,7.034757295691755
+Math,Experiment,Baseline,delta,Temporal,log_absolute,all observations,19,1.4279015256487528,1.856887523767913,6.478047120490075
+Math,Experiment,Baseline,gamma,Central,log_absolute,all observations,19,-1.6705447321366111,-1.187943044855044,4.684350505266824
+Math,Experiment,Baseline,gamma,Frontal,log_absolute,all observations,19,-1.7572660259936048,-2.0649346186047657,4.588963465325311
+Math,Experiment,Baseline,gamma,Occipital,log_absolute,all observations,19,-1.265282196664045,-1.3749108870860773,6.375097500213962
+Math,Experiment,Baseline,gamma,Parietal,log_absolute,all observations,19,-0.7906987858607726,-1.9312086758559808,6.607719835529236
+Math,Experiment,Baseline,gamma,Temporal,log_absolute,all observations,19,-0.42711038017886543,-0.04823786689066356,5.511940588564587
+Math,Experiment,Baseline,theta,Central,log_absolute,all observations,19,-0.37651155639994677,0.23926148961811888,5.097886035545296
+Math,Experiment,Baseline,theta,Frontal,log_absolute,all observations,19,-0.3063599667842732,0.06644923059119368,5.316003946060055
+Math,Experiment,Baseline,theta,Occipital,log_absolute,all observations,19,-1.1150531623941529,-1.8303877185546398,6.3201610718024845
+Math,Experiment,Baseline,theta,Parietal,log_absolute,all observations,19,0.38328248048404434,-0.1820192349103067,6.859494974723562
+Math,Experiment,Baseline,theta,Temporal,log_absolute,all observations,19,1.0661230052102555,1.1027442062854131,6.487172431800534
+Reading,Control,Activity,alpha,Central,log_absolute,all observations,12,-3.078025485651565,-3.75289141894576,7.486831321970501
+Reading,Control,Activity,alpha,Frontal,log_absolute,all observations,12,-2.7863997475355795,-2.2118491985291717,7.414066813827446
+Reading,Control,Activity,alpha,Occipital,log_absolute,all observations,12,-0.47959065976899495,0.09515918230856535,7.30622993147847
+Reading,Control,Activity,alpha,Parietal,log_absolute,all observations,12,1.4621424505050602,2.1717612479071713,4.727685798640097
+Reading,Control,Activity,alpha,Temporal,log_absolute,all observations,12,-5.802742942276613,-4.9136714614042605,6.569243265806302
+Reading,Control,Activity,beta,Central,log_absolute,all observations,12,-3.2951565058763492,-3.8753226372605303,7.32848120245237
+Reading,Control,Activity,beta,Frontal,log_absolute,all observations,12,-2.8085994570360326,-2.262920445190985,6.962452852136971
+Reading,Control,Activity,beta,Occipital,log_absolute,all observations,12,-0.2638802449467814,0.3833311696268664,7.243948253521503
+Reading,Control,Activity,beta,Parietal,log_absolute,all observations,12,1.2593207733850866,1.7744779325467732,4.541928650124746
+Reading,Control,Activity,beta,Temporal,log_absolute,all observations,12,-5.759291294945805,-4.961634699645512,6.247388328182893
+Reading,Control,Activity,delta,Central,log_absolute,all observations,12,-2.2412575474879177,-1.7389947537591874,7.6427265358882295
+Reading,Control,Activity,delta,Frontal,log_absolute,all observations,12,-2.06057794756276,-0.9156458819424071,7.606637985515959
+Reading,Control,Activity,delta,Occipital,log_absolute,all observations,12,-0.835696696375595,-0.12411881259237134,7.073800547221643
+Reading,Control,Activity,delta,Parietal,log_absolute,all observations,12,1.5284625526747257,2.0795909644725175,5.377575888570861
+Reading,Control,Activity,delta,Temporal,log_absolute,all observations,12,-5.219164316145926,-4.15800770480584,6.387640496140845
+Reading,Control,Activity,gamma,Central,log_absolute,all observations,12,-3.5134335846236695,-3.9506598380406475,7.085429925348642
+Reading,Control,Activity,gamma,Frontal,log_absolute,all observations,12,-2.81797756450455,-2.676309688182785,6.488421370717811
+Reading,Control,Activity,gamma,Occipital,log_absolute,all observations,12,-0.2701303849995522,0.5662856494565451,7.411968892838061
+Reading,Control,Activity,gamma,Parietal,log_absolute,all observations,12,1.1982114187878699,1.8387065973618828,4.444604039196182
+Reading,Control,Activity,gamma,Temporal,log_absolute,all observations,12,-5.7143367076362885,-5.512969227025147,5.965020812600206
+Reading,Control,Activity,theta,Central,log_absolute,all observations,12,-2.9824884017948343,-3.3274898407872042,7.645579952034384
+Reading,Control,Activity,theta,Frontal,log_absolute,all observations,12,-2.7092729342427173,-1.960372312506197,7.58657568951267
+Reading,Control,Activity,theta,Occipital,log_absolute,all observations,12,-0.8262906400674469,-0.5853774639260871,7.190430116848303
+Reading,Control,Activity,theta,Parietal,log_absolute,all observations,12,1.3929472543543178,1.9046596225898575,4.850621586532736
+Reading,Control,Activity,theta,Temporal,log_absolute,all observations,12,-5.898340161163506,-4.865795851650709,6.594154241497462
+Reading,Control,Baseline,alpha,Central,log_absolute,all observations,12,0.6713485384157706,-0.35384411026588314,6.018887132867677
+Reading,Control,Baseline,alpha,Frontal,log_absolute,all observations,12,0.7249871572765144,-0.5763918877460117,6.276488653823656
+Reading,Control,Baseline,alpha,Occipital,log_absolute,all observations,12,1.8439093812627092,0.9763277066174592,7.417632927991464
+Reading,Control,Baseline,alpha,Parietal,log_absolute,all observations,12,2.8734843506261227,-0.5087244229723034,7.003452854254246
+Reading,Control,Baseline,alpha,Temporal,log_absolute,all observations,12,-1.5479535040042627,-2.892198713224798,7.805027699354406
+Reading,Control,Baseline,beta,Central,log_absolute,all observations,12,0.423556644424767,-0.8633517398726073,6.0807769684918425
+Reading,Control,Baseline,beta,Frontal,log_absolute,all observations,12,0.5163771948222554,-0.9645377584983175,6.207965820176241
+Reading,Control,Baseline,beta,Occipital,log_absolute,all observations,12,1.8877461366539225,0.8863662677512485,7.574726509140062
+Reading,Control,Baseline,beta,Parietal,log_absolute,all observations,12,2.8752420517999937,-0.31258326801178704,7.272859010113057
+Reading,Control,Baseline,beta,Temporal,log_absolute,all observations,12,-1.79653445504183,-3.144894433041972,7.732565925995826
+Reading,Control,Baseline,delta,Central,log_absolute,all observations,12,0.5950019381366674,0.5162468825712727,6.254870912917097
+Reading,Control,Baseline,delta,Frontal,log_absolute,all observations,12,1.0247789989894136,1.3900613446640548,6.291340122854914
+Reading,Control,Baseline,delta,Occipital,log_absolute,all observations,12,1.5336400152518592,1.159915956176616,6.806695524699973
+Reading,Control,Baseline,delta,Parietal,log_absolute,all observations,12,2.5991505822646177,-0.5997914656470718,7.111905312293955
+Reading,Control,Baseline,delta,Temporal,log_absolute,all observations,12,-0.7768443854214143,-2.8384616772924725,7.600991782631586
+Reading,Control,Baseline,gamma,Central,log_absolute,all observations,12,0.5316371298457307,-0.42115232350558074,5.6416026569576285
+Reading,Control,Baseline,gamma,Frontal,log_absolute,all observations,12,0.7660487486518502,-0.004613255453709719,5.858210543771019
+Reading,Control,Baseline,gamma,Occipital,log_absolute,all observations,12,2.171259458318448,1.0533526314599904,7.7235245703075845
+Reading,Control,Baseline,gamma,Parietal,log_absolute,all observations,12,3.215175068018739,0.2672216930859701,7.15106455480357
+Reading,Control,Baseline,gamma,Temporal,log_absolute,all observations,12,-1.3846013437325713,-2.9325267607199814,7.367268529909874
+Reading,Control,Baseline,theta,Central,log_absolute,all observations,12,0.6624116746438174,0.09508240187363293,5.957109457012475
+Reading,Control,Baseline,theta,Frontal,log_absolute,all observations,12,0.7547791163133928,0.3539506972450148,6.17481781020677
+Reading,Control,Baseline,theta,Occipital,log_absolute,all observations,12,1.8063133338376118,1.3879633765753452,7.142312309980827
+Reading,Control,Baseline,theta,Parietal,log_absolute,all observations,12,2.914656641497625,-0.42472368947366146,7.109399081921535
+Reading,Control,Baseline,theta,Temporal,log_absolute,all observations,12,-1.4429256539745465,-2.6632239122219463,7.803359322189428
+Reading,Experiment,Activity,alpha,Central,log_absolute,all observations,17,-0.20323969562014552,-0.756265212606781,6.909534556798283
+Reading,Experiment,Activity,alpha,Frontal,log_absolute,all observations,17,-0.2754717252845473,-0.5548093887035357,7.2722340130580365
+Reading,Experiment,Activity,alpha,Occipital,log_absolute,all observations,17,-2.733457594036825,-3.1656584136729595,8.591486889731463
+Reading,Experiment,Activity,alpha,Parietal,log_absolute,all observations,17,1.140553290755327,3.822421570719426,7.965275235988724
+Reading,Experiment,Activity,alpha,Temporal,log_absolute,all observations,17,-1.2602364776237192,-1.4321351984012178,7.494673472239203
+Reading,Experiment,Activity,beta,Central,log_absolute,all observations,17,-0.6081989365621439,-1.0455733902995359,6.354260824041763
+Reading,Experiment,Activity,beta,Frontal,log_absolute,all observations,17,-0.7513320164488351,-0.6023004691983331,6.62200201037421
+Reading,Experiment,Activity,beta,Occipital,log_absolute,all observations,17,-2.4432423439648527,-3.9750838262424324,8.447672492266362
+Reading,Experiment,Activity,beta,Parietal,log_absolute,all observations,17,1.0105302394632287,3.014413698124665,7.572242011584573
+Reading,Experiment,Activity,beta,Temporal,log_absolute,all observations,17,-1.4159430258413943,-1.7849379138653099,7.104891073866424
+Reading,Experiment,Activity,delta,Central,log_absolute,all observations,17,0.7448490700388598,1.1886708103077481,7.121158322879669
+Reading,Experiment,Activity,delta,Frontal,log_absolute,all observations,17,0.9414116489674109,1.4985846558756375,6.913385219191431
+Reading,Experiment,Activity,delta,Occipital,log_absolute,all observations,17,-2.4287178234927294,-2.9079833177368393,8.334503810944854
+Reading,Experiment,Activity,delta,Parietal,log_absolute,all observations,17,1.4893061313376748,5.10301834196822,8.107792839206388
+Reading,Experiment,Activity,delta,Temporal,log_absolute,all observations,17,-0.5516162282322267,0.40889186650777276,7.177986920794896
+Reading,Experiment,Activity,gamma,Central,log_absolute,all observations,17,-0.7641935642089326,-0.723693290623526,6.007720044287736
+Reading,Experiment,Activity,gamma,Frontal,log_absolute,all observations,17,-0.8699710477416402,-0.7246949931808189,6.168263948697229
+Reading,Experiment,Activity,gamma,Occipital,log_absolute,all observations,17,-2.5378940936779117,-3.799778758049383,8.311316655363951
+Reading,Experiment,Activity,gamma,Parietal,log_absolute,all observations,17,0.8401505774351203,2.331901802437148,7.446918669408712
+Reading,Experiment,Activity,gamma,Temporal,log_absolute,all observations,17,-1.7688071271639223,-1.3035883427284132,6.633256610888578
+Reading,Experiment,Activity,theta,Central,log_absolute,all observations,17,0.25631042153318073,0.5164271340022708,7.242181776056247
+Reading,Experiment,Activity,theta,Frontal,log_absolute,all observations,17,0.33141784683642095,0.938616847354754,7.463216443267624
+Reading,Experiment,Activity,theta,Occipital,log_absolute,all observations,17,-2.696563969360031,-2.2996288057143346,8.563902736974068
+Reading,Experiment,Activity,theta,Parietal,log_absolute,all observations,17,1.3862020435646676,3.4454725801678787,8.11308011065946
+Reading,Experiment,Activity,theta,Temporal,log_absolute,all observations,17,-1.0015905545446662,-1.2029181769847561,7.537096015832125
+Reading,Experiment,Baseline,alpha,Central,log_absolute,all observations,17,2.5843945618967896,4.145357780157306,5.988031003355329
+Reading,Experiment,Baseline,alpha,Frontal,log_absolute,all observations,17,2.400149931476197,2.1957646357573064,6.076787373080685
+Reading,Experiment,Baseline,alpha,Occipital,log_absolute,all observations,17,0.4918946745001152,1.0896888516252599,8.290676412763345
+Reading,Experiment,Baseline,alpha,Parietal,log_absolute,all observations,17,4.9034792613681715,8.746494117989233,7.996337150906082
+Reading,Experiment,Baseline,alpha,Temporal,log_absolute,all observations,17,-0.7963481468762466,-0.3042306679360358,5.9616339705333425
+Reading,Experiment,Baseline,beta,Central,log_absolute,all observations,17,2.0808407860599174,2.3000184876231877,6.595992430996288
+Reading,Experiment,Baseline,beta,Frontal,log_absolute,all observations,17,1.8108348517228086,1.6217592169064527,6.4404740897794275
+Reading,Experiment,Baseline,beta,Occipital,log_absolute,all observations,17,0.38946955052583077,0.5757835939766345,8.131492830074501
+Reading,Experiment,Baseline,beta,Parietal,log_absolute,all observations,17,4.4974562162786365,8.53214639304404,8.13192018570936
+Reading,Experiment,Baseline,beta,Temporal,log_absolute,all observations,17,-1.4135493281744853,-0.09191628231063831,6.041884178249014
+Reading,Experiment,Baseline,delta,Central,log_absolute,all observations,17,3.8659726468563407,3.8565903323894224,5.242048118931437
+Reading,Experiment,Baseline,delta,Frontal,log_absolute,all observations,17,3.630217214580773,2.9379982478516533,4.840989122583191
+Reading,Experiment,Baseline,delta,Occipital,log_absolute,all observations,17,1.1049927533211839,2.713398234825231,8.144260613916325
+Reading,Experiment,Baseline,delta,Parietal,log_absolute,all observations,17,5.39630633828183,6.628752228370205,7.506498847772667
+Reading,Experiment,Baseline,delta,Temporal,log_absolute,all observations,17,0.06531879025324946,0.0515177352791909,5.978755259280959
+Reading,Experiment,Baseline,gamma,Central,log_absolute,all observations,17,2.0738008518711935,2.7177179579913657,6.68543555423007
+Reading,Experiment,Baseline,gamma,Frontal,log_absolute,all observations,17,1.791404539775502,1.3771693858928216,6.332790337051569
+Reading,Experiment,Baseline,gamma,Occipital,log_absolute,all observations,17,0.761088358414358,0.9513327041709712,7.987247091048445
+Reading,Experiment,Baseline,gamma,Parietal,log_absolute,all observations,17,4.481290899568508,8.110793117636527,7.948428967211676
+Reading,Experiment,Baseline,gamma,Temporal,log_absolute,all observations,17,-1.26386780258812,-0.25022665586282145,5.67703523763994
+Reading,Experiment,Baseline,theta,Central,log_absolute,all observations,17,3.1433260365130646,4.747182913605609,5.777638916921925
+Reading,Experiment,Baseline,theta,Frontal,log_absolute,all observations,17,2.8525890085137884,2.7613188924414187,5.724132433158319
+Reading,Experiment,Baseline,theta,Occipital,log_absolute,all observations,17,0.6071611286327557,1.6159909526975564,8.327394097104518
+Reading,Experiment,Baseline,theta,Parietal,log_absolute,all observations,17,5.020899288565922,7.685944904774827,7.674696305620447
+Reading,Experiment,Baseline,theta,Temporal,log_absolute,all observations,17,-0.5602803783877703,-0.29606300307444755,6.064029093994451
+Math,Control,Activity1,alpha,Central,absolute,flagged rows removed,6,-3972.612648713834,-29.29862825926961,12897.351865691711
+Math,Control,Activity1,alpha,Frontal,absolute,flagged rows removed,6,-4490.832930112411,-30.686800766903836,15154.941374444572
+Math,Control,Activity1,alpha,Occipital,absolute,flagged rows removed,9,-10768873.992744872,-4911165.083684659,11956134.78053733
+Math,Control,Activity1,alpha,Parietal,absolute,flagged rows removed,7,-953002.2516679784,-345142.92311445926,1370366.0770526226
+Math,Control,Activity1,alpha,Temporal,absolute,flagged rows removed,8,-9773893.34796565,-8606288.036337543,9993656.481027603
+Math,Control,Activity1,beta,Central,absolute,flagged rows removed,6,-5190.4256691922565,-25.155111290835926,15415.3327019304
+Math,Control,Activity1,beta,Frontal,absolute,flagged rows removed,7,-39027.90778185546,-46.32815243013094,90324.24028709644
+Math,Control,Activity1,beta,Occipital,absolute,flagged rows removed,11,-7341140.843218848,-214825.68449784908,13084899.140395623
+Math,Control,Activity1,beta,Parietal,absolute,flagged rows removed,8,-1420383.4662014581,-625582.6062034264,1769141.0249696788
+Math,Control,Activity1,beta,Temporal,absolute,flagged rows removed,8,-11094374.43711865,-8435425.878743907,11736288.446918122
+Math,Control,Activity1,delta,Central,absolute,flagged rows removed,5,-79918.25925763746,-1255.8482145235866,172049.48166365677
+Math,Control,Activity1,delta,Frontal,absolute,flagged rows removed,5,-93111.48691930763,-1353.565439340523,200427.16359229828
+Math,Control,Activity1,delta,Occipital,absolute,flagged rows removed,11,-164183861.29763195,-123098421.69448295,211615389.06731936
+Math,Control,Activity1,delta,Parietal,absolute,flagged rows removed,8,-18818695.395731494,-8129027.827088977,25084925.543080688
+Math,Control,Activity1,delta,Temporal,absolute,flagged rows removed,8,-145133580.43644053,-88871023.23210922,155178455.3261805
+Math,Control,Activity1,gamma,Central,absolute,flagged rows removed,6,-1895.127639767551,-4.505704856131959,4902.734612724976
+Math,Control,Activity1,gamma,Frontal,absolute,flagged rows removed,7,-8597.850285407752,-5.255520943286024,18035.895352352243
+Math,Control,Activity1,gamma,Occipital,absolute,flagged rows removed,12,-1236995.7445287376,30786.487310375367,4296988.214419111
+Math,Control,Activity1,gamma,Parietal,absolute,flagged rows removed,8,-326707.5800137099,-147442.95328346064,398085.5040465952
+Math,Control,Activity1,gamma,Temporal,absolute,flagged rows removed,8,-3231721.1504317513,-2307568.445046016,3432595.305565865
+Math,Control,Activity1,theta,Central,absolute,flagged rows removed,6,-6470.072640258001,-76.1353260207405,26273.676931730144
+Math,Control,Activity1,theta,Frontal,absolute,flagged rows removed,6,-7115.727055175732,-86.87104631583344,32243.92417831883
+Math,Control,Activity1,theta,Occipital,absolute,flagged rows removed,11,-18779178.862335414,-6563000.272124313,26061144.830623772
+Math,Control,Activity1,theta,Parietal,absolute,flagged rows removed,7,-1975023.7201455662,-804730.4479362445,2734783.570318732
+Math,Control,Activity1,theta,Temporal,absolute,flagged rows removed,8,-21471303.634817462,-17393572.73926781,22634477.61676967
+Math,Control,Activity2,alpha,Central,absolute,flagged rows removed,5,1176.6771685069884,76.63472629456977,1849.2449889712684
+Math,Control,Activity2,alpha,Frontal,absolute,flagged rows removed,5,1379.6277357655183,141.2326354692824,2055.273912629475
+Math,Control,Activity2,alpha,Occipital,absolute,flagged rows removed,8,-1631383.8884858037,-235626.3516905166,5685246.519449949
+Math,Control,Activity2,alpha,Parietal,absolute,flagged rows removed,6,-226110.0022263401,-2487.5776131782036,400852.7819942481
+Math,Control,Activity2,alpha,Temporal,absolute,flagged rows removed,9,-1396714.6241151164,7284.144592325011,3832812.7320677117
+Math,Control,Activity2,beta,Central,absolute,flagged rows removed,5,984.3294637575103,148.394694856542,1397.4944750522154
+Math,Control,Activity2,beta,Frontal,absolute,flagged rows removed,5,1144.8324460617393,157.36952408973303,1578.6516447339482
+Math,Control,Activity2,beta,Occipital,absolute,flagged rows removed,7,-3609427.7188861542,-17.93230225256425,6857058.205247696
+Math,Control,Activity2,beta,Parietal,absolute,flagged rows removed,6,-281346.25790027337,115.2215302845018,505768.071713807
+Math,Control,Activity2,beta,Temporal,absolute,flagged rows removed,10,-5286358.938268537,2122.1515017477295,8920418.755485134
+Math,Control,Activity2,delta,Central,absolute,flagged rows removed,6,27861.434110956267,885.739330801806,101456.47818691896
+Math,Control,Activity2,delta,Frontal,absolute,flagged rows removed,5,62402.684211266824,8965.432193345767,97411.1077220099
+Math,Control,Activity2,delta,Occipital,absolute,flagged rows removed,7,-241341.40617902152,-184.63979591985174,49236331.28719249
+Math,Control,Activity2,delta,Parietal,absolute,flagged rows removed,7,-9993302.489497466,9060.434890525908,20614640.596091907
+Math,Control,Activity2,delta,Temporal,absolute,flagged rows removed,10,-31073275.087492906,69894.75990930267,68932202.67143121
+Math,Control,Activity2,gamma,Central,absolute,flagged rows removed,5,290.40315238637936,31.719332962435267,427.34821141133114
+Math,Control,Activity2,gamma,Frontal,absolute,flagged rows removed,5,337.68412139481126,35.21546483704131,481.20625164405175
+Math,Control,Activity2,gamma,Occipital,absolute,flagged rows removed,7,-709667.0307561513,-3.6795880062544137,2027631.377482095
+Math,Control,Activity2,gamma,Parietal,absolute,flagged rows removed,7,-254815.7260978972,-3842.938538872814,457714.3202143858
+Math,Control,Activity2,gamma,Temporal,absolute,flagged rows removed,9,-827201.7713666563,1692.434764742151,1683433.9127874388
+Math,Control,Activity2,theta,Central,absolute,flagged rows removed,5,2367.931683339647,234.44723573909266,3629.851381499717
+Math,Control,Activity2,theta,Frontal,absolute,flagged rows removed,5,2783.1490156710156,253.4236923189328,4070.431580955737
+Math,Control,Activity2,theta,Occipital,absolute,flagged rows removed,8,-3424912.763676869,-1132728.7498275428,12532295.346774442
+Math,Control,Activity2,theta,Parietal,absolute,flagged rows removed,6,-469514.5407582684,782.1482812889716,833951.5967298102
+Math,Control,Activity2,theta,Temporal,absolute,flagged rows removed,9,-3300135.3240367803,14341.358294644393,8075933.391427238
+Math,Control,Baseline,alpha,Central,absolute,flagged rows removed,6,33.28465084660413,13.754271413362513,65.13305732561841
+Math,Control,Baseline,alpha,Frontal,absolute,flagged rows removed,6,39.19634627545336,44.10097230779115,35.79701174198727
+Math,Control,Baseline,alpha,Occipital,absolute,flagged rows removed,6,437758.1594480847,49.73553283096433,1071260.8370159664
+Math,Control,Baseline,alpha,Parietal,absolute,flagged rows removed,7,-117672.69795268525,-0.9039992702073434,220013.02567059058
+Math,Control,Baseline,alpha,Temporal,absolute,flagged rows removed,5,-17923.30997731892,-1.4760642918032425,40782.769296131715
+Math,Control,Baseline,beta,Central,absolute,flagged rows removed,6,85.69478457445285,18.002603254944546,125.84945659054894
+Math,Control,Baseline,beta,Frontal,absolute,flagged rows removed,6,52.32429970738604,29.475867094728322,82.31538182846877
+Math,Control,Baseline,beta,Occipital,absolute,flagged rows removed,5,751.7823900848491,-2.949024283270054,1954.4182716397697
+Math,Control,Baseline,beta,Parietal,absolute,flagged rows removed,7,-121413.49096966442,11.616199704523751,200266.53534173378
+Math,Control,Baseline,beta,Temporal,absolute,flagged rows removed,5,-19995.54860122943,0.47770475643181065,44618.37611866703
+Math,Control,Baseline,delta,Central,absolute,flagged rows removed,5,956.9796904605358,1070.97210050849,1176.9155502573499
+Math,Control,Baseline,delta,Frontal,absolute,flagged rows removed,6,5948.0392036227095,1517.2796619891915,8578.052306376274
+Math,Control,Baseline,delta,Occipital,absolute,flagged rows removed,5,23021.467265206127,6585.676086408439,41467.6230205245
+Math,Control,Baseline,delta,Parietal,absolute,flagged rows removed,5,-3127543.8751668194,-1944077.7918635658,4457412.9833895145
+Math,Control,Baseline,delta,Temporal,absolute,flagged rows removed,5,-401839.757051631,4746.473344444763,1058194.7552722415
+Math,Control,Baseline,gamma,Central,absolute,flagged rows removed,5,8.092143456718572,0.5343914868002688,17.24874151728702
+Math,Control,Baseline,gamma,Frontal,absolute,flagged rows removed,5,10.061769901408846,0.009579960702696066,19.491337064554894
+Math,Control,Baseline,gamma,Occipital,absolute,flagged rows removed,5,385.21594842528486,305.73938510729397,833.0579905278812
+Math,Control,Baseline,gamma,Parietal,absolute,flagged rows removed,7,-34754.35132906621,-36.58305925691761,52551.18527992037
+Math,Control,Baseline,gamma,Temporal,absolute,flagged rows removed,5,-11285.553897334205,0.16800077525356905,25359.497222458573
+Math,Control,Baseline,theta,Central,absolute,flagged rows removed,7,-1612.1021312600074,65.29053189727082,4432.087078701598
+Math,Control,Baseline,theta,Frontal,absolute,flagged rows removed,7,-1483.6846896153843,62.06646647639735,4148.976897800231
+Math,Control,Baseline,theta,Occipital,absolute,flagged rows removed,5,490.2009889942204,-8.670698868218489,953.7079450875326
+Math,Control,Baseline,theta,Parietal,absolute,flagged rows removed,6,-258603.26991219667,-34096.08453721581,464240.7011342854
+Math,Control,Baseline,theta,Temporal,absolute,flagged rows removed,5,-13074.96529300464,132.396106624055,37092.622093066784
+Math,Experiment,Activity1,alpha,Central,absolute,flagged rows removed,9,-3015.8565196073123,-27.49101418117509,6520.008282595887
+Math,Experiment,Activity1,alpha,Frontal,absolute,flagged rows removed,9,-5090.611653044933,-35.418624474687704,11998.694567759312
+Math,Experiment,Activity1,alpha,Occipital,absolute,flagged rows removed,9,-2226491.815531599,-778711.2363748017,4438859.145628781
+Math,Experiment,Activity1,alpha,Parietal,absolute,flagged rows removed,12,-488061.826808428,-2659.7936916982258,1166510.9119347134
+Math,Experiment,Activity1,alpha,Temporal,absolute,flagged rows removed,10,93494.4770930326,-1430.0277564752037,450919.08949701715
+Math,Experiment,Activity1,beta,Central,absolute,flagged rows removed,10,-11835.111434983217,-2305.0774488508323,22215.233886532973
+Math,Experiment,Activity1,beta,Frontal,absolute,flagged rows removed,10,-12678.749589815516,-2461.88174960035,21163.573356572124
+Math,Experiment,Activity1,beta,Occipital,absolute,flagged rows removed,8,-3279876.0660990896,-3690992.331230732,5199877.539014552
+Math,Experiment,Activity1,beta,Parietal,absolute,flagged rows removed,12,-570010.3259759141,-96893.84813163309,1267713.5994884751
+Math,Experiment,Activity1,beta,Temporal,absolute,flagged rows removed,10,17141.759797072467,-28487.78948711564,453464.76341767685
+Math,Experiment,Activity1,delta,Central,absolute,flagged rows removed,10,22376.39883527431,5356.412811050642,219690.78557545197
+Math,Experiment,Activity1,delta,Frontal,absolute,flagged rows removed,9,-29303.115957059865,812.6609979339803,122430.21458173978
+Math,Experiment,Activity1,delta,Occipital,absolute,flagged rows removed,9,-35250118.39591339,-23055980.909958158,42111291.642675914
+Math,Experiment,Activity1,delta,Parietal,absolute,flagged rows removed,11,-4726511.997555938,-72118.61373171333,16674423.164404232
+Math,Experiment,Activity1,delta,Temporal,absolute,flagged rows removed,8,4384881.981922178,882043.1375263886,8431260.049197698
+Math,Experiment,Activity1,gamma,Central,absolute,flagged rows removed,11,-9494.885334041692,-1107.966816721778,16957.245105220147
+Math,Experiment,Activity1,gamma,Frontal,absolute,flagged rows removed,11,-9875.382226737715,-1455.276195135378,16650.65425586168
+Math,Experiment,Activity1,gamma,Occipital,absolute,flagged rows removed,8,-986890.2214188086,-852296.0931471359,1565760.745080481
+Math,Experiment,Activity1,gamma,Parietal,absolute,flagged rows removed,12,-303849.4845946741,-22805.16065077757,534420.1180028241
+Math,Experiment,Activity1,gamma,Temporal,absolute,flagged rows removed,8,4248.7684634100115,-20012.153058116208,128294.2651215145
+Math,Experiment,Activity1,theta,Central,absolute,flagged rows removed,9,-5168.569013476597,-75.67826294629594,12528.11562885267
+Math,Experiment,Activity1,theta,Frontal,absolute,flagged rows removed,10,-17598.63253470269,-226.91793223112205,33365.424791747384
+Math,Experiment,Activity1,theta,Occipital,absolute,flagged rows removed,10,-2869622.6399904657,-1627991.868309677,10424792.659308223
+Math,Experiment,Activity1,theta,Parietal,absolute,flagged rows removed,12,-1698229.4770938212,-174807.96621117103,3539937.011827657
+Math,Experiment,Activity1,theta,Temporal,absolute,flagged rows removed,9,363061.34454930865,136.01514442877928,847957.0323883318
+Math,Experiment,Activity2,alpha,Central,absolute,flagged rows removed,7,6713.8316704237295,1320.5852158363682,20282.03200546478
+Math,Experiment,Activity2,alpha,Frontal,absolute,flagged rows removed,7,4947.576294119783,1488.7119359792393,26493.489471165904
+Math,Experiment,Activity2,alpha,Occipital,absolute,flagged rows removed,12,-22362866.86847708,-14799020.021344712,26018090.422584455
+Math,Experiment,Activity2,alpha,Parietal,absolute,flagged rows removed,10,-19517.97492551365,757044.2743517633,4996703.421859834
+Math,Experiment,Activity2,alpha,Temporal,absolute,flagged rows removed,9,1319063.3315668292,796647.5228781663,2477813.2664956306
+Math,Experiment,Activity2,beta,Central,absolute,flagged rows removed,9,-31007.236039069838,490.10443483525887,69980.1227507417
+Math,Experiment,Activity2,beta,Frontal,absolute,flagged rows removed,9,-37435.4675442159,510.63708654424454,77789.56905571034
+Math,Experiment,Activity2,beta,Occipital,absolute,flagged rows removed,12,-36262220.218982495,-19581274.267980874,44894232.33500644
+Math,Experiment,Activity2,beta,Parietal,absolute,flagged rows removed,12,-770577.4172397469,126353.00644820515,6962889.217778836
+Math,Experiment,Activity2,beta,Temporal,absolute,flagged rows removed,9,847762.049713667,-23878.69726130536,2381849.542865227
+Math,Experiment,Activity2,delta,Central,absolute,flagged rows removed,6,9506.334258846347,25659.054938933004,404727.98718605994
+Math,Experiment,Activity2,delta,Frontal,absolute,flagged rows removed,9,-794360.2136094413,9127.37597618045,1818222.7705083024
+Math,Experiment,Activity2,delta,Occipital,absolute,flagged rows removed,13,-334707887.9205579,-218143587.63773236,371249531.26352745
+Math,Experiment,Activity2,delta,Parietal,absolute,flagged rows removed,8,-3677092.778822411,12700251.333065145,87206866.44021958
+Math,Experiment,Activity2,delta,Temporal,absolute,flagged rows removed,7,6912634.675823278,5614663.746268007,16312188.187273243
+Math,Experiment,Activity2,gamma,Central,absolute,flagged rows removed,11,-32569.31995107088,-8997.386548351471,55300.73230019216
+Math,Experiment,Activity2,gamma,Frontal,absolute,flagged rows removed,11,-34653.62140582386,-9785.022202826989,57768.90536438159
+Math,Experiment,Activity2,gamma,Occipital,absolute,flagged rows removed,11,-9032537.949087387,-4613795.786331532,12339897.104935024
+Math,Experiment,Activity2,gamma,Parietal,absolute,flagged rows removed,13,-706341.1587747644,-46279.05908166765,2159473.810674681
+Math,Experiment,Activity2,gamma,Temporal,absolute,flagged rows removed,7,-56745.44718399243,-123009.06912460827,343320.3246877542
+Math,Experiment,Activity2,theta,Central,absolute,flagged rows removed,7,5328.338570329652,4161.690797575852,77425.22601084571
+Math,Experiment,Activity2,theta,Frontal,absolute,flagged rows removed,8,-57036.75176286075,2568.6302663763518,171603.79397179125
+Math,Experiment,Activity2,theta,Occipital,absolute,flagged rows removed,12,-47885443.62728789,-27242463.51260659,53888166.88684134
+Math,Experiment,Activity2,theta,Parietal,absolute,flagged rows removed,8,2822.9763689290266,1634001.9912448367,8069947.091890881
+Math,Experiment,Activity2,theta,Temporal,absolute,flagged rows removed,8,917031.6935137052,862472.2830193336,2907931.780845923
+Math,Experiment,Baseline,alpha,Central,absolute,flagged rows removed,9,-125.46969953979922,-1.7740258667483175,318.7210466973594
+Math,Experiment,Baseline,alpha,Frontal,absolute,flagged rows removed,9,-150.75924464672534,-36.32388618411075,276.3649128881954
+Math,Experiment,Baseline,alpha,Occipital,absolute,flagged rows removed,10,-5494444.853713595,-2106450.5515924036,8120412.296794705
+Math,Experiment,Baseline,alpha,Parietal,absolute,flagged rows removed,6,-7082.218790163716,-69.07936853406548,17016.742353240865
+Math,Experiment,Baseline,alpha,Temporal,absolute,flagged rows removed,7,-409.66847807994975,8.128184420265153,887.4465877003986
+Math,Experiment,Baseline,beta,Central,absolute,flagged rows removed,8,-40.49216020633261,2.355755011911956,114.51928733664141
+Math,Experiment,Baseline,beta,Frontal,absolute,flagged rows removed,8,-82.70278490714341,-15.516838383720566,152.44589014555427
+Math,Experiment,Baseline,beta,Occipital,absolute,flagged rows removed,9,-5800150.265665434,-834110.0942095872,10489931.195556225
+Math,Experiment,Baseline,beta,Parietal,absolute,flagged rows removed,6,-44379.99053476196,-74.39061657020255,108345.8983941126
+Math,Experiment,Baseline,beta,Temporal,absolute,flagged rows removed,8,-34759.082556205496,-95.48165521634775,78678.42941758977
+Math,Experiment,Baseline,delta,Central,absolute,flagged rows removed,8,-157.7299641737207,144.44161637255002,1563.3057610071687
+Math,Experiment,Baseline,delta,Frontal,absolute,flagged rows removed,10,4718.270675994683,-261.18878495663813,18260.101045810137
+Math,Experiment,Baseline,delta,Occipital,absolute,flagged rows removed,12,-81616672.69802184,-29508929.42622009,141013876.0541124
+Math,Experiment,Baseline,delta,Parietal,absolute,flagged rows removed,6,1787.5500433300692,759.7766313625616,11415.067171999863
+Math,Experiment,Baseline,delta,Temporal,absolute,flagged rows removed,7,9897.683776425622,555.181242829303,25731.526448082783
+Math,Experiment,Baseline,gamma,Central,absolute,flagged rows removed,8,-18.310101927307723,-2.758602313930997,54.16829690694697
+Math,Experiment,Baseline,gamma,Frontal,absolute,flagged rows removed,9,-499.7461094094067,-7.039251435541437,1409.0170438745356
+Math,Experiment,Baseline,gamma,Occipital,absolute,flagged rows removed,9,-2373657.9989470514,-215777.31074844612,4183235.2156774173
+Math,Experiment,Baseline,gamma,Parietal,absolute,flagged rows removed,6,-19851.27616018469,-28.760941375617,48505.87517761953
+Math,Experiment,Baseline,gamma,Temporal,absolute,flagged rows removed,7,-1290.0200547327247,-0.3892187758043688,2998.0076283771273
+Math,Experiment,Baseline,theta,Central,absolute,flagged rows removed,9,-95.26182651976873,6.745076104321807,263.50448948601536
+Math,Experiment,Baseline,theta,Frontal,absolute,flagged rows removed,9,-91.1326423650615,1.5710036541240164,419.37137074550816
+Math,Experiment,Baseline,theta,Occipital,absolute,flagged rows removed,12,-15264710.220821073,-5480833.413689959,24583196.89285574
+Math,Experiment,Baseline,theta,Parietal,absolute,flagged rows removed,6,-5430.707012589727,-114.66745670629228,12715.062923946076
+Math,Experiment,Baseline,theta,Temporal,absolute,flagged rows removed,7,-107.89802176153846,70.79634948920568,1752.8382881336086
+Reading,Control,Activity,alpha,Central,absolute,flagged rows removed,6,-113145.98725657388,-92255.77464767756,120607.89585051413
+Reading,Control,Activity,alpha,Frontal,absolute,flagged rows removed,6,-123181.4481152,-105963.32064971518,132827.08955911864
+Reading,Control,Activity,alpha,Occipital,absolute,flagged rows removed,8,-5713992.185716734,169744.29028769908,13486014.94778201
+Reading,Control,Activity,alpha,Parietal,absolute,flagged rows removed,7,9028278.401035273,4966240.58115084,12366131.918955911
+Reading,Control,Activity,alpha,Temporal,absolute,flagged rows removed,5,-7706544.604262322,-3930821.7591630965,12462689.235585775
+Reading,Control,Activity,beta,Central,absolute,flagged rows removed,6,-120447.96732269893,-74180.66620572787,137282.05248484912
+Reading,Control,Activity,beta,Frontal,absolute,flagged rows removed,6,-130496.38647455703,-83907.47203644237,156432.18207659433
+Reading,Control,Activity,beta,Occipital,absolute,flagged rows removed,10,-2827028.0829359894,853811.2883303126,15399034.930836836
+Reading,Control,Activity,beta,Parietal,absolute,flagged rows removed,6,5009813.455976312,2792149.508389958,9235657.311023785
+Reading,Control,Activity,beta,Temporal,absolute,flagged rows removed,5,-5265033.2386627225,-3452988.9529395457,7386943.910466371
+Reading,Control,Activity,delta,Central,absolute,flagged rows removed,6,-1112681.4189034726,-354355.72867637477,1471372.0592868577
+Reading,Control,Activity,delta,Frontal,absolute,flagged rows removed,6,-1190104.6161912445,-400722.4197029352,1555611.8717809326
+Reading,Control,Activity,delta,Occipital,absolute,flagged rows removed,6,-73646521.98728079,-5591075.431199871,166578051.1079802
+Reading,Control,Activity,delta,Parietal,absolute,flagged rows removed,7,99082366.4504726,97841618.91804063,117461997.08050863
+Reading,Control,Activity,delta,Temporal,absolute,flagged rows removed,5,-62759407.12257806,-48597582.24439635,77764652.61055113
+Reading,Control,Activity,gamma,Central,absolute,flagged rows removed,6,-32240.20889779039,-18193.84565721672,37567.46636090726
+Reading,Control,Activity,gamma,Frontal,absolute,flagged rows removed,6,-33813.091771028085,-15971.670849534754,44334.64174789117
+Reading,Control,Activity,gamma,Occipital,absolute,flagged rows removed,10,-197274.40424406732,747405.0987473202,3965906.27932958
+Reading,Control,Activity,gamma,Parietal,absolute,flagged rows removed,6,1099766.2155251086,683263.8665706856,1797002.6419924546
+Reading,Control,Activity,gamma,Temporal,absolute,flagged rows removed,5,-1134919.8001562562,-764002.3536725654,1525730.3707067887
+Reading,Control,Activity,theta,Central,absolute,flagged rows removed,6,-204049.54533949806,-117595.81647689844,235101.70054186758
+Reading,Control,Activity,theta,Frontal,absolute,flagged rows removed,6,-221071.6132433772,-134772.67004706129,253803.9495491457
+Reading,Control,Activity,theta,Occipital,absolute,flagged rows removed,8,-20201226.946705174,-6945560.995728333,33837596.17383506
+Reading,Control,Activity,theta,Parietal,absolute,flagged rows removed,7,17368896.79354408,8207458.818361587,22953263.134682316
+Reading,Control,Activity,theta,Temporal,absolute,flagged rows removed,5,-17476835.789823778,-9586474.754411463,26510296.886631716
+Reading,Control,Baseline,alpha,Central,absolute,flagged rows removed,5,3123.1414574803657,27.701834635505364,7080.279793304565
+Reading,Control,Baseline,alpha,Frontal,absolute,flagged rows removed,5,3983.1793638008567,11.443054690391296,9113.604580395548
+Reading,Control,Baseline,alpha,Occipital,absolute,flagged rows removed,6,-1085055.2672598818,-130.59341204629447,1982633.9547522378
+Reading,Control,Baseline,alpha,Parietal,absolute,flagged rows removed,4,128426.8648759597,34866.151053440015,250618.66557773596
+Reading,Control,Baseline,alpha,Temporal,absolute,flagged rows removed,4,-133106.5760991664,-1611.4931813847384,469551.7077626892
+Reading,Control,Baseline,beta,Central,absolute,flagged rows removed,5,3878.9228625456153,15.386995796908817,8808.858141600027
+Reading,Control,Baseline,beta,Frontal,absolute,flagged rows removed,4,-111.87792050199619,-68.14987431904473,191.78464682149448
+Reading,Control,Baseline,beta,Occipital,absolute,flagged rows removed,5,-345714.3837260859,762.9837121612013,1065269.0683102284
+Reading,Control,Baseline,beta,Parietal,absolute,flagged rows removed,4,131588.92121826138,45387.42107582533,227197.83732909552
+Reading,Control,Baseline,beta,Temporal,absolute,flagged rows removed,6,-1109097.7834343037,-3638.4095207623673,2255145.6722480673
+Reading,Control,Baseline,delta,Central,absolute,flagged rows removed,6,86369.30504769097,1224.5956517241837,149791.49315406888
+Reading,Control,Baseline,delta,Frontal,absolute,flagged rows removed,6,109260.81285837769,4398.8930477318045,191374.70699712296
+Reading,Control,Baseline,delta,Occipital,absolute,flagged rows removed,6,-6832828.874430929,-367.7255976094084,11990646.401165722
+Reading,Control,Baseline,delta,Parietal,absolute,flagged rows removed,4,5675010.392795825,4546.375308493603,12203071.695902538
+Reading,Control,Baseline,delta,Temporal,absolute,flagged rows removed,6,-993217.3891391339,-4750.867692415788,17467141.018482976
+Reading,Control,Baseline,gamma,Central,absolute,flagged rows removed,4,-12.242161480325828,-11.63025527851029,50.125256570155884
+Reading,Control,Baseline,gamma,Frontal,absolute,flagged rows removed,4,-22.330228669144617,-9.230272936025084,82.33907325634108
+Reading,Control,Baseline,gamma,Occipital,absolute,flagged rows removed,5,-37248.62730793583,409.0590239815433,264753.7309598423
+Reading,Control,Baseline,gamma,Parietal,absolute,flagged rows removed,4,46987.0951254369,25119.110855320607,67597.19835372861
+Reading,Control,Baseline,gamma,Temporal,absolute,flagged rows removed,6,-255196.4998958377,-1863.8999591813467,505458.25030904997
+Reading,Control,Baseline,theta,Central,absolute,flagged rows removed,6,12618.640201368811,55.120058176800356,19882.187104663153
+Reading,Control,Baseline,theta,Frontal,absolute,flagged rows removed,6,16425.50155083305,78.51132154575045,25942.417276130534
+Reading,Control,Baseline,theta,Occipital,absolute,flagged rows removed,6,-1430369.4915874302,-215.2199705482401,2831061.173762022
+Reading,Control,Baseline,theta,Parietal,absolute,flagged rows removed,4,307307.2913063154,33978.94182350145,630298.345106589
+Reading,Control,Baseline,theta,Temporal,absolute,flagged rows removed,5,133741.34830324395,-347.8161735121739,686440.0371757625
+Reading,Experiment,Activity,alpha,Central,absolute,flagged rows removed,7,-627.6745248617881,-128.94663356929038,1055.5679652516155
+Reading,Experiment,Activity,alpha,Frontal,absolute,flagged rows removed,7,-815.2233776892435,-149.14000263390733,1303.6455056293835
+Reading,Experiment,Activity,alpha,Occipital,absolute,flagged rows removed,8,-8440266.21083117,-4974750.587712027,10865355.553026818
+Reading,Experiment,Activity,alpha,Parietal,absolute,flagged rows removed,9,5446465.271092923,3634586.31891862,5758837.2708251905
+Reading,Experiment,Activity,alpha,Temporal,absolute,flagged rows removed,8,-13440.376871845889,-18495.824234461747,1496278.4162333012
+Reading,Experiment,Activity,beta,Central,absolute,flagged rows removed,7,-295.96753931521033,0.16202520194331171,706.4738249768955
+Reading,Experiment,Activity,beta,Frontal,absolute,flagged rows removed,7,-407.4546307248007,6.20713777403634,869.7272847568744
+Reading,Experiment,Activity,beta,Occipital,absolute,flagged rows removed,9,-8772014.343867648,-6177815.06726968,10246677.079307701
+Reading,Experiment,Activity,beta,Parietal,absolute,flagged rows removed,9,6530507.8603208,3933380.3367450465,6667935.679028635
+Reading,Experiment,Activity,beta,Temporal,absolute,flagged rows removed,7,-602166.9415920755,-93647.43410299529,1367052.4810527419
+Reading,Experiment,Activity,delta,Central,absolute,flagged rows removed,9,-2309.626707297573,1087.6682919493537,7288.668427668081
+Reading,Experiment,Activity,delta,Frontal,absolute,flagged rows removed,8,-4454.352420671683,-1161.8232117848383,9533.191606029512
+Reading,Experiment,Activity,delta,Occipital,absolute,flagged rows removed,6,-55358325.26941516,-62520278.141600475,42215221.22039569
+Reading,Experiment,Activity,delta,Parietal,absolute,flagged rows removed,9,52207375.2564925,24412225.026476976,69058859.85029738
+Reading,Experiment,Activity,delta,Temporal,absolute,flagged rows removed,8,20598532.164518196,11598360.591825005,28158240.314845458
+Reading,Experiment,Activity,gamma,Central,absolute,flagged rows removed,7,-136.4894633167407,0.4459140729438289,359.9761365746061
+Reading,Experiment,Activity,gamma,Frontal,absolute,flagged rows removed,7,-156.27053777223455,4.398654830063148,409.3006364616305
+Reading,Experiment,Activity,gamma,Occipital,absolute,flagged rows removed,9,-3104612.6211982225,-1881864.2136195963,3529278.081318487
+Reading,Experiment,Activity,gamma,Parietal,absolute,flagged rows removed,8,1671656.235793977,692527.819572089,2053310.018568549
+Reading,Experiment,Activity,gamma,Temporal,absolute,flagged rows removed,8,-250001.75926910416,-43927.80001646817,826110.0203507808
+Reading,Experiment,Activity,theta,Central,absolute,flagged rows removed,6,-1213.1431613229688,-398.4481977189453,1662.9882155863352
+Reading,Experiment,Activity,theta,Frontal,absolute,flagged rows removed,8,-1574.4923387151618,-444.4674417982668,2393.179730120674
+Reading,Experiment,Activity,theta,Occipital,absolute,flagged rows removed,9,-28511555.56156306,-11287302.403391315,37620860.17015896
+Reading,Experiment,Activity,theta,Parietal,absolute,flagged rows removed,9,11939744.450120734,9409755.536869347,13792149.435659612
+Reading,Experiment,Activity,theta,Temporal,absolute,flagged rows removed,8,196782.1316917888,-17564.813476712654,3472474.6877768394
+Reading,Experiment,Baseline,alpha,Central,absolute,flagged rows removed,6,935.675086361017,63.931429533973144,1748.5102962585336
+Reading,Experiment,Baseline,alpha,Frontal,absolute,flagged rows removed,5,20.395357444703848,13.847687961954248,49.395430937623885
+Reading,Experiment,Baseline,alpha,Occipital,absolute,flagged rows removed,5,-249802.5072295636,-125.47331193546181,435177.3119456955
+Reading,Experiment,Baseline,alpha,Parietal,absolute,flagged rows removed,7,2378385.9808651605,1630602.4006804265,2233070.0072159274
+Reading,Experiment,Baseline,alpha,Temporal,absolute,flagged rows removed,8,7998.545741419832,-13.70569276092319,42584.18380120573
+Reading,Experiment,Baseline,beta,Central,absolute,flagged rows removed,5,206.23244168437878,6.494535235690741,449.73757961092446
+Reading,Experiment,Baseline,beta,Frontal,absolute,flagged rows removed,5,4.270835583637707,3.664153865596404,42.480334201056685
+Reading,Experiment,Baseline,beta,Occipital,absolute,flagged rows removed,10,-1452274.3959819928,3945.62186701032,5427569.726541978
+Reading,Experiment,Baseline,beta,Parietal,absolute,flagged rows removed,7,3148022.8668667083,1556774.196792086,3122348.09526573
+Reading,Experiment,Baseline,beta,Temporal,absolute,flagged rows removed,8,42704.6472136941,-25.949584611045182,138142.88682099467
+Reading,Experiment,Baseline,delta,Central,absolute,flagged rows removed,6,3810.0408181268617,1021.5767963971055,6403.399431362918
+Reading,Experiment,Baseline,delta,Frontal,absolute,flagged rows removed,9,9409.446914555214,378.2269136631944,23760.007829291557
+Reading,Experiment,Baseline,delta,Occipital,absolute,flagged rows removed,7,-5999162.53024895,3654.2114076554644,13785013.073398402
+Reading,Experiment,Baseline,delta,Parietal,absolute,flagged rows removed,9,51816424.42597963,34239688.25170867,49213325.74644746
+Reading,Experiment,Baseline,delta,Temporal,absolute,flagged rows removed,7,-117700.54737415342,746.1522713842239,328569.9580072503
+Reading,Experiment,Baseline,gamma,Central,absolute,flagged rows removed,4,91.84438275451471,13.560311315291377,172.78206180076103
+Reading,Experiment,Baseline,gamma,Frontal,absolute,flagged rows removed,5,-16.458772861641584,4.691259231989896,49.82876742438156
+Reading,Experiment,Baseline,gamma,Occipital,absolute,flagged rows removed,8,-192193.9223441889,1744.0586596575681,909909.5179896886
+Reading,Experiment,Baseline,gamma,Parietal,absolute,flagged rows removed,8,1991594.1703569507,878094.257014231,2476836.778402336
+Reading,Experiment,Baseline,gamma,Temporal,absolute,flagged rows removed,8,21940.663001207868,-4511.115899767663,97085.34115389637
+Reading,Experiment,Baseline,theta,Central,absolute,flagged rows removed,7,692.6302547790104,155.38864995024423,1277.747862207342
+Reading,Experiment,Baseline,theta,Frontal,absolute,flagged rows removed,5,68.23507592844797,45.38164731978019,169.68594529728117
+Reading,Experiment,Baseline,theta,Occipital,absolute,flagged rows removed,5,-210034.52303571193,-489.04228048950085,420222.71819623676
+Reading,Experiment,Baseline,theta,Parietal,absolute,flagged rows removed,7,4989905.745318161,2847613.9814361283,5218448.680605177
+Reading,Experiment,Baseline,theta,Temporal,absolute,flagged rows removed,7,-9872.489241209585,-513.2128641373566,21039.522333659028
+Math,Control,Activity1,alpha,Central,log_absolute,flagged rows removed,6,-0.306449188820324,-0.8258761228504102,3.031434305093002
+Math,Control,Activity1,alpha,Frontal,log_absolute,flagged rows removed,6,-0.29720225157953206,-0.7696505373722847,3.091370892715061
+Math,Control,Activity1,alpha,Occipital,log_absolute,flagged rows removed,9,-3.9637301793371926,-2.1266542565573063,5.745025900278619
+Math,Control,Activity1,alpha,Parietal,log_absolute,flagged rows removed,7,-4.143861563419711,-3.878626578868044,5.172298895794627
+Math,Control,Activity1,alpha,Temporal,log_absolute,flagged rows removed,8,-6.787535746346296,-6.769046092961905,5.260198196483155
+Math,Control,Activity1,beta,Central,log_absolute,flagged rows removed,6,-0.4979626052925479,-0.6762677032879741,2.841411138784942
+Math,Control,Activity1,beta,Frontal,log_absolute,flagged rows removed,7,-1.0168986468245038,-1.1557548179197106,3.115163342270653
+Math,Control,Activity1,beta,Occipital,log_absolute,flagged rows removed,11,-1.531200957184248,-0.785145190889336,7.379800734602591
+Math,Control,Activity1,beta,Parietal,log_absolute,flagged rows removed,8,-3.6529306936311166,-3.064240399624291,4.86878933865028
+Math,Control,Activity1,beta,Temporal,log_absolute,flagged rows removed,8,-6.614047005292932,-6.830526664993366,5.391901017243355
+Math,Control,Activity1,delta,Central,log_absolute,flagged rows removed,5,-0.7527363051561975,-1.6822037488105863,3.197166258662028
+Math,Control,Activity1,delta,Frontal,log_absolute,flagged rows removed,5,-0.5430416192310112,-1.1653595238539944,3.1049999812663374
+Math,Control,Activity1,delta,Occipital,log_absolute,flagged rows removed,11,-2.350780065513822,-2.288220508277618,7.593910013623187
+Math,Control,Activity1,delta,Parietal,log_absolute,flagged rows removed,8,-3.6194634106651,-2.7896167003571133,5.582229478961179
+Math,Control,Activity1,delta,Temporal,log_absolute,flagged rows removed,8,-5.968831942582748,-6.074760447478651,5.129488285327229
+Math,Control,Activity1,gamma,Central,log_absolute,flagged rows removed,6,-0.7284120541730447,-0.4053332910950805,2.5375725997164347
+Math,Control,Activity1,gamma,Frontal,log_absolute,flagged rows removed,7,-1.1686538789561696,-0.459241373678021,2.785030776539022
+Math,Control,Activity1,gamma,Occipital,log_absolute,flagged rows removed,12,-1.0652117458060413,0.26105180305390896,6.858939502124994
+Math,Control,Activity1,gamma,Parietal,log_absolute,flagged rows removed,8,-3.5727552047267963,-3.3151524092620144,4.496930384186426
+Math,Control,Activity1,gamma,Temporal,log_absolute,flagged rows removed,8,-6.644271779798668,-6.628676572463325,5.240170481148321
+Math,Control,Activity1,theta,Central,log_absolute,flagged rows removed,6,-0.03387468386897977,-0.6546942306079758,3.285541810072101
+Math,Control,Activity1,theta,Frontal,log_absolute,flagged rows removed,6,0.040350228778968766,-0.5583808056767593,3.348050084002477
+Math,Control,Activity1,theta,Occipital,log_absolute,flagged rows removed,11,-2.101821208858512,-2.2938514790253404,7.7783464502551505
+Math,Control,Activity1,theta,Parietal,log_absolute,flagged rows removed,7,-4.056609513784719,-3.345263276872492,5.624512882454972
+Math,Control,Activity1,theta,Temporal,log_absolute,flagged rows removed,8,-6.687877052390518,-6.765046331438084,5.075133283472412
+Math,Control,Activity2,alpha,Central,log_absolute,flagged rows removed,5,1.5605814717464312,0.530231638593619,2.183503325456831
+Math,Control,Activity2,alpha,Frontal,log_absolute,flagged rows removed,5,2.0057156374979845,1.4840629636208647,2.1183673365132902
+Math,Control,Activity2,alpha,Occipital,log_absolute,flagged rows removed,8,-0.11126350567347876,-0.8839730988675534,6.700373340204092
+Math,Control,Activity2,alpha,Parietal,log_absolute,flagged rows removed,6,1.0150355263886326,0.36804921117747336,3.6960414057196593
+Math,Control,Activity2,alpha,Temporal,log_absolute,flagged rows removed,9,0.18907728614051125,3.9749754284251697,7.26919492328969
+Math,Control,Activity2,beta,Central,log_absolute,flagged rows removed,5,1.536003377047629,1.4056981018161152,1.444521074132162
+Math,Control,Activity2,beta,Frontal,log_absolute,flagged rows removed,5,1.7118740411682438,1.643352689679102,1.3283977208412943
+Math,Control,Activity2,beta,Occipital,log_absolute,flagged rows removed,7,-1.3683126159298051,-2.0326712705953254,5.343106588745382
+Math,Control,Activity2,beta,Parietal,log_absolute,flagged rows removed,6,1.0704078607475673,0.916701918354256,3.1971985095392776
+Math,Control,Activity2,beta,Temporal,log_absolute,flagged rows removed,10,-1.188576438257195,1.5304009786204418,8.063033012616138
+Math,Control,Activity2,delta,Central,log_absolute,flagged rows removed,6,1.2881526800769851,0.8300647174474882,3.433442190800179
+Math,Control,Activity2,delta,Frontal,log_absolute,flagged rows removed,5,2.569297274133606,1.8211149108966875,2.3999851714198503
+Math,Control,Activity2,delta,Occipital,log_absolute,flagged rows removed,7,0.19269645398191823,-1.0769946424033314,6.967158730671941
+Math,Control,Activity2,delta,Parietal,log_absolute,flagged rows removed,7,1.2708228703538018,0.6670886916018457,3.9939168331064874
+Math,Control,Activity2,delta,Temporal,log_absolute,flagged rows removed,10,-0.38241107821087894,3.3818264501130173,7.628712105386498
+Math,Control,Activity2,gamma,Central,log_absolute,flagged rows removed,5,1.5816737729319397,1.1062537981731415,1.9916198066185462
+Math,Control,Activity2,gamma,Frontal,log_absolute,flagged rows removed,5,1.7513067214412303,1.307618138182041,1.9314040266999197
+Math,Control,Activity2,gamma,Occipital,log_absolute,flagged rows removed,7,-1.0407737064572293,-1.0728528036201241,5.219305632705217
+Math,Control,Activity2,gamma,Parietal,log_absolute,flagged rows removed,7,-0.22422191279500683,-0.6988017773531183,4.571557180227644
+Math,Control,Activity2,gamma,Temporal,log_absolute,flagged rows removed,9,0.36013145708019145,3.794089675443777,7.5268075730612
+Math,Control,Activity2,theta,Central,log_absolute,flagged rows removed,5,1.4101854393591429,1.3630557060364872,2.4826900664931624
+Math,Control,Activity2,theta,Frontal,log_absolute,flagged rows removed,5,1.630182990082848,1.5266050993889841,2.3050987122994733
+Math,Control,Activity2,theta,Occipital,log_absolute,flagged rows removed,8,-0.26992637513582673,-1.1078738085255972,6.812469304404435
+Math,Control,Activity2,theta,Parietal,log_absolute,flagged rows removed,6,1.30389351993775,0.822145009952064,3.7047146501036448
+Math,Control,Activity2,theta,Temporal,log_absolute,flagged rows removed,9,0.09460735503895003,4.299572468555162,6.96913106758663
+Math,Control,Baseline,alpha,Central,log_absolute,flagged rows removed,6,0.8940070373199105,0.4412114895543191,1.8989929320105807
+Math,Control,Baseline,alpha,Frontal,log_absolute,flagged rows removed,6,1.2084811720612338,0.9379924368438963,1.6712929430342776
+Math,Control,Baseline,alpha,Occipital,log_absolute,flagged rows removed,6,0.9659123976205067,0.5280656330460256,2.1603868529748147
+Math,Control,Baseline,alpha,Parietal,log_absolute,flagged rows removed,7,-1.9722114801454376,-0.016542546460755148,5.768078259294713
+Math,Control,Baseline,alpha,Temporal,log_absolute,flagged rows removed,5,-0.2249484526643414,-0.0628050997394407,3.7715663199414338
+Math,Control,Baseline,beta,Central,log_absolute,flagged rows removed,6,1.057160927995943,0.4389864444349181,1.6954507940337753
+Math,Control,Baseline,beta,Frontal,log_absolute,flagged rows removed,6,0.9982860557975183,0.4471565505440598,1.6929863665718994
+Math,Control,Baseline,beta,Occipital,log_absolute,flagged rows removed,5,0.29852666102143166,-0.18956640362256838,1.4932324639974015
+Math,Control,Baseline,beta,Parietal,log_absolute,flagged rows removed,7,-1.8308088500678956,0.08440195840569675,5.3901493607072615
+Math,Control,Baseline,beta,Temporal,log_absolute,flagged rows removed,5,-0.571105859449841,0.04691338281438373,3.446359275748133
+Math,Control,Baseline,delta,Central,log_absolute,flagged rows removed,5,1.760588004315111,1.807776910138153,2.6296058978278842
+Math,Control,Baseline,delta,Frontal,log_absolute,flagged rows removed,6,2.437403573820707,2.4678190138188687,2.15995790260181
+Math,Control,Baseline,delta,Occipital,log_absolute,flagged rows removed,5,0.43113092690205057,1.492616773855092,2.7453499100702876
+Math,Control,Baseline,delta,Parietal,log_absolute,flagged rows removed,5,-4.937188806790543,-5.590192243057283,6.255801119542373
+Math,Control,Baseline,delta,Temporal,log_absolute,flagged rows removed,5,0.33696675289853195,0.6706040372476352,4.143531766204025
+Math,Control,Baseline,gamma,Central,log_absolute,flagged rows removed,5,0.6529372219722626,0.07397145157950824,1.357780505130341
+Math,Control,Baseline,gamma,Frontal,log_absolute,flagged rows removed,5,0.6885433934217484,0.004667638187166756,1.4085203134093294
+Math,Control,Baseline,gamma,Occipital,log_absolute,flagged rows removed,5,0.824797016571513,1.8089433979167877,1.9863972081834158
+Math,Control,Baseline,gamma,Parietal,log_absolute,flagged rows removed,7,-1.5519558554416335,-0.6120542149673072,5.521076346750767
+Math,Control,Baseline,gamma,Temporal,log_absolute,flagged rows removed,5,-0.6899927061228059,0.0475144683873856,3.8067885925525062
+Math,Control,Baseline,theta,Central,log_absolute,flagged rows removed,7,0.36723090362982563,0.5520408442081317,2.6287601336433153
+Math,Control,Baseline,theta,Frontal,log_absolute,flagged rows removed,7,0.6551495747590331,0.4444514712061203,2.5806869664883085
+Math,Control,Baseline,theta,Occipital,log_absolute,flagged rows removed,5,-0.13546442717138954,-0.05777127550686867,1.354917276417786
+Math,Control,Baseline,theta,Parietal,log_absolute,flagged rows removed,6,-2.4966843152749036,-2.336861581888875,6.3208865439660995
+Math,Control,Baseline,theta,Temporal,log_absolute,flagged rows removed,5,-0.12450037822500892,0.22561272177709135,3.575327325894047
+Math,Experiment,Activity1,alpha,Central,log_absolute,flagged rows removed,9,-0.9640610408431944,-2.9241898431199997,3.8151959312580104
+Math,Experiment,Activity1,alpha,Frontal,log_absolute,flagged rows removed,9,-1.002751177058369,-2.5900010921960384,3.623108372000044
+Math,Experiment,Activity1,alpha,Occipital,log_absolute,flagged rows removed,9,-3.3083373096761743,-2.0641147520485887,5.48377833998956
+Math,Experiment,Activity1,alpha,Parietal,log_absolute,flagged rows removed,12,-1.235764437760497,-0.4258010463523423,4.454657779617065
+Math,Experiment,Activity1,alpha,Temporal,log_absolute,flagged rows removed,10,-1.40163133849939,-0.9287506085312205,4.92470293841205
+Math,Experiment,Activity1,beta,Central,log_absolute,flagged rows removed,10,-1.8885647742761567,-3.2406019730809064,3.3769609309275532
+Math,Experiment,Activity1,beta,Frontal,log_absolute,flagged rows removed,10,-1.9460395228197949,-3.4057995997033736,3.203428282778567
+Math,Experiment,Activity1,beta,Occipital,log_absolute,flagged rows removed,8,-4.10154096479966,-4.256765574499551,5.883370977289689
+Math,Experiment,Activity1,beta,Parietal,log_absolute,flagged rows removed,12,-1.7280272341985619,-1.1736079448578076,4.212107394303043
+Math,Experiment,Activity1,beta,Temporal,log_absolute,flagged rows removed,10,-1.7730165521958738,-2.2099681988989257,4.602822480390873
+Math,Experiment,Activity1,delta,Central,log_absolute,flagged rows removed,10,0.17555688594957736,1.773116673669759,4.183559975449611
+Math,Experiment,Activity1,delta,Frontal,log_absolute,flagged rows removed,9,0.10722926089034265,2.0904330593558234,3.908316091650979
+Math,Experiment,Activity1,delta,Occipital,log_absolute,flagged rows removed,9,-3.5028541951940033,-2.4138008269937465,5.007092517142126
+Math,Experiment,Activity1,delta,Parietal,log_absolute,flagged rows removed,11,-1.2923126484214285,-0.9427916860750933,4.681099839926208
+Math,Experiment,Activity1,delta,Temporal,log_absolute,flagged rows removed,8,1.3885605267225527,1.6671108009984943,3.7061974731390075
+Math,Experiment,Activity1,gamma,Central,log_absolute,flagged rows removed,11,-2.733703654682499,-3.278953596297751,3.080824481788245
+Math,Experiment,Activity1,gamma,Frontal,log_absolute,flagged rows removed,11,-2.8550276596516895,-3.3819683360324353,2.9225437897117144
+Math,Experiment,Activity1,gamma,Occipital,log_absolute,flagged rows removed,8,-4.180253020243908,-4.6636680226394995,6.066303518517432
+Math,Experiment,Activity1,gamma,Parietal,log_absolute,flagged rows removed,12,-2.0791549347057585,-1.7142871392533356,3.893410492827473
+Math,Experiment,Activity1,gamma,Temporal,log_absolute,flagged rows removed,8,-2.3742478158253046,-4.438959925345278,4.753522503160552
+Math,Experiment,Activity1,theta,Central,log_absolute,flagged rows removed,9,-0.7823365734056583,-2.4611045673119696,4.151999156958196
+Math,Experiment,Activity1,theta,Frontal,log_absolute,flagged rows removed,10,-1.0520949514026807,-2.029692765168787,3.787582470690355
+Math,Experiment,Activity1,theta,Occipital,log_absolute,flagged rows removed,10,-2.7496617767249356,-2.140760376802563,5.314315475429165
+Math,Experiment,Activity1,theta,Parietal,log_absolute,flagged rows removed,12,-1.2650085471846124,-1.2581108096115026,4.35335806253314
+Math,Experiment,Activity1,theta,Temporal,log_absolute,flagged rows removed,9,-0.18144068420802414,1.5401013342887016,4.404341708487453
+Math,Experiment,Activity2,alpha,Central,log_absolute,flagged rows removed,7,0.08133364965067282,1.6593100365035323,3.368333052877759
+Math,Experiment,Activity2,alpha,Frontal,log_absolute,flagged rows removed,7,0.013260092666930592,1.8032610477592375,3.5029501712204714
+Math,Experiment,Activity2,alpha,Occipital,log_absolute,flagged rows removed,12,-4.5701437659425785,-4.824567260570202,5.692779414666479
+Math,Experiment,Activity2,alpha,Parietal,log_absolute,flagged rows removed,10,-0.5148769873039796,1.224164989672035,7.827540164887498
+Math,Experiment,Activity2,alpha,Temporal,log_absolute,flagged rows removed,9,2.43393957332514,1.153697548502926,6.963878032958397
+Math,Experiment,Activity2,beta,Central,log_absolute,flagged rows removed,9,-2.2562524388799794,0.3566023095271227,4.95592050023819
+Math,Experiment,Activity2,beta,Frontal,log_absolute,flagged rows removed,9,-2.2906413133254406,0.33267528506567867,4.99056619564704
+Math,Experiment,Activity2,beta,Occipital,log_absolute,flagged rows removed,12,-4.695898469400515,-4.620472892895001,5.741269988694394
+Math,Experiment,Activity2,beta,Parietal,log_absolute,flagged rows removed,12,-1.5243259488325895,0.6400961872355024,7.725747890213992
+Math,Experiment,Activity2,beta,Temporal,log_absolute,flagged rows removed,9,0.3853835896878715,-1.0749517025874589,6.355620245592834
+Math,Experiment,Activity2,delta,Central,log_absolute,flagged rows removed,6,0.021522505058319947,1.2166329080854306,3.611891917152301
+Math,Experiment,Activity2,delta,Frontal,log_absolute,flagged rows removed,9,-2.213309897491674,0.2842959685440487,6.1993172068701305
+Math,Experiment,Activity2,delta,Occipital,log_absolute,flagged rows removed,13,-4.2870327048434715,-4.018148782495604,5.488588851231966
+Math,Experiment,Activity2,delta,Parietal,log_absolute,flagged rows removed,8,-1.2011088913544936,1.3171578682955154,7.628289882555915
+Math,Experiment,Activity2,delta,Temporal,log_absolute,flagged rows removed,7,3.779837812099901,2.066490648836373,5.481411726708518
+Math,Experiment,Activity2,gamma,Central,log_absolute,flagged rows removed,11,-3.7970369900459784,-4.381979486323928,5.310348139071488
+Math,Experiment,Activity2,gamma,Frontal,log_absolute,flagged rows removed,11,-3.8100181154699855,-4.539349704563096,5.33203476175639
+Math,Experiment,Activity2,gamma,Occipital,log_absolute,flagged rows removed,11,-4.518197945223189,-3.9306187383559656,5.757992785297788
+Math,Experiment,Activity2,gamma,Parietal,log_absolute,flagged rows removed,13,-2.4438328038588017,-0.8744909681238262,7.642399425729349
+Math,Experiment,Activity2,gamma,Temporal,log_absolute,flagged rows removed,7,-2.3589995926753295,-1.5090627603200684,3.84868718220291
+Math,Experiment,Activity2,theta,Central,log_absolute,flagged rows removed,7,0.14381069949306255,1.8658718566158363,3.5233095617427415
+Math,Experiment,Activity2,theta,Frontal,log_absolute,flagged rows removed,8,-1.3887746723674466,1.064817420184165,5.489644810061172
+Math,Experiment,Activity2,theta,Occipital,log_absolute,flagged rows removed,12,-4.660460484502889,-4.981262325743521,5.701186676256071
+Math,Experiment,Activity2,theta,Parietal,log_absolute,flagged rows removed,8,-1.5596014621087149,1.4489906992643595,7.3272287197080255
+Math,Experiment,Activity2,theta,Temporal,log_absolute,flagged rows removed,8,1.8020559543455534,1.0593091380888922,6.992938097412493
+Math,Experiment,Baseline,alpha,Central,log_absolute,flagged rows removed,9,-0.4492907929308646,-0.03175528622402979,2.6157646940009407
+Math,Experiment,Baseline,alpha,Frontal,log_absolute,flagged rows removed,9,-0.7829850947272947,-1.2546173593715295,2.469300474022707
+Math,Experiment,Baseline,alpha,Occipital,log_absolute,flagged rows removed,10,-2.875769391603619,-1.9828534334679475,4.766393045997418
+Math,Experiment,Baseline,alpha,Parietal,log_absolute,flagged rows removed,6,-1.610385657379065,-1.442259470320553,2.334337218334068
+Math,Experiment,Baseline,alpha,Temporal,log_absolute,flagged rows removed,7,-0.07785926683058302,0.29273491229433546,2.7641659418502007
+Math,Experiment,Baseline,beta,Central,log_absolute,flagged rows removed,8,-0.47328144685934476,0.10447465263286859,1.959579199153345
+Math,Experiment,Baseline,beta,Frontal,log_absolute,flagged rows removed,8,-0.7799156799204311,-1.0968677501491757,2.0455157753337705
+Math,Experiment,Baseline,beta,Occipital,log_absolute,flagged rows removed,9,-3.0203241861804946,-2.3782267880047665,4.759534211590154
+Math,Experiment,Baseline,beta,Parietal,log_absolute,flagged rows removed,6,-1.8590092850302282,-1.6795610098511433,2.451003782581703
+Math,Experiment,Baseline,beta,Temporal,log_absolute,flagged rows removed,8,-1.2718857831167358,-1.0218011127305215,2.716205426725034
+Math,Experiment,Baseline,delta,Central,log_absolute,flagged rows removed,8,-0.24850076123349246,0.995341801110905,2.6822515120203305
+Math,Experiment,Baseline,delta,Frontal,log_absolute,flagged rows removed,10,0.28734739891350086,0.1368624962449827,2.614409278842683
+Math,Experiment,Baseline,delta,Occipital,log_absolute,flagged rows removed,12,-0.799335939122442,-2.3115160988399746,7.0701313996001325
+Math,Experiment,Baseline,delta,Parietal,log_absolute,flagged rows removed,6,-0.81133842280089,-0.6158492847225041,2.554033503135387
+Math,Experiment,Baseline,delta,Temporal,log_absolute,flagged rows removed,7,0.9671740525258482,1.856887523767913,3.308736872094036
+Math,Experiment,Baseline,gamma,Central,log_absolute,flagged rows removed,8,-0.7501242741074814,-0.5096138494229764,1.576815997562175
+Math,Experiment,Baseline,gamma,Frontal,log_absolute,flagged rows removed,9,-1.2585070333517991,-1.5258455398423778,1.840988002555599
+Math,Experiment,Baseline,gamma,Occipital,log_absolute,flagged rows removed,9,-3.242051656852526,-2.1243343555743994,4.7348387875292
+Math,Experiment,Baseline,gamma,Parietal,log_absolute,flagged rows removed,6,-2.1111102598515203,-1.651099609668278,2.7089139304724
+Math,Experiment,Baseline,gamma,Temporal,log_absolute,flagged rows removed,7,-0.8589822959513217,-0.04823786689066356,1.9858723804751377
+Math,Experiment,Baseline,theta,Central,log_absolute,flagged rows removed,9,-0.26709277168599116,0.23926148961811888,2.399221999219449
+Math,Experiment,Baseline,theta,Frontal,log_absolute,flagged rows removed,9,-0.45614382153815547,0.06644923059119368,2.429259678902733
+Math,Experiment,Baseline,theta,Occipital,log_absolute,flagged rows removed,12,-1.9143734742704328,-2.388650684959007,5.593594820684808
+Math,Experiment,Baseline,theta,Parietal,log_absolute,flagged rows removed,6,-1.3076994791002903,-1.362095416259962,2.10066871786319
+Math,Experiment,Baseline,theta,Temporal,log_absolute,flagged rows removed,7,0.27124504322299364,0.9902879354107896,2.8651331734509107
+Reading,Control,Activity,alpha,Central,log_absolute,flagged rows removed,6,-4.365732607461036,-4.11732375037088,4.675981191913748
+Reading,Control,Activity,alpha,Frontal,log_absolute,flagged rows removed,6,-3.846464802959647,-4.0547629403567065,4.974808062172573
+Reading,Control,Activity,alpha,Occipital,log_absolute,flagged rows removed,8,-1.299769211971638,0.061500523945568375,6.47577030148922
+Reading,Control,Activity,alpha,Parietal,log_absolute,flagged rows removed,7,2.7858002150060934,2.3512811193843657,2.9354547320151476
+Reading,Control,Activity,alpha,Temporal,log_absolute,flagged rows removed,5,-8.427138833866747,-8.34629742361707,4.4379988102696295
+Reading,Control,Activity,beta,Central,log_absolute,flagged rows removed,6,-4.4194776057532055,-4.175954323855559,4.11796094217232
+Reading,Control,Activity,beta,Frontal,log_absolute,flagged rows removed,6,-3.8708675820594713,-3.8869988772508677,4.381232837253083
+Reading,Control,Activity,beta,Occipital,log_absolute,flagged rows removed,10,-0.704788104901555,0.3833311696268664,5.693217258152927
+Reading,Control,Activity,beta,Parietal,log_absolute,flagged rows removed,6,2.1691459562174735,1.7744779325467732,3.0019848115202157
+Reading,Control,Activity,beta,Temporal,log_absolute,flagged rows removed,5,-8.205774979152228,-7.929908739267084,3.9432176880351797
+Reading,Control,Activity,delta,Central,log_absolute,flagged rows removed,6,-3.19475763977282,-2.8503824211114557,6.023195727677204
+Reading,Control,Activity,delta,Frontal,log_absolute,flagged rows removed,6,-2.839380617653521,-1.9062539621955703,6.065970905153877
+Reading,Control,Activity,delta,Occipital,log_absolute,flagged rows removed,6,0.48516973573359046,-0.3829090182801629,3.8649929748323935
+Reading,Control,Activity,delta,Parietal,log_absolute,flagged rows removed,7,2.76075219854999,2.426032876514693,3.7191117899288986
+Reading,Control,Activity,delta,Temporal,log_absolute,flagged rows removed,5,-7.81086983751035,-5.658783250673881,5.815044013829751
+Reading,Control,Activity,gamma,Central,log_absolute,flagged rows removed,6,-4.523348124808599,-4.94866893567146,3.8332945945083647
+Reading,Control,Activity,gamma,Frontal,log_absolute,flagged rows removed,6,-3.89953572094916,-3.920061333475726,3.9447492809256985
+Reading,Control,Activity,gamma,Occipital,log_absolute,flagged rows removed,10,-0.772027727736113,0.5662856494565451,5.8838150296087575
+Reading,Control,Activity,gamma,Parietal,log_absolute,flagged rows removed,6,2.088056187451367,1.8387065973618828,2.6835860446918294
+Reading,Control,Activity,gamma,Temporal,log_absolute,flagged rows removed,5,-8.09381257572466,-7.903180020473475,3.091385705788048
+Reading,Control,Activity,theta,Central,log_absolute,flagged rows removed,6,-4.14940922562933,-3.677555187222729,5.09772027047185
+Reading,Control,Activity,theta,Frontal,log_absolute,flagged rows removed,6,-3.652231666809557,-3.5263311392765004,5.409169352357532
+Reading,Control,Activity,theta,Occipital,log_absolute,flagged rows removed,8,-1.712872814415327,-0.9107588825992528,6.297118852780173
+Reading,Control,Activity,theta,Parietal,log_absolute,flagged rows removed,7,2.5842107703095576,2.476438446627542,3.131455128111536
+Reading,Control,Activity,theta,Temporal,log_absolute,flagged rows removed,5,-8.586635177030484,-8.37136936772436,4.9529997815265965
+Reading,Control,Baseline,alpha,Central,log_absolute,flagged rows removed,5,0.5228124361621559,3.1039284353720813,4.686725378656637
+Reading,Control,Baseline,alpha,Frontal,log_absolute,flagged rows removed,5,0.259148894097755,1.9325307528670526,4.989048205036503
+Reading,Control,Baseline,alpha,Occipital,log_absolute,flagged rows removed,6,0.4632070995113911,0.07155852731361456,7.124460663782411
+Reading,Control,Baseline,alpha,Parietal,log_absolute,flagged rows removed,4,2.536452289577149,2.5961568884219584,6.272020883488353
+Reading,Control,Baseline,alpha,Temporal,log_absolute,flagged rows removed,4,-1.949182068276001,-4.343314636424761,5.846756588575277
+Reading,Control,Baseline,beta,Central,log_absolute,flagged rows removed,5,0.49069239647281276,1.8423986120226965,4.1675095463672385
+Reading,Control,Baseline,beta,Frontal,log_absolute,flagged rows removed,4,-0.9248459022843958,-0.9649958171438895,3.9902854288432876
+Reading,Control,Baseline,beta,Occipital,log_absolute,flagged rows removed,5,2.521790077307418,4.325170583723097,6.423590945804842
+Reading,Control,Baseline,beta,Parietal,log_absolute,flagged rows removed,4,2.3573930002164225,2.8957223604612166,6.469418619838357
+Reading,Control,Baseline,beta,Temporal,log_absolute,flagged rows removed,6,-3.4758866705202927,-4.41195417502533,6.359783802747012
+Reading,Control,Baseline,delta,Central,log_absolute,flagged rows removed,6,0.8491602487503833,3.060502658649808,5.438041476801808
+Reading,Control,Baseline,delta,Frontal,log_absolute,flagged rows removed,6,1.4251606290673662,4.396529495179373,6.080760539319017
+Reading,Control,Baseline,delta,Occipital,log_absolute,flagged rows removed,6,0.14958503943739862,-1.0277157030824462,7.126887437618418
+Reading,Control,Baseline,delta,Parietal,log_absolute,flagged rows removed,4,1.9943593567404494,1.1140473093379537,6.214430671288361
+Reading,Control,Baseline,delta,Temporal,log_absolute,flagged rows removed,6,-1.8884401482812982,-3.051254900459622,6.572413671654817
+Reading,Control,Baseline,gamma,Central,log_absolute,flagged rows removed,4,-0.17508401429922482,-0.42115232350558074,3.0421187455684535
+Reading,Control,Baseline,gamma,Frontal,log_absolute,flagged rows removed,4,-0.0895277084825602,-0.004613255453709719,3.64814786358973
+Reading,Control,Baseline,gamma,Occipital,log_absolute,flagged rows removed,5,2.769833947600022,4.960159931164088,6.859663687364662
+Reading,Control,Baseline,gamma,Parietal,log_absolute,flagged rows removed,4,2.7638040921391394,3.3907891660454164,6.30753966052464
+Reading,Control,Baseline,gamma,Temporal,log_absolute,flagged rows removed,6,-3.0478758517515208,-3.6847962470759654,6.043456951700414
+Reading,Control,Baseline,theta,Central,log_absolute,flagged rows removed,6,1.2098989133300015,3.645489683499483,5.096545027203379
+Reading,Control,Baseline,theta,Frontal,log_absolute,flagged rows removed,6,1.1795106848239036,3.661589171202823,5.494377708282991
+Reading,Control,Baseline,theta,Occipital,log_absolute,flagged rows removed,6,0.4705024391402383,0.06264462853976216,6.900701140895717
+Reading,Control,Baseline,theta,Parietal,log_absolute,flagged rows removed,4,2.3887290738734848,2.180485513397615,6.058036609677171
+Reading,Control,Baseline,theta,Temporal,log_absolute,flagged rows removed,5,-1.1619853845062533,-2.4764263637764365,5.2660303186924855
+Reading,Experiment,Activity,alpha,Central,log_absolute,flagged rows removed,7,-1.2548303395604699,-1.5591563632099494,2.7852645025503975
+Reading,Experiment,Activity,alpha,Frontal,log_absolute,flagged rows removed,7,-1.2605066818011346,-1.7016063244908075,2.897565480786894
+Reading,Experiment,Activity,alpha,Occipital,log_absolute,flagged rows removed,8,-7.954301257827579,-8.562690334250306,5.019947468946083
+Reading,Experiment,Activity,alpha,Parietal,log_absolute,flagged rows removed,9,4.489917628242322,4.581703448553846,3.7899344312398773
+Reading,Experiment,Activity,alpha,Temporal,log_absolute,flagged rows removed,8,-1.4421456887962807,-1.7755447822914658,6.650712841822378
+Reading,Experiment,Activity,beta,Central,log_absolute,flagged rows removed,7,-0.023794470058776378,0.006562189550468833,3.208059936279451
+Reading,Experiment,Activity,beta,Frontal,log_absolute,flagged rows removed,7,-0.10139130397428918,0.17205631365446328,3.236998143311562
+Reading,Experiment,Activity,beta,Occipital,log_absolute,flagged rows removed,9,-6.15523341804957,-5.611721281983403,7.095537908525251
+Reading,Experiment,Activity,beta,Parietal,log_absolute,flagged rows removed,9,3.9803825634950596,3.4834338735046604,3.9491915449294557
+Reading,Experiment,Activity,beta,Temporal,log_absolute,flagged rows removed,7,-3.2284377715502512,-1.9792484012321605,5.469646411927417
+Reading,Experiment,Activity,delta,Central,log_absolute,flagged rows removed,9,1.1397228874735938,0.1510995440683054,3.1231043358075508
+Reading,Experiment,Activity,delta,Frontal,log_absolute,flagged rows removed,8,0.8116618041623049,-0.17892817241401993,3.106332450545835
+Reading,Experiment,Activity,delta,Occipital,log_absolute,flagged rows removed,6,-6.768668503403208,-7.898651889391033,3.5075742355860227
+Reading,Experiment,Activity,delta,Parietal,log_absolute,flagged rows removed,9,3.713460110913262,5.962356348160096,5.46237257761574
+Reading,Experiment,Activity,delta,Temporal,log_absolute,flagged rows removed,8,2.2432485167798566,1.2455096485524768,6.46257404510187
+Reading,Experiment,Activity,gamma,Central,log_absolute,flagged rows removed,7,-0.06324301434013797,0.027589409326432612,2.890905805259577
+Reading,Experiment,Activity,gamma,Frontal,log_absolute,flagged rows removed,7,-0.059625210341093214,0.16853151216726658,2.8363321954457166
+Reading,Experiment,Activity,gamma,Occipital,log_absolute,flagged rows removed,9,-6.164827661207694,-5.796341490067901,7.240966032544317
+Reading,Experiment,Activity,gamma,Parietal,log_absolute,flagged rows removed,8,3.831620134243524,4.046353500641989,4.3249547823354355
+Reading,Experiment,Activity,gamma,Temporal,log_absolute,flagged rows removed,8,-2.348809703711463,-2.0415805503420166,5.786197492358831
+Reading,Experiment,Activity,theta,Central,log_absolute,flagged rows removed,6,-0.9301244590517364,-1.2074303994456366,2.9416579458881853
+Reading,Experiment,Activity,theta,Frontal,log_absolute,flagged rows removed,8,-0.5888229091495751,-1.0783693192407147,2.7562393883874723
+Reading,Experiment,Activity,theta,Occipital,log_absolute,flagged rows removed,9,-7.90339730453142,-9.805780744432608,4.704487165842998
+Reading,Experiment,Activity,theta,Parietal,log_absolute,flagged rows removed,9,4.923209389330989,5.3193585410085955,3.2956908164527943
+Reading,Experiment,Activity,theta,Temporal,log_absolute,flagged rows removed,8,-1.0735439428686906,-1.4159697304497119,6.696525223128635
+Reading,Experiment,Baseline,alpha,Central,log_absolute,flagged rows removed,6,3.342229872444706,2.835379863697491,3.8563495491868407
+Reading,Experiment,Baseline,alpha,Frontal,log_absolute,flagged rows removed,5,1.2348387165575896,0.7857336370302872,2.3228295502905962
+Reading,Experiment,Baseline,alpha,Occipital,log_absolute,flagged rows removed,5,0.23810336980543206,-1.9841923019459653,7.611973489704223
+Reading,Experiment,Baseline,alpha,Parietal,log_absolute,flagged rows removed,7,10.208315536256546,9.977738764942014,1.1450782750781228
+Reading,Experiment,Baseline,alpha,Temporal,log_absolute,flagged rows removed,8,-1.1159095856698613,-0.7626035510949947,3.4909712760157277
+Reading,Experiment,Baseline,beta,Central,log_absolute,flagged rows removed,5,1.5767282795077258,0.1000142212980899,2.930077360191148
+Reading,Experiment,Baseline,beta,Frontal,log_absolute,flagged rows removed,5,0.7138971806935277,0.1971255018218523,1.6928535341372344
+Reading,Experiment,Baseline,beta,Occipital,log_absolute,flagged rows removed,10,1.9589223230037642,1.6423831809929508,8.297581198577527
+Reading,Experiment,Baseline,beta,Parietal,log_absolute,flagged rows removed,7,10.057694111269013,9.527919325240362,1.2785299780219475
+Reading,Experiment,Baseline,beta,Temporal,log_absolute,flagged rows removed,8,-1.8632234630383668,-0.7129826050886137,4.230713449992173
+Reading,Experiment,Baseline,delta,Central,log_absolute,flagged rows removed,6,2.5843240445478517,2.258873284205748,2.716094839628707
+Reading,Experiment,Baseline,delta,Frontal,log_absolute,flagged rows removed,9,2.1899335924771237,1.0388404672279385,3.7467408715929214
+Reading,Experiment,Baseline,delta,Occipital,log_absolute,flagged rows removed,7,1.8059891919887703,0.6057536476513263,7.897454218250156
+Reading,Experiment,Baseline,delta,Parietal,log_absolute,flagged rows removed,9,10.085983423794628,11.34162154614069,2.29926521761954
+Reading,Experiment,Baseline,delta,Temporal,log_absolute,flagged rows removed,7,0.06737976145888291,0.6661091886436799,3.0306913197726812
+Reading,Experiment,Baseline,gamma,Central,log_absolute,flagged rows removed,4,1.7437879025351155,1.2756740574556757,2.7741423054050927
+Reading,Experiment,Baseline,gamma,Frontal,log_absolute,flagged rows removed,5,0.49714446413238383,0.4862769551012027,1.4700648452568452
+Reading,Experiment,Baseline,gamma,Occipital,log_absolute,flagged rows removed,8,1.5707968905375642,2.3757997309844145,7.981051005176029
+Reading,Experiment,Baseline,gamma,Parietal,log_absolute,flagged rows removed,8,10.0052665357093,9.478984831561153,1.6116920860100412
+Reading,Experiment,Baseline,gamma,Temporal,log_absolute,flagged rows removed,8,-1.8198986361957616,-0.7278781850933503,3.848398549151817
+Reading,Experiment,Baseline,theta,Central,log_absolute,flagged rows removed,7,2.6094178431076567,1.413475810389961,4.319765286799913
+Reading,Experiment,Baseline,theta,Frontal,log_absolute,flagged rows removed,5,1.670679694638158,0.7535189580502406,2.750577118841326
+Reading,Experiment,Baseline,theta,Occipital,log_absolute,flagged rows removed,5,0.9585030163275551,-1.7876038926573585,7.677460813743639
+Reading,Experiment,Baseline,theta,Parietal,log_absolute,flagged rows removed,7,10.097030031522715,10.354754281785217,1.522578842985737
+Reading,Experiment,Baseline,theta,Temporal,log_absolute,flagged rows removed,7,-1.0725441168635277,-1.7049208009731065,3.2971647536208106

@@ -1,0 +1,7 @@
+activity,comparison,test,n,statistic,p_value,mean_change_s,median_change_s,p_holm_adjusted
+Activity1,PRE vs POST: Mathematics Control,Wilcoxon signed-rank,16,66.0,0.93988037109375,0.19726552968749766,0.30468742499999024,0.986846923828125
+Activity1,PRE vs POST: Mathematics Experiment,Wilcoxon signed-rank,19,45.0,0.044559478759765625,-1.9925987894736952,-0.671875,0.22279739379882812
+Activity1,POST−PRE: Experiment vs Control,Mann–Whitney U,35,115.0,0.22680280554457322,,,0.9072112221782929
+Activity2,PRE vs POST: Mathematics Control,Wilcoxon signed-rank,17,55.0,0.328948974609375,-0.20978860441176544,0.296875,0.986846923828125
+Activity2,PRE vs POST: Mathematics Experiment,Wilcoxon signed-rank,19,42.0,0.03234100341796875,-1.9983552697368425,-0.9375000000000071,0.1940460205078125
+Activity2,POST−PRE: Experiment vs Control,Mann–Whitney U,36,135.5,0.41904209794616243,,,0.986846923828125

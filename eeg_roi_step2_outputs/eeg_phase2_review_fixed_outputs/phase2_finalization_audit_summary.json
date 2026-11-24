@@ -1,0 +1,18 @@
+{
+  "input_rows": 8000,
+  "participants": 63,
+  "cellwise_primary_within_tests": 500,
+  "cellwise_primary_between_tests": 250,
+  "cellwise_primary_within_holm_significant": 0,
+  "cellwise_primary_between_holm_significant": 0,
+  "condition_contrasts_within_tests": 400,
+  "condition_contrasts_between_tests": 200,
+  "condition_contrasts_within_holm_sig": 0,
+  "condition_contrasts_between_holm_sig": 0,
+  "task_contrasts_within_tests": 200,
+  "task_difference_between_tests": 100,
+  "task_contrasts_within_holm_sig": 0,
+  "task_difference_between_holm_sig": 0,
+  "pairing_method": "cellwise PRE-POST complete pairs (not global complete-case across every metric/condition)",
+  "CI_method": "t-based 95% CI for mean change; approximate Fisher-z CI for rank effect sizes. CIs not bootstrap."
+}

@@ -1,0 +1,5 @@
+group,timepoint,n_participants,mean_of_participant_medians_s,median_of_participant_medians_s,sd_between_participants_s
+Mathematics Control,POST,16,9.924072237499999,8.829101512499987,4.516873221985224
+Mathematics Control,PRE,16,9.86267091875,8.910156287500008,3.8437061276463047
+Mathematics Experiment,POST,19,9.642989280921052,9.08984372499999,2.6493664130186416
+Mathematics Experiment,PRE,19,11.63846631052632,10.396484400000006,5.836601473517251

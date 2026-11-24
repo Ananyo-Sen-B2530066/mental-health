@@ -1,0 +1,85 @@
+subject,group,reading_id,pre_question_label,selected_answer,selection_count
+sub-Rc01,Reading Control,R2,Question 1,3,1
+sub-Rc01,Reading Control,R2,Question 2,1,1
+sub-Rc01,Reading Control,R2,Question 3,2,1
+sub-Rc02,Reading Control,R3,Unavailable,1,1
+sub-Rc02,Reading Control,R3,Unavailable,2,1
+sub-Rc02,Reading Control,R3,Unavailable,3,1
+sub-Rc03,Reading Control,R3,Question 1,2,1
+sub-Rc03,Reading Control,R3,Question 2,3,1
+sub-Rc03,Reading Control,R3,Question 3,1,1
+sub-Rc04,Reading Control,R3,Question 1,2,1
+sub-Rc04,Reading Control,R3,Question 2,2,1
+sub-Rc04,Reading Control,R3,Question 3,2,1
+sub-Rc06,Reading Control,R2,Question 1,1,1
+sub-Rc06,Reading Control,R2,Question 2,3,1
+sub-Rc06,Reading Control,R2,Question 3,3,1
+sub-Rc07,Reading Control,R1,Question 1,2,1
+sub-Rc07,Reading Control,R1,Question 2,1,1
+sub-Rc07,Reading Control,R1,Question 3,2,1
+sub-Rc08,Reading Control,R1,Question 1,2,1
+sub-Rc08,Reading Control,R1,Question 2,1,1
+sub-Rc08,Reading Control,R1,Question 3,1,1
+sub-Rc10,Reading Control,R1,Question 1,2,1
+sub-Rc10,Reading Control,R1,Question 2,1,1
+sub-Rc10,Reading Control,R1,Question 3,3,1
+sub-Rc11,Reading Control,R2,Question 1,1,1
+sub-Rc11,Reading Control,R2,Question 2,1,1
+sub-Rc11,Reading Control,R2,Question 3,3,1
+sub-Rc12,Reading Control,R1,Question 1,2,1
+sub-Rc12,Reading Control,R1,Question 2,1,1
+sub-Rc12,Reading Control,R1,Question 3,1,1
+sub-Rc15,Reading Control,R1,Unavailable,1,1
+sub-Rc15,Reading Control,R1,Unavailable,2,2
+sub-Rc16,Reading Control,R3,Question 1,2,1
+sub-Rc16,Reading Control,R3,Question 2,3,1
+sub-Rc16,Reading Control,R3,Question 3,1,1
+sub-Re01,Reading Experiment,R3,Question 1,2,1
+sub-Re01,Reading Experiment,R3,Question 2,3,1
+sub-Re01,Reading Experiment,R3,Question 3,1,1
+sub-Re03,Reading Experiment,R2,Question 1,3,1
+sub-Re03,Reading Experiment,R2,Question 2,1,1
+sub-Re03,Reading Experiment,R2,Question 3,2,1
+sub-Re04,Reading Experiment,R2,Question 2,1,1
+sub-Re04,Reading Experiment,R2,Question 3,3,1
+sub-Re05,Reading Experiment,R3,Question 1,2,1
+sub-Re05,Reading Experiment,R3,Question 2,3,1
+sub-Re05,Reading Experiment,R3,Question 3,1,1
+sub-Re07,Reading Experiment,R2,Unavailable,1,1
+sub-Re07,Reading Experiment,R2,Unavailable,3,2
+sub-Re08,Reading Experiment,R1,Question 1,2,1
+sub-Re08,Reading Experiment,R1,Question 2,1,1
+sub-Re08,Reading Experiment,R1,Question 3,3,1
+sub-Re09,Reading Experiment,R2,Question 1,3,1
+sub-Re09,Reading Experiment,R2,Question 2,2,1
+sub-Re09,Reading Experiment,R2,Question 3,3,1
+sub-Re10,Reading Experiment,R3,Question 1,2,1
+sub-Re10,Reading Experiment,R3,Question 2,1,1
+sub-Re10,Reading Experiment,R3,Question 3,3,1
+sub-Re11,Reading Experiment,R3,Question 1,2,1
+sub-Re11,Reading Experiment,R3,Question 2,3,1
+sub-Re11,Reading Experiment,R3,Question 3,1,1
+sub-Re12,Reading Experiment,R1,Question 1,2,1
+sub-Re12,Reading Experiment,R1,Question 2,1,1
+sub-Re12,Reading Experiment,R1,Question 3,3,1
+sub-Re13,Reading Experiment,R1,Question 1,2,1
+sub-Re13,Reading Experiment,R1,Question 2,1,1
+sub-Re13,Reading Experiment,R1,Question 3,2,1
+sub-Re14,Reading Experiment,R1,Question 1,2,1
+sub-Re14,Reading Experiment,R1,Question 2,1,1
+sub-Re14,Reading Experiment,R1,Question 3,2,1
+sub-Re15,Reading Experiment,R1,Question 1,3,1
+sub-Re15,Reading Experiment,R1,Question 2,3,1
+sub-Re15,Reading Experiment,R1,Question 3,1,1
+sub-Re16,Reading Experiment,R1,Question 1,2,1
+sub-Re16,Reading Experiment,R1,Question 2,1,1
+sub-Re16,Reading Experiment,R1,Question 3,1,1
+sub-Re17,Reading Experiment,R1,Question 1,2,1
+sub-Re17,Reading Experiment,R1,Question 2,1,1
+sub-Re17,Reading Experiment,R1,Question 3,2,1
+sub-Re18,Reading Experiment,R3,Question 1,1,1
+sub-Re18,Reading Experiment,R3,Question 2,2,1
+sub-Re18,Reading Experiment,R3,Question 3,3,1
+sub-Re19,Reading Experiment,R2,Question 1,3,1
+sub-Re19,Reading Experiment,R2,Question 2,1,1
+sub-Re19,Reading Experiment,R2,Question 3,3,1

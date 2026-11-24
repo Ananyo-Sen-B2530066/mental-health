@@ -1,0 +1,12 @@
+item,status,evidence
+Event decoding and operation-answer pairing,COMPLETE,153 blocks; 3060 pairs
+Group identification,COMPLETE,Control and Experiment labels assigned from subject IDs
+Balanced mean PRE-POST analysis,COMPLETE,35 balanced participants
+Median PRE-POST analysis,COMPLETE,35 balanced participants
+Median-test Holm correction,COMPLETE,Three median-based primary tests adjusted
+Activity-specific comparisons,COMPLETE,6 activity-specific tests
+Outlier screening and review export,COMPLETE — MANUAL REVIEW REQUIRED,202 flagged trials exported
+Participant-level bootstrap CIs,COMPLETE,5 estimates
+Effect-size confidence intervals,COMPLETE,3 effect-size intervals
+EEG participant overlap,NOT CHECKED,Inventory unavailable
+Missing event recordings,UNRESOLVED — DATA NOT FOUND,11 missing expected recordings

@@ -1,0 +1,2 @@
+flagged_absolute_roi_records,flagged_absolute_roi_participants,top_100_trace_records,matched_trace_records,no_source_match_records,aggregation_recalculation_records,aggregation_recalculation_max_abs_difference,aggregation_recalculation_mismatches_gt_1e-6
+2580,62,100,100,0,8000,2.384185791015625e-07,0

@@ -1,0 +1,6 @@
+subject,group,session,timepoint,run,expected_path,path,file_found,alternate_filename_match
+sub-Rc05,Reading Control,ses-1,PRE,2,/Users/ananyosen/Documents/Term Project/sub-Rc05/ses-1/eeg/sub-Rc05_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Rc13,Reading Control,ses-1,PRE,2,/Users/ananyosen/Documents/Term Project/sub-Rc13/ses-1/eeg/sub-Rc13_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Rc14,Reading Control,ses-1,PRE,2,/Users/ananyosen/Documents/Term Project/sub-Rc14/ses-1/eeg/sub-Rc14_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Re02,Reading Experiment,ses-1,PRE,2,/Users/ananyosen/Documents/Term Project/sub-Re02/ses-1/eeg/sub-Re02_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Re06,Reading Experiment,ses-1,PRE,2,/Users/ananyosen/Documents/Term Project/sub-Re06/ses-1/eeg/sub-Re06_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False

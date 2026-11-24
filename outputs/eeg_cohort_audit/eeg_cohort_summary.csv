@@ -1,0 +1,5 @@
+task,group,participants_in_summary,participants_with_data,participants_marked_extracted,power_rows,missing_condition_blocks
+Math,Control,22,15,15,14400,42
+Math,Experiment,19,19,19,18240,0
+Reading,Control,16,12,12,7680,16
+Reading,Experiment,19,17,17,10880,8

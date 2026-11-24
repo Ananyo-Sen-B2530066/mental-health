@@ -1,0 +1,2 @@
+project_root,participant_folders,control_participants_found,experiment_participants_found,expected_event_files,event_files_found,event_files_missing,decoded_event_rows,operation_answer_pairs,positive_response_time_pairs,blocks_pass_qc,blocks_review,participants_with_pairs,balanced_pre_post_participants,balanced_control_participants,balanced_experiment_participants,output_directory
+/Users/ananyosen/Documents/Term Project,41,22,19,164,153,11,6274,3060,3060,153,0,41,35,16,19,/Users/ananyosen/Documents/Term Project/analysis/results/events_math_corrected

@@ -1,0 +1,4 @@
+comparison,test,n,statistic,p_value,status,p_holm_adjusted,significant_holm_0_05
+PRE vs POST: Reading Control,Wilcoxon signed-rank,12,2.0,0.00146484375,RUN,0.003021240234375,True
+PRE vs POST: Reading Experiment,Wilcoxon signed-rank,16,9.0,0.001007080078125,RUN,0.003021240234375,True
+POST−PRE change: Experiment vs Control,Mann–Whitney U,28,96.0,1.0,RUN,1.0,False

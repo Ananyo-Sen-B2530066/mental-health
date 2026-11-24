@@ -1,0 +1,10 @@
+component,status,evidence
+Reading event decoding,COMPLETE,430 decoded event rows
+Workbook occurrence mapping,PASS WITH DOCUMENTED GAP,0 count mismatches; missing subject/timepoint tag blocks reported separately
+Reading phase duration,COMPLETE,63 valid phase records
+Balanced PRE–POST duration analysis,COMPLETE,28 participants
+POST question-answer response time,COMPLETE,105 pairs
+PRE question-level response time,NOT AVAILABLE BY DESIGN,No PRE question-onset event markers
+Answer correctness,NOT AVAILABLE,Answer key / scoring source required
+Reading speed,PROVISIONAL — OCR COUNTS,61 WPM records; six passage counts require manual verification
+Missing event files,REVIEW IF ANY,5 missing

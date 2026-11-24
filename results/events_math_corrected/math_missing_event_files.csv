@@ -1,0 +1,12 @@
+subject,group,session,run,timepoint,activity,expected_path,path,file_found,alternate_filename_match
+sub-Mc01,Mathematics Control,ses-2,2,POST,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc01/ses-2/eeg/sub-Mc01_ses-2_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc01,Mathematics Control,ses-2,3,POST,Activity2,/Users/ananyosen/Documents/Term Project/sub-Mc01/ses-2/eeg/sub-Mc01_ses-2_task-SmartickDataset_run-3_events.tsv,,False,False
+sub-Mc03,Mathematics Control,ses-1,2,PRE,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc03/ses-1/eeg/sub-Mc03_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc08,Mathematics Control,ses-2,2,POST,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc08/ses-2/eeg/sub-Mc08_ses-2_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc08,Mathematics Control,ses-2,3,POST,Activity2,/Users/ananyosen/Documents/Term Project/sub-Mc08/ses-2/eeg/sub-Mc08_ses-2_task-SmartickDataset_run-3_events.tsv,,False,False
+sub-Mc14,Mathematics Control,ses-2,2,POST,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc14/ses-2/eeg/sub-Mc14_ses-2_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc14,Mathematics Control,ses-2,3,POST,Activity2,/Users/ananyosen/Documents/Term Project/sub-Mc14/ses-2/eeg/sub-Mc14_ses-2_task-SmartickDataset_run-3_events.tsv,,False,False
+sub-Mc15,Mathematics Control,ses-2,2,POST,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc15/ses-2/eeg/sub-Mc15_ses-2_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc15,Mathematics Control,ses-2,3,POST,Activity2,/Users/ananyosen/Documents/Term Project/sub-Mc15/ses-2/eeg/sub-Mc15_ses-2_task-SmartickDataset_run-3_events.tsv,,False,False
+sub-Mc22,Mathematics Control,ses-1,2,PRE,Activity1,/Users/ananyosen/Documents/Term Project/sub-Mc22/ses-1/eeg/sub-Mc22_ses-1_task-SmartickDataset_run-2_events.tsv,,False,False
+sub-Mc22,Mathematics Control,ses-1,3,PRE,Activity2,/Users/ananyosen/Documents/Term Project/sub-Mc22/ses-1/eeg/sub-Mc22_ses-1_task-SmartickDataset_run-3_events.tsv,,False,False

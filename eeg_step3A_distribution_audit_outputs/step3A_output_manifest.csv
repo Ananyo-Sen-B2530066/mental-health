@@ -1,0 +1,5 @@
+file,description
+eeg_power_distribution_summary.csv,Stratified descriptive statistics
+eeg_power_extreme_flags.csv,Observation-level IQR/MAD flags; no data removed
+eeg_power_extreme_flag_summary.csv,Flag counts per analysis cell
+plots/,Exploratory distribution plots

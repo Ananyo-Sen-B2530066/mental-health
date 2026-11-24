@@ -1,0 +1,4 @@
+comparison,n,cohens_dz_POST_minus_PRE,wilcoxon_rank_biserial,hedges_g_experiment_minus_control
+PRE–POST within Mathematics Control,16,0.08258782691274959,0.0,
+PRE–POST within Mathematics Experiment,19,-0.38666042103250586,-0.4842105263157895,
+Experiment minus Control change,35,,,-0.5163108048178406

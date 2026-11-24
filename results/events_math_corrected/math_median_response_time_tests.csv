@@ -1,0 +1,4 @@
+comparison,test,n_participants,statistic,p_value,mean_change_s,median_change_s
+Median PRE vs POST within Mathematics Control,Wilcoxon signed-rank,16,68.0,1.0,0.061401318749998435,-0.36523446250001257
+Median PRE vs POST within Mathematics Experiment,Wilcoxon signed-rank,19,38.0,0.020412445068359375,-1.9954770296052686,-0.6562500250000092
+Median POST−PRE change: Experiment vs Control,Mann–Whitney U,35,114.0,0.2143291535813715,,

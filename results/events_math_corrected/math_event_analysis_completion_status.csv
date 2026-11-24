@@ -1,0 +1,8 @@
+analysis_component,status,details
+Event decoding and pairing,PASS,153 blocks; 3060 pairs
+Expected recording coverage,REVIEW,153/164 expected event files found
+Balanced participant analysis,PASS,"35 participants: {'Mathematics Experiment': 19, 'Mathematics Control': 16}"
+Outlier assessment,COMPLETED — REVIEW FLAGS,202 trial flags; no automatic exclusions
+Median analysis,COMPLETED,35 balanced participants
+Activity-specific analysis,COMPLETED,71 participant-activity rows
+Effect sizes and CIs,COMPLETED,5 bootstrap interval estimates

@@ -1,0 +1,33 @@
+channel,roi,mapping_status,rationale
+FP1,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+FP2,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+F7,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+F3,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+FZ,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+F4,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+F8,Frontal,DRAFT_REVISED,Anterior frontal/frontal electrodes (FP and F positions).
+FC5,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+C3,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+FC1,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+FC2,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+C4,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+Cz,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+FC6,Central,DRAFT_REVISED,Central and frontocentral electrodes (C and FC positions); FC channels grouped with Central rather than Frontal.
+FT10,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+FT9,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+T7,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+TP9,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+TP10,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+T8,Temporal,DRAFT_REVISED,"Lateral and posterior-temporal electrodes (FT, T, TP positions); broad scalp ROI approximation."
+CP1,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+CP5,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+CP2,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+CP6,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+P7,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+P3,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+Pz,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+P4,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+P8,Parietal,DRAFT_REVISED,Centroparietal and parietal electrodes (CP and P positions).
+O1,Occipital,DRAFT_REVISED,Occipital electrodes (O positions).
+Oz,Occipital,DRAFT_REVISED,Occipital electrodes (O positions).
+O2,Occipital,DRAFT_REVISED,Occipital electrodes (O positions).

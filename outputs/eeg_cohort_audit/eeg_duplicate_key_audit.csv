@@ -1,0 +1,5 @@
+task,group,result_file,duplicate_key_rows,duplicate_key_definition
+Math,Control,eeg_analysis_results_math_control.csv,0,subject_id|session|run|condition|channel|band
+Math,Experiment,eeg_analysis_results_math_experiment.csv,0,subject_id|session|run|condition|channel|band
+Reading,Control,eeg_analysis_results_read_control.csv,0,subject_id|session|run|condition|channel|band
+Reading,Experiment,eeg_analysis_results_read_experiment.csv,0,subject_id|session|run|condition|channel|band

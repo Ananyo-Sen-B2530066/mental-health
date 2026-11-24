@@ -1,0 +1,3 @@
+analysis,within_tests,within_Holm_sig,between_tests,between_Holm_sig
+Primary (all observations),500,0,250,0
+Sensitivity (flagged absolute rows removed),500,0,250,1

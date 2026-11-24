@@ -1,0 +1,77 @@
+task,group,subject_id,processing_status,recordings_loaded,band_power_rows_summary,events_files_complete,reason
+Math,Control,Mc01,SKIPPED,0,0,False,ValueError: POST_Baseline: missing SET (sub-Mc01_ses-2_task-SmartickDataset_run-1_eeg.set); POST_Baseline: missing JSON (sub-Mc01_ses-2_task-SmartickDataset_run-1_eeg.json); POST_Baseline: missing channels.tsv (sub-Mc01_ses-2_task-SmartickDataset_run-1_channels.tsv); POST_Activity1: missing SET (sub-Mc01_ses-2_task-SmartickDataset_run-2_eeg.set); POST_Activity1: missing JSON (sub-Mc01_ses-2_task-SmartickDataset_run-2_eeg.json); POST_Activity1: missing channels.tsv (sub-Mc01_ses-2_task-SmartickDataset_run-2_channels.tsv); POST_Activity2: missing SET (sub-Mc01_ses-2_task-SmartickDataset_run-3_eeg.set); POST_Activity2: missing JSON (sub-Mc01_ses-2_task-SmartickDataset_run-3_eeg.json); POST_Activity2: missing channels.tsv (sub-Mc01_ses-2_task-SmartickDataset_run-3_channels.tsv)
+Math,Control,Mc02,EXTRACTED,6,960,True,
+Math,Control,Mc03,EXTRACTED,6,960,False,
+Math,Control,Mc04,EXTRACTED,6,960,True,
+Math,Control,Mc05,EXTRACTED,6,960,True,
+Math,Control,Mc06,EXTRACTED,6,960,True,
+Math,Control,Mc07,EXTRACTED,6,960,True,
+Math,Control,Mc08,SKIPPED,0,0,False,ValueError: POST_Baseline: missing SET (sub-Mc08_ses-2_task-SmartickDataset_run-1_eeg.set); POST_Baseline: missing JSON (sub-Mc08_ses-2_task-SmartickDataset_run-1_eeg.json); POST_Baseline: missing channels.tsv (sub-Mc08_ses-2_task-SmartickDataset_run-1_channels.tsv); POST_Activity1: missing SET (sub-Mc08_ses-2_task-SmartickDataset_run-2_eeg.set); POST_Activity1: missing JSON (sub-Mc08_ses-2_task-SmartickDataset_run-2_eeg.json); POST_Activity1: missing channels.tsv (sub-Mc08_ses-2_task-SmartickDataset_run-2_channels.tsv); POST_Activity2: missing SET (sub-Mc08_ses-2_task-SmartickDataset_run-3_eeg.set); POST_Activity2: missing JSON (sub-Mc08_ses-2_task-SmartickDataset_run-3_eeg.json); POST_Activity2: missing channels.tsv (sub-Mc08_ses-2_task-SmartickDataset_run-3_channels.tsv)
+Math,Control,Mc09,EXTRACTED,6,960,True,
+Math,Control,Mc10,EXTRACTED,6,960,True,
+Math,Control,Mc11,EXTRACTED,6,960,True,
+Math,Control,Mc12,EXTRACTED,6,960,True,
+Math,Control,Mc13,EXTRACTED,6,960,True,
+Math,Control,Mc14,SKIPPED,0,0,False,ValueError: POST_Activity1: missing SET (sub-Mc14_ses-2_task-SmartickDataset_run-2_eeg.set); POST_Activity1: missing JSON (sub-Mc14_ses-2_task-SmartickDataset_run-2_eeg.json); POST_Activity1: missing channels.tsv (sub-Mc14_ses-2_task-SmartickDataset_run-2_channels.tsv); POST_Activity2: missing SET (sub-Mc14_ses-2_task-SmartickDataset_run-3_eeg.set); POST_Activity2: missing JSON (sub-Mc14_ses-2_task-SmartickDataset_run-3_eeg.json); POST_Activity2: missing channels.tsv (sub-Mc14_ses-2_task-SmartickDataset_run-3_channels.tsv)
+Math,Control,Mc15,SKIPPED,0,0,False,ValueError: POST_Baseline: missing SET (sub-Mc15_ses-2_task-SmartickDataset_run-1_eeg.set); POST_Baseline: missing JSON (sub-Mc15_ses-2_task-SmartickDataset_run-1_eeg.json); POST_Baseline: missing channels.tsv (sub-Mc15_ses-2_task-SmartickDataset_run-1_channels.tsv); POST_Activity1: missing SET (sub-Mc15_ses-2_task-SmartickDataset_run-2_eeg.set); POST_Activity1: missing JSON (sub-Mc15_ses-2_task-SmartickDataset_run-2_eeg.json); POST_Activity1: missing channels.tsv (sub-Mc15_ses-2_task-SmartickDataset_run-2_channels.tsv); POST_Activity2: missing SET (sub-Mc15_ses-2_task-SmartickDataset_run-3_eeg.set); POST_Activity2: missing JSON (sub-Mc15_ses-2_task-SmartickDataset_run-3_eeg.json); POST_Activity2: missing channels.tsv (sub-Mc15_ses-2_task-SmartickDataset_run-3_channels.tsv)
+Math,Control,Mc16,EXTRACTED,6,960,True,
+Math,Control,Mc17,SKIPPED,0,0,False,ValueError: POST_Baseline: missing SET (sub-Mc17_ses-2_task-SmartickDataset_run-1_eeg.set); POST_Baseline: missing JSON (sub-Mc17_ses-2_task-SmartickDataset_run-1_eeg.json); POST_Baseline: missing channels.tsv (sub-Mc17_ses-2_task-SmartickDataset_run-1_channels.tsv)
+Math,Control,Mc18,EXTRACTED,6,960,True,
+Math,Control,Mc19,EXTRACTED,6,960,True,
+Math,Control,Mc20,EXTRACTED,6,960,True,
+Math,Control,Mc21,SKIPPED,0,0,False,ValueError: PRE_Baseline: missing JSON (sub-Mc21_ses-1_task-SmartickDataset_run-1_eeg.json)
+Math,Control,Mc22,SKIPPED,0,0,False,ValueError: PRE_Baseline: missing SET (sub-Mc22_ses-1_task-SmartickDataset_run-1_eeg.set); PRE_Baseline: missing JSON (sub-Mc22_ses-1_task-SmartickDataset_run-1_eeg.json); PRE_Baseline: missing channels.tsv (sub-Mc22_ses-1_task-SmartickDataset_run-1_channels.tsv); PRE_Activity1: missing SET (sub-Mc22_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity1: missing JSON (sub-Mc22_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity1: missing channels.tsv (sub-Mc22_ses-1_task-SmartickDataset_run-2_channels.tsv); PRE_Activity2: missing SET (sub-Mc22_ses-1_task-SmartickDataset_run-3_eeg.set); PRE_Activity2: missing JSON (sub-Mc22_ses-1_task-SmartickDataset_run-3_eeg.json); PRE_Activity2: missing channels.tsv (sub-Mc22_ses-1_task-SmartickDataset_run-3_channels.tsv)
+Math,Experiment,Me01,EXTRACTED,6,960,True,
+Math,Experiment,Me02,EXTRACTED,6,960,True,
+Math,Experiment,Me03,EXTRACTED,6,960,True,
+Math,Experiment,Me04,EXTRACTED,6,960,True,
+Math,Experiment,Me05,EXTRACTED,6,960,True,
+Math,Experiment,Me06,EXTRACTED,6,960,True,
+Math,Experiment,Me07,EXTRACTED,6,960,True,
+Math,Experiment,Me08,EXTRACTED,6,960,True,
+Math,Experiment,Me09,EXTRACTED,6,960,True,
+Math,Experiment,Me10,EXTRACTED,6,960,True,
+Math,Experiment,Me11,EXTRACTED,6,960,True,
+Math,Experiment,Me12,EXTRACTED,6,960,True,
+Math,Experiment,Me13,EXTRACTED,6,960,True,
+Math,Experiment,Me14,EXTRACTED,6,960,True,
+Math,Experiment,Me15,EXTRACTED,6,960,True,
+Math,Experiment,Me16,EXTRACTED,6,960,True,
+Math,Experiment,Me17,EXTRACTED,6,960,True,
+Math,Experiment,Me18,EXTRACTED,6,960,True,
+Math,Experiment,Me19,EXTRACTED,6,960,True,
+Reading,Control,Rc01,EXTRACTED,4,640,True,
+Reading,Control,Rc02,EXTRACTED,4,640,True,
+Reading,Control,Rc03,EXTRACTED,4,640,True,
+Reading,Control,Rc04,EXTRACTED,4,640,True,
+Reading,Control,Rc05,SKIPPED,0,0,False,ValueError: PRE_Activity: missing SET (sub-Rc05_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity: missing JSON (sub-Rc05_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity: missing channels.tsv (sub-Rc05_ses-1_task-SmartickDataset_run-2_channels.tsv)
+Reading,Control,Rc06,EXTRACTED,4,640,True,
+Reading,Control,Rc07,EXTRACTED,4,640,True,
+Reading,Control,Rc08,EXTRACTED,4,640,True,
+Reading,Control,Rc09,EXTRACTED,4,640,True,
+Reading,Control,Rc10,EXTRACTED,4,640,True,
+Reading,Control,Rc11,EXTRACTED,4,640,True,
+Reading,Control,Rc12,EXTRACTED,4,640,True,
+Reading,Control,Rc13,SKIPPED,0,0,False,ValueError: PRE_Activity: missing SET (sub-Rc13_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity: missing JSON (sub-Rc13_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity: missing channels.tsv (sub-Rc13_ses-1_task-SmartickDataset_run-2_channels.tsv)
+Reading,Control,Rc14,SKIPPED,0,0,False,ValueError: PRE_Activity: missing SET (sub-Rc14_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity: missing JSON (sub-Rc14_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity: missing channels.tsv (sub-Rc14_ses-1_task-SmartickDataset_run-2_channels.tsv)
+Reading,Control,Rc15,SKIPPED,0,0,False,RuntimeError: PRE_Baseline: SET could not be loaded (OSError: could not read bytes)
+Reading,Control,Rc16,EXTRACTED,4,640,True,
+Reading,Experiment,Re01,EXTRACTED,4,640,True,
+Reading,Experiment,Re02,SKIPPED,0,0,False,ValueError: PRE_Activity: missing SET (sub-Re02_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity: missing JSON (sub-Re02_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity: missing channels.tsv (sub-Re02_ses-1_task-SmartickDataset_run-2_channels.tsv)
+Reading,Experiment,Re03,EXTRACTED,4,640,True,
+Reading,Experiment,Re04,EXTRACTED,4,640,True,
+Reading,Experiment,Re05,EXTRACTED,4,640,True,
+Reading,Experiment,Re06,SKIPPED,0,0,False,ValueError: PRE_Activity: missing SET (sub-Re06_ses-1_task-SmartickDataset_run-2_eeg.set); PRE_Activity: missing JSON (sub-Re06_ses-1_task-SmartickDataset_run-2_eeg.json); PRE_Activity: missing channels.tsv (sub-Re06_ses-1_task-SmartickDataset_run-2_channels.tsv)
+Reading,Experiment,Re07,EXTRACTED,4,640,True,
+Reading,Experiment,Re08,EXTRACTED,4,640,True,
+Reading,Experiment,Re09,EXTRACTED,4,640,True,
+Reading,Experiment,Re10,EXTRACTED,4,640,True,
+Reading,Experiment,Re11,EXTRACTED,4,640,True,
+Reading,Experiment,Re12,EXTRACTED,4,640,True,
+Reading,Experiment,Re13,EXTRACTED,4,640,True,
+Reading,Experiment,Re14,EXTRACTED,4,640,True,
+Reading,Experiment,Re15,EXTRACTED,4,640,True,
+Reading,Experiment,Re16,EXTRACTED,4,640,True,
+Reading,Experiment,Re17,EXTRACTED,4,640,True,
+Reading,Experiment,Re18,EXTRACTED,4,640,True,
+Reading,Experiment,Re19,EXTRACTED,4,640,True,
